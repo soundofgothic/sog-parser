@@ -177,22 +177,13 @@ def main():
         for recording in recordings:
             recording["npcs"] = list(recording["npcs"])
             waves.append(recording)
-    for extra in extras.values():
+    for guild, extra in extras.items():
         for info in extra:
             info["npcs"] = list(info["npcs"])
-            waves.append(info)
-    for script, info_set in by_script.items():
-        answer_npcs = set()
-        for guild_name, wave_set in info_set['answers'].items():
-            for wave in wave_set:
-                for npc in wave["npcs"]:
-                    answer_npcs.add(npc)
-        for wave in info_set['questions']:
-            wave['target'] = {
-                "npcs": list(answer_npcs)
+            info["target"] = {
+                "guild": guild
             }
-            wave["npcs"] = list(wave["npcs"])
-            waves.append(wave)
+            waves.append(info)
 
     with open("../../results/gothic_1/guild_waves.json", 'wb') as output:
         output.write(json.dumps(waves, ensure_ascii=False, indent=2).encode('utf8'))

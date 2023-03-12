@@ -129,7 +129,6 @@ def guilds():
 def guild_constants():
     return {
         "GIL_None": 0,
-        "GIL_HUMAN": 1,
         "GIL_EBR": 1,
         "GIL_GRD": 2,
         "GIL_STT": 3,
@@ -146,7 +145,6 @@ def guild_constants():
         "GIL_DMB": 14,
         "GIL_BAB": 15,
         "GIL_SEPERATOR_HUM": 16,
-        "MAX_GUILDS": 16,
         "GIL_WARAN": 17,
         "GIL_SLF": 18,
         "GIL_GOBBO": 19,

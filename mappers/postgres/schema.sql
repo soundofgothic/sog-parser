@@ -13,6 +13,7 @@ CREATE TABLE voices (
 CREATE TABLE game_voices (
     game_id INTEGER NOT NULL,
     voice_id INTEGER NOT NULL,
+    in_game_id INTEGER NOT NULL,
     PRIMARY KEY (game_id, voice_id)
 );
 
@@ -20,7 +21,8 @@ CREATE TABLE guilds (
     id SERIAL,
     name TEXT NOT NULL,
     in_game_id TEXT NOT NULL,
-    game_id INTEGER NOT NULL,
+    in_game_alias TEXT NOT NULL,
+    game_id INTEGER NOT NULL
 );
 
 CREATE UNIQUE INDEX guilds_in_game_id ON guilds (in_game_id, game_id);
@@ -29,6 +31,7 @@ CREATE TABLE npcs (
     id SERIAL,
     name TEXT NOT NULL,
     in_game_id TEXT NOT NULL,
+    in_game_alias TEXT NOT NULL,
     game_id INTEGER NOT NULL,
     voice_id INTEGER NOT NULL,
     guild_id INTEGER NOT NULL
@@ -52,10 +55,11 @@ CREATE TABLE recordings (
     wave TEXT NOT NULL,
     transcript TEXT NOT NULL,
     game_id INTEGER NOT NULL,
-    source_file INTEGER NOT NULL,
+    source_file_id INTEGER NOT NULL,
     voice_id INTEGER NOT NULL,
     guild_id INTEGER NULL,
     npc_id INTEGER NULL,
+    title TEXT NULL
 );
 
 CREATE UNIQUE INDEX recordings_wave ON recordings (wave, game_id);
