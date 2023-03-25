@@ -10,10 +10,13 @@ def main():
     with open(basepath / "data.sql", 'w') as file:
         # GAMES
         file.write("INSERT INTO games (id, name) VALUES (1, 'Gothic 1');\n")
+        file.write("INSERT INTO games (id, name) VALUES (2, 'Gothic 2');\n")
+
+        ########### GOTHIC 1 ##########
 
         # VOICES
 
-        voices = {
+        g1voices = {
             1: "Łukasz Nowicki",
             2: "Paweł Iwanicki",
             3: "Jacek Sołtysiak",
@@ -29,11 +32,11 @@ def main():
             13: "Piotr Bąk",
             14: "Tomasz Marzecki",
             15: "Jacek Mikołajczak",
-            16: "Agata Gawrońska",
+            16: "Agata Gawrońska-Bauman",
             17: "Mirosław Zbrojewicz",
         }
 
-        for id, name in voices.items():
+        for id, name in g1voices.items():
             file.write(f"INSERT INTO voices (id, name) VALUES ({id}, '{name}');\n")
             file.write(f"INSERT INTO games_voices (game_id, voice_id, in_game_id) VALUES (1, {id}, {id});\n")
 
@@ -97,6 +100,30 @@ def main():
             text = record['text'].replace("'", "''")
             voice_id = record['voice'] if record['voice'] != '0' else '15'
             file.write(insert_line.format(record['wave'], text, 1, source_file_map[record['source_file']], voice_id, 'null', npc_id, record['title']))
+
+        ########### GOTHIC 2 ##########
+
+        g2voices = {
+            18: "Jarosław Boberek",
+            19: "Kinga Ilgner"
+        }
+
+        voicemap = {
+            12: 13,
+            3: 18,
+            7: 12,
+            17: 16,
+            16: 19,
+            13: 2,
+            4: 8,
+            8: 9,
+            1: 4,
+            7: 17
+        }
+
+        npc_map = {
+            
+        }
 
 
 
