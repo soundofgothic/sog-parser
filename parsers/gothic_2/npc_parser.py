@@ -93,7 +93,6 @@ def guilds():
 def guild_constants():
     return {
         "GIL_NONE": 0,
-        "GIL_HUMAN": 1,
         "GIL_PAL": 1,
         "GIL_MIL": 2,
         "GIL_VLK": 3,
@@ -108,7 +107,6 @@ def guild_constants():
         "GIL_OUT": 12,
         "GIL_PIR": 13,
         "GIL_KDW": 14,
-        "GIL_EMPTY_D": 15,
         "GIL_PUBLIC": 15,
         "GIL_SEPERATOR_HUM": 16,
         "GIL_MEATBUG": 17,
