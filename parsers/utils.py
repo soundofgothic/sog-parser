@@ -32,7 +32,7 @@ def extract_sounds_from_text(text, file_path, gothic_version='1'):
             translation = re.search('//.*', line).group()[2:]
             if re.search('[0-9]{2}_[0-9]{2}', line):
                 voices = [voice[1:] if voice.startswith("0") else voice for voice in
-                          re.search('[0-9]{2}_[0-9]{2}', line).group().split('_')]
+                          re.search('[0-9]{2}_[0-9]{2}(?!_)', line).group().split('_')]
             elif re.search('[0-9]+', line):
                 voices = [re.search('[0-9]+', line).group() for _ in range(2)]
 
@@ -70,6 +70,6 @@ def load_guilds():
     return guilds
 
 def load_npcs_2():
-    with open("../../results/gothic_2/npc.json", 'r', encoding='utf8') as src:
+    with open("./results/gothic_2/npc.json", 'r', encoding='utf8') as src:
         npcs = json.load(src)
     return npcs

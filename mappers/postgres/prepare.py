@@ -8,8 +8,8 @@ basepath = pathlib.Path(__file__).parent.resolve()
 
 
 class Voices:
-    voice_insert_line = "INSERT INTO voices (id, name) VALUES ({}, '{}');"
-    game_voice_insert_line = "INSERT INTO games_voices (game_id, voice_id, in_game_id) VALUES ({}, {}, {});"
+    voice_insert_line = "INSERT INTO voices (id, name) VALUES ({}, '{}');\n"
+    game_voice_insert_line = "INSERT INTO games_voices (game_id, voice_id, in_game_id) VALUES ({}, {}, {});\n"
 
     g1voices = {
         1: "Łukasz Nowicki",
@@ -48,6 +48,7 @@ class Voices:
         15: "Jacek Mikołajczak",
         16: "Kinga Ilgner",
         17: "Agata Gawrońska-Bauman",
+        19: "Mirosław Zbrojewicz"
     }
 
     def __init__(self) -> None:
@@ -56,12 +57,19 @@ class Voices:
 
     def add_voice_inserts(self, in_game_id, name, game) -> list:
         insert_lines = []
-        if name not in self.voices_map:
-            self.voices_map[name] = self.voices_counter
-            insert_lines.append(self.voice_insert_line.format(self.voices_counter, name))
-            self.voices_counter += 1
 
-        insert_lines.append(self.game_voice_insert_line.format(game, self.voices_map[name], in_game_id))
+        if isinstance(name, tuple):
+            names = name
+        else:
+            names = [name]
+
+        for name in names:
+            if name not in self.voices_map:
+                self.voices_map[name] = self.voices_counter
+                insert_lines.append(self.voice_insert_line.format(self.voices_counter, name))
+                self.voices_counter += 1
+
+            insert_lines.append(self.game_voice_insert_line.format(game, self.voices_map[name], in_game_id))
 
         return insert_lines
 
@@ -76,30 +84,34 @@ class Voices:
 
     def resolve_id(self, game: int, voice_id: int, file_type: str = None, npc=None):
         voice_id = int(voice_id)
+        voice_id = voice_id if voice_id != 0 else 15
         if game == 1:
-            voice_id = voice_id if voice_id != 0 else 15
             if voice_id not in self.g1voices:
                 print(f"Voice id {voice_id} not found in g1 voices")
                 return -1
             return self.voices_map[self.g1voices[voice_id]]
         elif game == 2:
-            value = self.voices_map[self.g1voices[voice_id]]
+            if voice_id not in self.g2voices:
+                print(f"Voice id {voice_id} not found in g2 voices")
+                return -1
+            
+            value = self.g2voices[voice_id]
             if isinstance(value, tuple):
                 if file_type == 'guild' or file_type == 'svm':
-                    return value[1]
+                    return self.voices_map[value[1]]
                 if file_type == 'mission':
                     if npc in {"Biff", "Jorgen", "Keroloth", "Grimbald", "Meldor", "Rangar", "Tengron", "Morgahard"}:
-                        return value[0]
+                        return self.voices_map[value[0]]
                     else:
-                        return value[1]
+                        return self.voices_map[value[1]]
 
                 assert False, f"Unknown file type: {file_type}"
 
-            return value
+            return self.voices_map[value]
 
 
 class Guilds:
-    guild_insert_line = "INSERT INTO guilds (id, name, in_game_id, in_game_alias, game_id) VALUES ({}, '{}', {}, '{}', {});"
+    guild_insert_line = "INSERT INTO guilds (id, name, in_game_id, in_game_alias, game_id) VALUES ({}, '{}', {}, '{}', {});\n"
 
     def __init__(self) -> None:
         self.guilds = {}
@@ -121,12 +133,13 @@ class Guilds:
         return self.guilds[(game, guild_constant)]
     
 class Npcs:
-    npc_insert_line = "INSERT INTO npcs (id, name, in_game_id, in_game_alias, game_id, voice_id, guild_id) VALUES ({}, '{}', {}, {});"
+    npc_insert_line = "INSERT INTO npcs (id, name, in_game_id, in_game_alias, game_id, voice_id, guild_id) VALUES ({}, '{}', {}, {}, {}, {});\n"
 
     def __init__(self, guilds: Guilds, voices: Voices) -> None:
         self.guilds = guilds
         self.voices = voices
         self.npcs = {}
+        self.npc_names = {}
         self.counter = 1
 
     def add_npc_inserts(self, game, file_path) -> list:
@@ -137,6 +150,7 @@ class Npcs:
         
         for npc in npcs.values():
             self.npcs[(game, npc['INSTANCE_NAME'])] = self.counter
+            self.npc_names[(game, npc['INSTANCE_NAME'])] = npc['name']
             self.counter += 1
             guild_id = self.guilds.resolve_id(game, npc['guild_short'])
             voice_id = self.voices.resolve_id(game, npc['voice_id'], 'mission', npc['name'])
@@ -147,6 +161,11 @@ class Npcs:
     
     def resolve_id(self, game, npc_constant):
         return self.npcs[(game, npc_constant)]
+    
+    def resolve_name(self, game, npc_constant):
+        return self.npc_names[(game, npc_constant)]
+    
+
 
 
 class SourceFiles:
@@ -199,9 +218,11 @@ class Recordings:
             case 'mission':
                 for record in records:
                     text = record['text'].replace("'", "''")
-                    voice_id = self.voices.resolve_id(game, record['voice'], file_type, record['npcs'][0])
+                    npc_instance_name = record['npcs'][0] if record['source'] == 'self' else 'PC_Hero'
+                    npc_name = self.npcs.resolve_name(game, npc_instance_name)
+                    npc_id = self.npcs.resolve_id(game, npc_instance_name)
+                    voice_id = self.voices.resolve_id(game, record['voice'], file_type, npc_name)
                     source_file_id = self.source_files.resolve_id(game, record['source_file'])
-                    npc_id = self.npcs.resolve_id(game, record['npcs'][0] if record['source'] == 'self' else 'PC_Hero')
                     insert_lines.append(self.insert_line.format(record['wave'], text, game, source_file_id, voice_id, 'null', npc_id, 'null'))
 
             case 'svm':
@@ -222,7 +243,7 @@ class GothicVersion:
 def process_gothic_version(gothicVersion: GothicVersion, voices: Voices, guilds: Guilds, source_files: SourceFiles, npcs: Npcs, recordings: Recordings):
     output = []
 
-    output += [f"INSERT INTO games (id, name) VALUES ({gothicVersion.id}, '{gothicVersion.base_path}');"]
+    output += [f"INSERT INTO games (id, name) VALUES ({gothicVersion.id}, '{gothicVersion.name}');\n"]
 
     voices_list = voices.list_voices(gothicVersion.id)
     for id, name in voices_list.items():
@@ -254,8 +275,12 @@ def main():
     gothic1 = GothicVersion(1, "Gothic 1", basepath / "../../results/gothic_1/")
     gothic2 = GothicVersion(2, "Gothic 2: Noc Kruka", basepath / "../../results/gothic_2/")
 
-    process_gothic_version(gothic1, voices, guilds, source_files, npcs, recordings)
-    process_gothic_version(gothic2, voices, guilds, source_files, npcs, recordings)
+    with open(basepath / "output.sql", 'w', encoding='utf8') as output_file:
+        output_file.writelines(voices.voice_insert_line.format("-1", "Brak"))
+        output_file.writelines(process_gothic_version(gothic1, voices, guilds, source_files, npcs, recordings))
+        output_file.writelines(process_gothic_version(gothic2, voices, guilds, source_files, npcs, recordings))
+    
+    
 
     
 

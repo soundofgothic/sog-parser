@@ -3,14 +3,14 @@ import re
 import json
 from parsers.utils import load_npcs_2, extract_sounds
 
-source_folder = '../../GameScripts/SolGothic2/PrjGOTHIC/Story/Dialoge'
+source_folder = './GameScripts/SolGothic2/PrjGOTHIC/Story/Dialoge'
 excluded_files = [
     'DIA_extro_avi.d',
     'DIA_FH.d',
     'DIA_OrcElite_AntiPaladin1.d'
 ]
 
-output_file = '../../results/gothic_2/mission_waves.json'
+output_file = './results/gothic_2/mission_waves.json'
 
 
 def get_npc_from_mission(file):

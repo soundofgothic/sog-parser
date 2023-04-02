@@ -4,12 +4,12 @@ import json
 import sys
 import utils
 
-source_folder = '../../PrjGothic/Story/MISSIONS'
+source_folder = './PrjGothic/Story/MISSIONS'
 excluded_files = [
     'DIA_extro_avi.d'
 ]
 
-output_file = '../../results/gothic_1/mission_waves.json'
+output_file = './results/gothic_1/mission_waves.json'
 
 
 def get_npc_from_mission(file):
@@ -23,6 +23,7 @@ def get_npc_from_mission(file):
 
 
 def main():
+    directory = os.getcwd()
     files = list(filter(lambda f: f.endswith('.d'), os.listdir(source_folder)))
     npcs = utils.load_npcs()
     npcs_dict = {npc["INSTANCE_NAME"]: npc for npc in npcs.values()}

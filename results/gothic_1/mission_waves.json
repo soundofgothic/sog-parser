@@ -20368,7 +20368,7 @@
     ],
     "G": "1",
     "source": "self",
-    "voice": "1"
+    "voice": "14"
   },
   {
     "wave": "Info_Xardas_LOADSWORD01_15_03",
@@ -20393,7 +20393,7 @@
     ],
     "G": "1",
     "source": "self",
-    "voice": "1"
+    "voice": "14"
   },
   {
     "wave": "Info_Xardas_LOADSWORD01_15_05",
@@ -20432,7 +20432,7 @@
     ],
     "G": "1",
     "source": "self",
-    "voice": "2"
+    "voice": "14"
   },
   {
     "wave": "Info_Xardas_LOADSWORD02_15_03",
@@ -20457,7 +20457,7 @@
     ],
     "G": "1",
     "source": "self",
-    "voice": "2"
+    "voice": "14"
   },
   {
     "wave": "Info_Xardas_LOADSWORD02_14_05",
@@ -20468,7 +20468,7 @@
     ],
     "G": "1",
     "source": "self",
-    "voice": "2"
+    "voice": "14"
   },
   {
     "wave": "Info_Xardas_LOADSWORD02_14_06",
@@ -20479,7 +20479,7 @@
     ],
     "G": "1",
     "source": "self",
-    "voice": "2"
+    "voice": "14"
   },
   {
     "wave": "Info_Xardas_BETTERARMOR_15_01",
@@ -21009,7 +21009,7 @@
     ],
     "G": "1",
     "source": "self",
-    "voice": "9"
+    "voice": "14"
   },
   {
     "wave": "Info_Xardas_LOADSWORD09_14_03",
@@ -21020,7 +21020,7 @@
     ],
     "G": "1",
     "source": "self",
-    "voice": "9"
+    "voice": "14"
   },
   {
     "wave": "Info_Xardas_LOADSWORD09_14_04",
@@ -21031,7 +21031,7 @@
     ],
     "G": "1",
     "source": "self",
-    "voice": "9"
+    "voice": "14"
   },
   {
     "wave": "Info_Xardas_LOADSWORD09_14_05",
@@ -21042,7 +21042,7 @@
     ],
     "G": "1",
     "source": "self",
-    "voice": "9"
+    "voice": "14"
   },
   {
     "wave": "Info_Xardas_LOADSWORD09_14_06",
@@ -21053,7 +21053,7 @@
     ],
     "G": "1",
     "source": "self",
-    "voice": "9"
+    "voice": "14"
   },
   {
     "wave": "Info_Xardas_LOADSWORD09_14_07",
@@ -21064,7 +21064,7 @@
     ],
     "G": "1",
     "source": "self",
-    "voice": "9"
+    "voice": "14"
   },
   {
     "wave": "DIA_Torrez_Hello_15_00",
@@ -51300,7 +51300,7 @@
     ],
     "G": "1",
     "source": "self",
-    "voice": "10"
+    "voice": "11"
   },
   {
     "wave": "DIA_Whistler_Running110_15_02",
@@ -51325,7 +51325,7 @@
     ],
     "G": "1",
     "source": "self",
-    "voice": "10"
+    "voice": "11"
   },
   {
     "wave": "DIA_Whistler_RunningPayBack_15_00",
@@ -58475,7 +58475,7 @@
     ],
     "G": "1",
     "source": "self",
-    "voice": "10"
+    "voice": "7"
   },
   {
     "wave": "DIA_Mud_Nerve_11_07_00",
@@ -58486,7 +58486,7 @@
     ],
     "G": "1",
     "source": "self",
-    "voice": "11"
+    "voice": "7"
   },
   {
     "wave": "DIA_Mud_Nerve_12_07_00",
@@ -58497,7 +58497,7 @@
     ],
     "G": "1",
     "source": "self",
-    "voice": "12"
+    "voice": "7"
   },
   {
     "wave": "DIA_Mud_Nerve_13_07_00",
@@ -58508,7 +58508,7 @@
     ],
     "G": "1",
     "source": "self",
-    "voice": "13"
+    "voice": "7"
   },
   {
     "wave": "DIA_Mud_Nerve_14_07_00",
@@ -58519,7 +58519,7 @@
     ],
     "G": "1",
     "source": "self",
-    "voice": "14"
+    "voice": "7"
   },
   {
     "wave": "DIA_Mud_Nerve_14_15_01",
@@ -58544,7 +58544,7 @@
     ],
     "G": "1",
     "source": "self",
-    "voice": "15"
+    "voice": "7"
   },
   {
     "wave": "DIA_Mud_Nerve_16_07_00",
@@ -58555,7 +58555,7 @@
     ],
     "G": "1",
     "source": "self",
-    "voice": "16"
+    "voice": "7"
   },
   {
     "wave": "DIA_Mud_Nerve_17_07_00",
@@ -58566,7 +58566,7 @@
     ],
     "G": "1",
     "source": "self",
-    "voice": "17"
+    "voice": "7"
   },
   {
     "wave": "DIA_Mud_Nerve_18_07_00",
@@ -58577,7 +58577,7 @@
     ],
     "G": "1",
     "source": "self",
-    "voice": "18"
+    "voice": "7"
   },
   {
     "wave": "DIA_Mud_Nerve_19_07_00",
@@ -58588,7 +58588,7 @@
     ],
     "G": "1",
     "source": "self",
-    "voice": "19"
+    "voice": "7"
   },
   {
     "wave": "DIA_Grim_Falle_06_00",
@@ -60090,7 +60090,7 @@
     ],
     "G": "1",
     "source": "self",
-    "voice": "50"
+    "voice": "5"
   },
   {
     "wave": "VLK_585_Aleph_SCHUPPEN_50_05_03",
@@ -60101,7 +60101,7 @@
     ],
     "G": "1",
     "source": "self",
-    "voice": "50"
+    "voice": "5"
   },
   {
     "wave": "VLK_585_Aleph_SCHUPPEN_30_15_01",
@@ -60126,7 +60126,7 @@
     ],
     "G": "1",
     "source": "self",
-    "voice": "30"
+    "voice": "5"
   },
   {
     "wave": "VLK_585_Aleph_SCHUPPEN_30_05_03",
@@ -60137,7 +60137,7 @@
     ],
     "G": "1",
     "source": "self",
-    "voice": "30"
+    "voice": "5"
   },
   {
     "wave": "VLK_585_Aleph_SCHUPPEN_15_15_01",
@@ -60162,7 +60162,7 @@
     ],
     "G": "1",
     "source": "self",
-    "voice": "15"
+    "voice": "5"
   },
   {
     "wave": "VLK_585_Aleph_DIRTY_Info_15_01",
