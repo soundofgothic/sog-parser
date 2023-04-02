@@ -1,7 +1,7 @@
 import pathlib
 import json
 from dataclasses import dataclass
-from parsers.gothic_1.npc_parser import guilds, guild_constants
+from parsers.gothic_1.npc_parser import guilds as guilds1, guild_constants as guild_constants1
 from parsers.gothic_2.npc_parser import guilds as guilds2, guild_constants as guild_constants2
 
 basepath = pathlib.Path(__file__).parent.resolve()
@@ -75,8 +75,12 @@ class Voices:
         
 
     def resolve_id(self, game: int, voice_id: int, file_type: str = None, npc=None):
+        voice_id = int(voice_id)
         if game == 1:
             voice_id = voice_id if voice_id != 0 else 15
+            if voice_id not in self.g1voices:
+                print(f"Voice id {voice_id} not found in g1 voices")
+                return -1
             return self.voices_map[self.g1voices[voice_id]]
         elif game == 2:
             value = self.voices_map[self.g1voices[voice_id]]
@@ -103,8 +107,8 @@ class Guilds:
 
     def add_guild_inserts(self, game) -> list:
         insert_lines = []
-        guilds = guilds2() if game == 2 else guilds()
-        guild_constants = guild_constants2() if game == 2 else guild_constants()
+        guilds = guilds2() if game == 2 else guilds1()
+        guild_constants = guild_constants2() if game == 2 else guild_constants1()
 
         for name, gconstant in zip(guilds, guild_constants.items()):
             self.guilds[(game, gconstant[0])] = self.counter
@@ -187,7 +191,7 @@ class Recordings:
             case 'guild':
                 for record in records:
                     text = record['text'].replace("'", "''")
-                    guild_id = self.guilds.resolve_id(game, record['guild'])
+                    guild_id = self.guilds.resolve_id(game, record['target']['guild'])
                     voice_id = self.voices.resolve_id(game, record['voice'], file_type)
                     source_file_id = self.source_files.resolve_id(game, record['source_file'])
                     insert_lines.append(self.insert_line.format(record['wave'], text, game, source_file_id, voice_id, guild_id, 'null', 'null'))
@@ -195,7 +199,7 @@ class Recordings:
             case 'mission':
                 for record in records:
                     text = record['text'].replace("'", "''")
-                    voice_id = self.voices.resolve_id(game, record['voice'], file_type, record['npc'])
+                    voice_id = self.voices.resolve_id(game, record['voice'], file_type, record['npcs'][0])
                     source_file_id = self.source_files.resolve_id(game, record['source_file'])
                     npc_id = self.npcs.resolve_id(game, record['npcs'][0] if record['source'] == 'self' else 'PC_Hero')
                     insert_lines.append(self.insert_line.format(record['wave'], text, game, source_file_id, voice_id, 'null', npc_id, 'null'))
@@ -225,16 +229,16 @@ def process_gothic_version(gothicVersion: GothicVersion, voices: Voices, guilds:
         output += voices.add_voice_inserts(id, name, gothicVersion.id)
 
     output += guilds.add_guild_inserts(gothicVersion.id)
-    output += npcs.add_npc_inserts(gothicVersion.id, gothicVersion.base_path / "npcs.json")
+    output += npcs.add_npc_inserts(gothicVersion.id, gothicVersion.base_path / "npc.json")
     output += source_files.add_source_file_inserts(
         gothicVersion.id, gothicVersion.base_path / "guild_waves.json", "guild")
     output += source_files.add_source_file_inserts(
         gothicVersion.id, gothicVersion.base_path / "mission_waves.json", "mission")
     output += source_files.add_source_file_inserts(
-        gothicVersion.id, gothicVersion.base_path / "svm.json", "svm")
+        gothicVersion.id, gothicVersion.base_path / "svm_waves.json", "svm")
     output += recordings.add_recording_inserts(gothicVersion.id, gothicVersion.base_path / "guild_waves.json", "guild")
     output += recordings.add_recording_inserts(gothicVersion.id, gothicVersion.base_path / "mission_waves.json", "mission")
-    output += recordings.add_recording_inserts(gothicVersion.id, gothicVersion.base_path / "svm.json", "svm")
+    output += recordings.add_recording_inserts(gothicVersion.id, gothicVersion.base_path / "svm_waves.json", "svm")
 
     return output
     
@@ -248,7 +252,12 @@ def main():
     recordings = Recordings(voices, guilds, source_files, npcs)
 
     gothic1 = GothicVersion(1, "Gothic 1", basepath / "../../results/gothic_1/")
-    gothic2 = GothicVersion(1, "Gothic 2: Noc Kruka", basepath / "../../results/gothic_2/")
+    gothic2 = GothicVersion(2, "Gothic 2: Noc Kruka", basepath / "../../results/gothic_2/")
+
+    process_gothic_version(gothic1, voices, guilds, source_files, npcs, recordings)
+    process_gothic_version(gothic2, voices, guilds, source_files, npcs, recordings)
+
+    
 
     
 

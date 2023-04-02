@@ -1,12 +1,12 @@
 -- Postgres schema for the mappers
 
 CREATE TABLE games (
-    id SERIAL,
-    name TEXT UNIQUE NOT NULL,
+    id SERIAL PRIMARY KEY,
+    name TEXT UNIQUE NOT NULL
 );
 
 CREATE TABLE voices (
-    id SERIAL,
+    id SERIAL PRIMARY KEY,
     name TEXT NOT NULL
 );
 
@@ -18,7 +18,7 @@ CREATE TABLE game_voices (
 );
 
 CREATE TABLE guilds (
-    id SERIAL,
+    id SERIAL PRIMARY KEY,
     name TEXT NOT NULL,
     in_game_id TEXT NOT NULL,
     in_game_alias TEXT NOT NULL,
@@ -28,7 +28,7 @@ CREATE TABLE guilds (
 CREATE UNIQUE INDEX guilds_in_game_id ON guilds (in_game_id, game_id);
 
 CREATE TABLE npcs (
-    id SERIAL,
+    id SERIAL PRIMARY KEY,
     name TEXT NOT NULL,
     in_game_id TEXT NOT NULL,
     in_game_alias TEXT NOT NULL,
@@ -39,19 +39,19 @@ CREATE TABLE npcs (
 
 CREATE UNIQUE INDEX npcs_in_game_id ON npcs (in_game_id, game_id);
 
-CREATE ENUM source_type AS ENUM ('guild', 'mission', 'svm');
+CREATE TYPE source_type AS ENUM ('guild', 'mission', 'svm');
 
 CREATE TABLE source_files (
-    id SERIAL,
+    id SERIAL PRIMARY KEY,
     name TEXT NOT NULL,
     type source_type NOT NULL,
-    game_id INTEGER NOT NULL,
+    game_id INTEGER NOT NULL
 );
 
 CREATE UNIQUE INDEX source_files_name ON source_files (name, game_id);
 
 CREATE TABLE recordings (
-    id SERIAL,
+    id SERIAL PRIMARY KEY,
     wave TEXT NOT NULL,
     transcript TEXT NOT NULL,
     game_id INTEGER NOT NULL,
@@ -73,7 +73,7 @@ ALTER TABLE npcs ADD FOREIGN KEY (game_id) REFERENCES games(id);
 ALTER TABLE npcs ADD FOREIGN KEY (voice_id) REFERENCES voices(id);
 ALTER TABLE npcs ADD FOREIGN KEY (guild_id) REFERENCES guilds(id);
 ALTER TABLE recordings ADD FOREIGN KEY (game_id) REFERENCES games(id);
-ALTER TABLE recordings ADD FOREIGN KEY (source_file) REFERENCES source_files(id);
+ALTER TABLE recordings ADD FOREIGN KEY (source_file_id) REFERENCES source_files(id);
 ALTER TABLE recordings ADD FOREIGN KEY (voice_id) REFERENCES voices(id);
 ALTER TABLE recordings ADD FOREIGN KEY (guild_id) REFERENCES guilds(id);
 ALTER TABLE recordings ADD FOREIGN KEY (npc_id) REFERENCES npcs(id);
