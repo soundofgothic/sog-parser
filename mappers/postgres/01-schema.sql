@@ -14,7 +14,7 @@ CREATE TABLE game_voices (
     game_id INTEGER NOT NULL,
     voice_id INTEGER NOT NULL,
     in_game_id INTEGER NOT NULL,
-    PRIMARY KEY (game_id, voice_id)
+    PRIMARY KEY (game_id, voice_id, in_game_id)
 );
 
 CREATE TABLE guilds (
@@ -37,7 +37,7 @@ CREATE TABLE npcs (
     guild_id INTEGER NOT NULL
 );
 
-CREATE UNIQUE INDEX npcs_in_game_id ON npcs (in_game_id, game_id);
+CREATE UNIQUE INDEX npcs_in_game_alias ON npcs (in_game_alias, game_id);
 
 CREATE TYPE source_type AS ENUM ('guild', 'mission', 'svm');
 

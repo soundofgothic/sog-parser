@@ -9,7 +9,7 @@ basepath = pathlib.Path(__file__).parent.resolve()
 
 class Voices:
     voice_insert_line = "INSERT INTO voices (id, name) VALUES ({}, '{}');\n"
-    game_voice_insert_line = "INSERT INTO games_voices (game_id, voice_id, in_game_id) VALUES ({}, {}, {});\n"
+    game_voice_insert_line = "INSERT INTO game_voices (game_id, voice_id, in_game_id) VALUES ({}, {}, {});\n"
 
     g1voices = {
         1: "Łukasz Nowicki",
@@ -133,7 +133,7 @@ class Guilds:
         return self.guilds[(game, guild_constant)]
     
 class Npcs:
-    npc_insert_line = "INSERT INTO npcs (id, name, in_game_id, in_game_alias, game_id, voice_id, guild_id) VALUES ({}, '{}', {}, {}, {}, {});\n"
+    npc_insert_line = "INSERT INTO npcs (id, name, in_game_id, in_game_alias, game_id, voice_id, guild_id) VALUES ({}, '{}', {}, '{}', {}, {}, {});\n"
 
     def __init__(self, guilds: Guilds, voices: Voices) -> None:
         self.guilds = guilds
@@ -151,11 +151,11 @@ class Npcs:
         for npc in npcs.values():
             self.npcs[(game, npc['INSTANCE_NAME'])] = self.counter
             self.npc_names[(game, npc['INSTANCE_NAME'])] = npc['name']
-            self.counter += 1
             guild_id = self.guilds.resolve_id(game, npc['guild_short'])
             voice_id = self.voices.resolve_id(game, npc['voice_id'], 'mission', npc['name'])
             name = npc['name'].replace("'", "''")
             insert_lines.append(self.npc_insert_line.format(self.counter, name, npc['id'], npc['INSTANCE_NAME'], game, voice_id, guild_id))
+            self.counter += 1
 
         return insert_lines
     
@@ -169,6 +169,8 @@ class Npcs:
 
 
 class SourceFiles:
+    insert_line = "INSERT INTO source_files (id, name, type, game_id) VALUES ({}, '{}', '{}', {});\n"
+
     def __init__(self) -> None:
         self.sources = {}
         self.counter = 1
@@ -181,7 +183,7 @@ class SourceFiles:
             for record in records:
                 if (game, record['source_file']) not in self.sources:
                     self.sources[(game, record['source_file'])] = self.counter
-                    insert_lines += ["INSERT INTO source_files (id, name, type, game_id) VALUES ({}, '{}', '{}', {});\n".format(
+                    insert_lines += [self.insert_line.format(
                         self.counter, record['source_file'], file_type, game)]
                     self.counter += 1
 
@@ -192,7 +194,7 @@ class SourceFiles:
 
 
 class Recordings:
-    insert_line = "INSERT INTO recordings (wave, transcipt, game_id, source_file_id, voice_id, guild_id, npc_id, title) VALUES ('{}', '{}', {}, {}, {}, {}, {}, {});\n"
+    insert_line = "INSERT INTO recordings (wave, transcript, game_id, source_file_id, voice_id, guild_id, npc_id, title) VALUES ('{}', '{}', {}, {}, {}, {}, {}, {}) ON CONFLICT (wave, game_id) DO NOTHING;\n"
 
     def __init__(self, voices: Voices, guilds: Guilds, source_files: SourceFiles, npcs: Npcs) -> None:
         self.voices = voices
@@ -230,7 +232,8 @@ class Recordings:
                     text = record['text'].replace("'", "''")
                     voice_id = self.voices.resolve_id(game, record['voice'], file_type)
                     source_file_id = self.source_files.resolve_id(game, record['source_file'])
-                    insert_lines.append(self.insert_line.format(record['wave'], text, game, source_file_id, voice_id, 'null', 'null', record['title']))
+                    title = "'" + record['title'] + "'"
+                    insert_lines.append(self.insert_line.format(record['wave'], text, game, source_file_id, voice_id, 'null', 'null', title))
 
         return insert_lines
 
@@ -275,7 +278,7 @@ def main():
     gothic1 = GothicVersion(1, "Gothic 1", basepath / "../../results/gothic_1/")
     gothic2 = GothicVersion(2, "Gothic 2: Noc Kruka", basepath / "../../results/gothic_2/")
 
-    with open(basepath / "output.sql", 'w', encoding='utf8') as output_file:
+    with open(basepath / "02-data.sql", 'w', encoding='utf8') as output_file:
         output_file.writelines(voices.voice_insert_line.format("-1", "Brak"))
         output_file.writelines(process_gothic_version(gothic1, voices, guilds, source_files, npcs, recordings))
         output_file.writelines(process_gothic_version(gothic2, voices, guilds, source_files, npcs, recordings))
