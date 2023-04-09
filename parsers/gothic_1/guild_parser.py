@@ -1,8 +1,12 @@
 import re
 import json
 import sys
-from utils import extract_sounds, extract_sounds_from_text, load_npcs
+import pathlib
+from parsers.utils import extract_sounds, extract_sounds_from_text, load_npcs
 
+basepath = pathlib.Path(__file__).parent.resolve() / '../..'
+scripts_path = basepath / 'sources/gothic_1/PrjGothic/Story/B'
+output_path = basepath / 'results/gothic_1/guild_waves.json'
 
 def parse_single_script(script):
     with open(script, 'r', encoding='Windows-1250') as src:
@@ -124,14 +128,13 @@ extra_infos = [
     "Info_FindNPC_ST.d",
 ]
 
-base_path = '../../PrjGothic/Story/B'
 
 
 def extract_extras():
     total = {}
     by_script = {info: None for info in extra_infos}
     for script in extra_infos:
-        extras, pc_hero_questions = parse_single_script(base_path + '/' + script)
+        extras, pc_hero_questions = parse_single_script(scripts_path / script)
         by_script[script] = {
             "answers": extras,
             "questions": pc_hero_questions
@@ -150,7 +153,7 @@ def main():
     for source in sources:
         for guild_name, guild in source["guilds"].items():
             for file in guild:
-                texts_per_file[file], extra_per_file[file] = extract_sounds_with_dependancy(base_path + '/' + file)
+                texts_per_file[file], extra_per_file[file] = extract_sounds_with_dependancy(scripts_path / file)
                 for wave in texts_per_file[file]:
                     wave["target"] = {
                         "guild": guild_name,
@@ -185,7 +188,7 @@ def main():
             }
             waves.append(info)
 
-    with open("../../results/gothic_1/guild_waves.json", 'wb') as output:
+    with open(output_path, 'wb') as output:
         output.write(json.dumps(waves, ensure_ascii=False, indent=2).encode('utf8'))
 
 

@@ -19,15 +19,15 @@
     "text": "Poszukaj sobie jakiejś przyzwoitej pracy! Wszyscy, którzy mają pracę w Khorinis, są zaliczani do obywateli miasta.",
     "source_file": "B_AssignAmbientInfos_VLK_1.d",
     "npcs": [
+      "VLK_465_Buerger",
+      "VLK_475_Buerger",
+      "VLK_499_Buerger",
+      "VLK_454_Buerger",
       "VLK_464_Buerger",
       "VLK_466_Gernod",
       "VLK_443_Arbeiter",
-      "VLK_499_Buerger",
-      "VLK_465_Buerger",
-      "VLK_475_Buerger",
       "VLK_459_Buerger",
-      "VLK_419_Buerger",
-      "VLK_454_Buerger"
+      "VLK_419_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -57,15 +57,15 @@
     "text": "Do niedawna gubernator i sędzia. Jednak niedawno przybyli do miasta paladyni i przejęli władzę.",
     "source_file": "B_AssignAmbientInfos_VLK_1.d",
     "npcs": [
+      "VLK_465_Buerger",
+      "VLK_475_Buerger",
+      "VLK_499_Buerger",
+      "VLK_454_Buerger",
       "VLK_464_Buerger",
       "VLK_466_Gernod",
       "VLK_443_Arbeiter",
-      "VLK_499_Buerger",
-      "VLK_465_Buerger",
-      "VLK_475_Buerger",
       "VLK_459_Buerger",
-      "VLK_419_Buerger",
-      "VLK_454_Buerger"
+      "VLK_419_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -80,15 +80,15 @@
     "text": "Można rzec, że ich przywódca, Lord Hagen, jest teraz kimś w rodzaju gubernatora.",
     "source_file": "B_AssignAmbientInfos_VLK_1.d",
     "npcs": [
+      "VLK_465_Buerger",
+      "VLK_475_Buerger",
+      "VLK_499_Buerger",
+      "VLK_454_Buerger",
       "VLK_464_Buerger",
       "VLK_466_Gernod",
       "VLK_443_Arbeiter",
-      "VLK_499_Buerger",
-      "VLK_465_Buerger",
-      "VLK_475_Buerger",
       "VLK_459_Buerger",
-      "VLK_419_Buerger",
-      "VLK_454_Buerger"
+      "VLK_419_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -103,15 +103,15 @@
     "text": "Jego prawą ręką jest Lord Andre. To on dowodzi strażą miejską, pełni też funkcję sędziego.",
     "source_file": "B_AssignAmbientInfos_VLK_1.d",
     "npcs": [
+      "VLK_465_Buerger",
+      "VLK_475_Buerger",
+      "VLK_499_Buerger",
+      "VLK_454_Buerger",
       "VLK_464_Buerger",
       "VLK_466_Gernod",
       "VLK_443_Arbeiter",
-      "VLK_499_Buerger",
-      "VLK_465_Buerger",
-      "VLK_475_Buerger",
       "VLK_459_Buerger",
-      "VLK_419_Buerger",
-      "VLK_454_Buerger"
+      "VLK_419_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -126,15 +126,15 @@
     "text": "Wszyscy przestępcy w mieście odpowiadają przed nim.",
     "source_file": "B_AssignAmbientInfos_VLK_1.d",
     "npcs": [
+      "VLK_465_Buerger",
+      "VLK_475_Buerger",
+      "VLK_499_Buerger",
+      "VLK_454_Buerger",
       "VLK_464_Buerger",
       "VLK_466_Gernod",
       "VLK_443_Arbeiter",
-      "VLK_499_Buerger",
-      "VLK_465_Buerger",
-      "VLK_475_Buerger",
       "VLK_459_Buerger",
-      "VLK_419_Buerger",
-      "VLK_454_Buerger"
+      "VLK_419_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -164,15 +164,15 @@
     "text": "Można tu kupić praktycznie wszystko. Albo od kupców na targowisku, albo w dolnej części miasta.",
     "source_file": "B_AssignAmbientInfos_VLK_1.d",
     "npcs": [
+      "VLK_465_Buerger",
+      "VLK_475_Buerger",
+      "VLK_499_Buerger",
+      "VLK_454_Buerger",
       "VLK_464_Buerger",
       "VLK_466_Gernod",
       "VLK_443_Arbeiter",
-      "VLK_499_Buerger",
-      "VLK_465_Buerger",
-      "VLK_475_Buerger",
       "VLK_459_Buerger",
-      "VLK_419_Buerger",
-      "VLK_454_Buerger"
+      "VLK_419_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -187,15 +187,15 @@
     "text": "Zważ jednak, że za większość towarów trzeba słono zapłacić.",
     "source_file": "B_AssignAmbientInfos_VLK_1.d",
     "npcs": [
+      "VLK_465_Buerger",
+      "VLK_475_Buerger",
+      "VLK_499_Buerger",
+      "VLK_454_Buerger",
       "VLK_464_Buerger",
       "VLK_466_Gernod",
       "VLK_443_Arbeiter",
-      "VLK_499_Buerger",
-      "VLK_465_Buerger",
-      "VLK_475_Buerger",
       "VLK_459_Buerger",
-      "VLK_419_Buerger",
-      "VLK_454_Buerger"
+      "VLK_419_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -210,15 +210,15 @@
     "text": "Jeśli nie masz zbyt dużo złota, udaj się do Lehmara, lichwiarza, może będzie mógł ci pomóc. Jego dom znajduje się u wejścia do dzielnicy portowej, w dolnej części miasta.",
     "source_file": "B_AssignAmbientInfos_VLK_1.d",
     "npcs": [
+      "VLK_465_Buerger",
+      "VLK_475_Buerger",
+      "VLK_499_Buerger",
+      "VLK_454_Buerger",
       "VLK_464_Buerger",
       "VLK_466_Gernod",
       "VLK_443_Arbeiter",
-      "VLK_499_Buerger",
-      "VLK_465_Buerger",
-      "VLK_475_Buerger",
       "VLK_459_Buerger",
-      "VLK_419_Buerger",
-      "VLK_454_Buerger"
+      "VLK_419_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -248,15 +248,15 @@
     "text": "Od upadku Bariery handel z najważniejszym z wieśniaków nagle się urwał. Kto wie, co on knuje. Coś mi tu śmierdzi...",
     "source_file": "B_AssignAmbientInfos_VLK_1.d",
     "npcs": [
+      "VLK_465_Buerger",
+      "VLK_475_Buerger",
+      "VLK_499_Buerger",
+      "VLK_454_Buerger",
       "VLK_464_Buerger",
       "VLK_466_Gernod",
       "VLK_443_Arbeiter",
-      "VLK_499_Buerger",
-      "VLK_465_Buerger",
-      "VLK_475_Buerger",
       "VLK_459_Buerger",
-      "VLK_419_Buerger",
-      "VLK_454_Buerger"
+      "VLK_419_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -271,15 +271,15 @@
     "text": "Onar posuwa się za daleko. Wciąż odmawia dostaw dla miasta. Jeśli straż nie zareaguje odpowiednio szybko, pozostali chłopi wkrótce też zaczną się buntować.",
     "source_file": "B_AssignAmbientInfos_VLK_1.d",
     "npcs": [
+      "VLK_465_Buerger",
+      "VLK_475_Buerger",
+      "VLK_499_Buerger",
+      "VLK_454_Buerger",
       "VLK_464_Buerger",
       "VLK_466_Gernod",
       "VLK_443_Arbeiter",
-      "VLK_499_Buerger",
-      "VLK_465_Buerger",
-      "VLK_475_Buerger",
       "VLK_459_Buerger",
-      "VLK_419_Buerger",
-      "VLK_454_Buerger"
+      "VLK_419_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -294,15 +294,15 @@
     "text": "Ponoć bandyci połączyli swe siły z magami. Potężni czarni magowie w czarnych szatach. Chyba nawet widziałem jednego z nich ostatniej nocy.",
     "source_file": "B_AssignAmbientInfos_VLK_1.d",
     "npcs": [
+      "VLK_465_Buerger",
+      "VLK_475_Buerger",
+      "VLK_499_Buerger",
+      "VLK_454_Buerger",
       "VLK_464_Buerger",
       "VLK_466_Gernod",
       "VLK_443_Arbeiter",
-      "VLK_499_Buerger",
-      "VLK_465_Buerger",
-      "VLK_475_Buerger",
       "VLK_459_Buerger",
-      "VLK_419_Buerger",
-      "VLK_454_Buerger"
+      "VLK_419_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -317,15 +317,15 @@
     "text": "Słyszałem, że jeden z najemników Onara wyruszył, aby pozabijać smoki. W końcu zajęli się czymś pożytecznym.",
     "source_file": "B_AssignAmbientInfos_VLK_1.d",
     "npcs": [
+      "VLK_465_Buerger",
+      "VLK_475_Buerger",
+      "VLK_499_Buerger",
+      "VLK_454_Buerger",
       "VLK_464_Buerger",
       "VLK_466_Gernod",
       "VLK_443_Arbeiter",
-      "VLK_499_Buerger",
-      "VLK_465_Buerger",
-      "VLK_475_Buerger",
       "VLK_459_Buerger",
-      "VLK_419_Buerger",
-      "VLK_454_Buerger"
+      "VLK_419_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -340,15 +340,15 @@
     "text": "Wieść niesie, że smoki zostały pokonane! Lord Hagen zbiera swe oddziały, by poprowadzić je przeciw reszcie bestii, plądrujących Górniczą Dolinę.",
     "source_file": "B_AssignAmbientInfos_VLK_1.d",
     "npcs": [
+      "VLK_465_Buerger",
+      "VLK_475_Buerger",
+      "VLK_499_Buerger",
+      "VLK_454_Buerger",
       "VLK_464_Buerger",
       "VLK_466_Gernod",
       "VLK_443_Arbeiter",
-      "VLK_499_Buerger",
-      "VLK_465_Buerger",
-      "VLK_475_Buerger",
       "VLK_459_Buerger",
-      "VLK_419_Buerger",
-      "VLK_454_Buerger"
+      "VLK_419_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -378,15 +378,15 @@
     "text": "Chcesz się tu osiedlić? Teraz, kiedy wszystkie znaki na niebie i ziemi zdają się zwiastować koniec świata?",
     "source_file": "B_AssignAmbientInfos_VLK_6.d",
     "npcs": [
-      "VLK_452_Buerger",
-      "VLK_4006_Bote",
-      "VLK_4005_Arbeiter",
-      "VLK_4000_Buerger",
-      "VLK_450_Buerger",
       "VLK_453_Buerger",
       "VLK_467_Buerger",
       "VLK_442_Arbeiter",
-      "VLK_4004_Arbeiter"
+      "VLK_4005_Arbeiter",
+      "VLK_4006_Bote",
+      "VLK_4004_Arbeiter",
+      "VLK_452_Buerger",
+      "VLK_4000_Buerger",
+      "VLK_450_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -416,15 +416,15 @@
     "text": "Jeśli chcesz znać moje zdanie, powinieneś zwiewać stąd, póki możesz. Jednak, jeśli musisz zostać, porozmawiaj z którymś z wpływowych obywateli.",
     "source_file": "B_AssignAmbientInfos_VLK_6.d",
     "npcs": [
-      "VLK_452_Buerger",
-      "VLK_4006_Bote",
-      "VLK_4005_Arbeiter",
-      "VLK_4000_Buerger",
-      "VLK_450_Buerger",
       "VLK_453_Buerger",
       "VLK_467_Buerger",
       "VLK_442_Arbeiter",
-      "VLK_4004_Arbeiter"
+      "VLK_4005_Arbeiter",
+      "VLK_4006_Bote",
+      "VLK_4004_Arbeiter",
+      "VLK_452_Buerger",
+      "VLK_4000_Buerger",
+      "VLK_450_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -454,15 +454,15 @@
     "text": "Spróbuj u kowala lub cieśli, w dolnej części miasta. Znajdziesz tam także kilku szanowanych mistrzów.",
     "source_file": "B_AssignAmbientInfos_VLK_6.d",
     "npcs": [
-      "VLK_452_Buerger",
-      "VLK_4006_Bote",
-      "VLK_4005_Arbeiter",
-      "VLK_4000_Buerger",
-      "VLK_450_Buerger",
       "VLK_453_Buerger",
       "VLK_467_Buerger",
       "VLK_442_Arbeiter",
-      "VLK_4004_Arbeiter"
+      "VLK_4005_Arbeiter",
+      "VLK_4006_Bote",
+      "VLK_4004_Arbeiter",
+      "VLK_452_Buerger",
+      "VLK_4000_Buerger",
+      "VLK_450_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -477,15 +477,15 @@
     "text": "Jeśli w tym mieście ktokolwiek oprócz straży i paladynów ma coś do powiedzenia, to właśnie oni.",
     "source_file": "B_AssignAmbientInfos_VLK_6.d",
     "npcs": [
-      "VLK_452_Buerger",
-      "VLK_4006_Bote",
-      "VLK_4005_Arbeiter",
-      "VLK_4000_Buerger",
-      "VLK_450_Buerger",
       "VLK_453_Buerger",
       "VLK_467_Buerger",
       "VLK_442_Arbeiter",
-      "VLK_4004_Arbeiter"
+      "VLK_4005_Arbeiter",
+      "VLK_4006_Bote",
+      "VLK_4004_Arbeiter",
+      "VLK_452_Buerger",
+      "VLK_4000_Buerger",
+      "VLK_450_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -515,15 +515,15 @@
     "text": "Nietrudno się tu zgubić, co? Nawet drogowskazy niewiele pomagają.",
     "source_file": "B_AssignAmbientInfos_VLK_6.d",
     "npcs": [
-      "VLK_452_Buerger",
-      "VLK_4006_Bote",
-      "VLK_4005_Arbeiter",
-      "VLK_4000_Buerger",
-      "VLK_450_Buerger",
       "VLK_453_Buerger",
       "VLK_467_Buerger",
       "VLK_442_Arbeiter",
-      "VLK_4004_Arbeiter"
+      "VLK_4005_Arbeiter",
+      "VLK_4006_Bote",
+      "VLK_4004_Arbeiter",
+      "VLK_452_Buerger",
+      "VLK_4000_Buerger",
+      "VLK_450_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -538,15 +538,15 @@
     "text": "Jeśli masz kiepską orientację, udaj się do dzielnicy portowej. Kiedy już tam trafisz, idź do domu kartografa.",
     "source_file": "B_AssignAmbientInfos_VLK_6.d",
     "npcs": [
-      "VLK_452_Buerger",
-      "VLK_4006_Bote",
-      "VLK_4005_Arbeiter",
-      "VLK_4000_Buerger",
-      "VLK_450_Buerger",
       "VLK_453_Buerger",
       "VLK_467_Buerger",
       "VLK_442_Arbeiter",
-      "VLK_4004_Arbeiter"
+      "VLK_4005_Arbeiter",
+      "VLK_4006_Bote",
+      "VLK_4004_Arbeiter",
+      "VLK_452_Buerger",
+      "VLK_4000_Buerger",
+      "VLK_450_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -561,15 +561,15 @@
     "text": "Jego dom znajduje się przy pomoście, niedaleko knajpy. Jestem pewien, że Brahim znajdzie dla ciebie jakąś mapę.",
     "source_file": "B_AssignAmbientInfos_VLK_6.d",
     "npcs": [
-      "VLK_452_Buerger",
-      "VLK_4006_Bote",
-      "VLK_4005_Arbeiter",
-      "VLK_4000_Buerger",
-      "VLK_450_Buerger",
       "VLK_453_Buerger",
       "VLK_467_Buerger",
       "VLK_442_Arbeiter",
-      "VLK_4004_Arbeiter"
+      "VLK_4005_Arbeiter",
+      "VLK_4006_Bote",
+      "VLK_4004_Arbeiter",
+      "VLK_452_Buerger",
+      "VLK_4000_Buerger",
+      "VLK_450_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -599,15 +599,15 @@
     "text": "Od kiedy upadła Bariera, w mieście roi się od bandytów. Paladyni w ogóle się tym nie przejmują. Po cholerę więc siedzą w mieście?",
     "source_file": "B_AssignAmbientInfos_VLK_6.d",
     "npcs": [
-      "VLK_452_Buerger",
-      "VLK_4006_Bote",
-      "VLK_4005_Arbeiter",
-      "VLK_4000_Buerger",
-      "VLK_450_Buerger",
       "VLK_453_Buerger",
       "VLK_467_Buerger",
       "VLK_442_Arbeiter",
-      "VLK_4004_Arbeiter"
+      "VLK_4005_Arbeiter",
+      "VLK_4006_Bote",
+      "VLK_4004_Arbeiter",
+      "VLK_452_Buerger",
+      "VLK_4000_Buerger",
+      "VLK_450_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -622,15 +622,15 @@
     "text": "Ostatnio bandyci nie dają się aż tak bardzo we znaki. Wygląda na to, że ktoś w końcu się nimi zajął.",
     "source_file": "B_AssignAmbientInfos_VLK_6.d",
     "npcs": [
-      "VLK_452_Buerger",
-      "VLK_4006_Bote",
-      "VLK_4005_Arbeiter",
-      "VLK_4000_Buerger",
-      "VLK_450_Buerger",
       "VLK_453_Buerger",
       "VLK_467_Buerger",
       "VLK_442_Arbeiter",
-      "VLK_4004_Arbeiter"
+      "VLK_4005_Arbeiter",
+      "VLK_4006_Bote",
+      "VLK_4004_Arbeiter",
+      "VLK_452_Buerger",
+      "VLK_4000_Buerger",
+      "VLK_450_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -645,15 +645,15 @@
     "text": "Tego śmierdzącego najemnika, mordercę paladyna, wypuszczono na wolność. Myślę, że należał mu się stryczek.",
     "source_file": "B_AssignAmbientInfos_VLK_6.d",
     "npcs": [
-      "VLK_452_Buerger",
-      "VLK_4006_Bote",
-      "VLK_4005_Arbeiter",
-      "VLK_4000_Buerger",
-      "VLK_450_Buerger",
       "VLK_453_Buerger",
       "VLK_467_Buerger",
       "VLK_442_Arbeiter",
-      "VLK_4004_Arbeiter"
+      "VLK_4005_Arbeiter",
+      "VLK_4006_Bote",
+      "VLK_4004_Arbeiter",
+      "VLK_452_Buerger",
+      "VLK_4000_Buerger",
+      "VLK_450_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -668,15 +668,15 @@
     "text": "Podobno jeden z ludzi Onara zamordował paladyna. Złapali go ponoć i wtrącili do paki. Niedługo będzie wisiał.",
     "source_file": "B_AssignAmbientInfos_VLK_6.d",
     "npcs": [
-      "VLK_452_Buerger",
-      "VLK_4006_Bote",
-      "VLK_4005_Arbeiter",
-      "VLK_4000_Buerger",
-      "VLK_450_Buerger",
       "VLK_453_Buerger",
       "VLK_467_Buerger",
       "VLK_442_Arbeiter",
-      "VLK_4004_Arbeiter"
+      "VLK_4005_Arbeiter",
+      "VLK_4006_Bote",
+      "VLK_4004_Arbeiter",
+      "VLK_452_Buerger",
+      "VLK_4000_Buerger",
+      "VLK_450_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -691,15 +691,15 @@
     "text": "Zastanawiam się, czy w opowieściach o smokach jest choć trochę prawdy...",
     "source_file": "B_AssignAmbientInfos_VLK_6.d",
     "npcs": [
-      "VLK_452_Buerger",
-      "VLK_4006_Bote",
-      "VLK_4005_Arbeiter",
-      "VLK_4000_Buerger",
-      "VLK_450_Buerger",
       "VLK_453_Buerger",
       "VLK_467_Buerger",
       "VLK_442_Arbeiter",
-      "VLK_4004_Arbeiter"
+      "VLK_4005_Arbeiter",
+      "VLK_4006_Bote",
+      "VLK_4004_Arbeiter",
+      "VLK_452_Buerger",
+      "VLK_4000_Buerger",
+      "VLK_450_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -714,15 +714,15 @@
     "text": "Powiadają, że Lord Hagen zbiera wojska, by wyzwolić Górniczą Dolinę. Nareszcie coś się dzieje!",
     "source_file": "B_AssignAmbientInfos_VLK_6.d",
     "npcs": [
-      "VLK_452_Buerger",
-      "VLK_4006_Bote",
-      "VLK_4005_Arbeiter",
-      "VLK_4000_Buerger",
-      "VLK_450_Buerger",
       "VLK_453_Buerger",
       "VLK_467_Buerger",
       "VLK_442_Arbeiter",
-      "VLK_4004_Arbeiter"
+      "VLK_4005_Arbeiter",
+      "VLK_4006_Bote",
+      "VLK_4004_Arbeiter",
+      "VLK_452_Buerger",
+      "VLK_4000_Buerger",
+      "VLK_450_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -752,11 +752,11 @@
     "text": "Po co mi to mówisz? Idź do któregoś z rzemieślników w dolnej części miasta. Jeśli dopisze ci szczęście, któryś przyjmie cię na czeladnika.",
     "source_file": "B_AssignAmbientInfos_VLK_8.d",
     "npcs": [
-      "VLK_451_Buerger",
+      "VLK_460_Buerger",
       "VLK_455_Buerger",
       "VLK_489_Buerger",
       "VLK_481_Buerger",
-      "VLK_460_Buerger"
+      "VLK_451_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -771,11 +771,11 @@
     "text": "W innym wypadku będziesz musiał pójść do gubernatora i zostać zarejestrowany jako prawny obywatel.",
     "source_file": "B_AssignAmbientInfos_VLK_8.d",
     "npcs": [
-      "VLK_451_Buerger",
+      "VLK_460_Buerger",
       "VLK_455_Buerger",
       "VLK_489_Buerger",
       "VLK_481_Buerger",
-      "VLK_460_Buerger"
+      "VLK_451_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -790,11 +790,11 @@
     "text": "W chwili obecnej możesz jednak o tym zapomnieć. Dopóki w mieście stacjonują paladyni, dopóty gubernator nie ma władzy w mieście.",
     "source_file": "B_AssignAmbientInfos_VLK_8.d",
     "npcs": [
-      "VLK_451_Buerger",
+      "VLK_460_Buerger",
       "VLK_455_Buerger",
       "VLK_489_Buerger",
       "VLK_481_Buerger",
-      "VLK_460_Buerger"
+      "VLK_451_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -809,11 +809,11 @@
     "text": "Przywódca paladynów, Lord Hagen, z pewnością nie ma czasu na takie drobnostki.",
     "source_file": "B_AssignAmbientInfos_VLK_8.d",
     "npcs": [
-      "VLK_451_Buerger",
+      "VLK_460_Buerger",
       "VLK_455_Buerger",
       "VLK_489_Buerger",
       "VLK_481_Buerger",
-      "VLK_460_Buerger"
+      "VLK_451_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -843,11 +843,11 @@
     "text": "Oprócz paladynów... Najważniejsi są rzemieślnicy z dolnej części miasta. Ich zdanie bardzo się tu liczy.",
     "source_file": "B_AssignAmbientInfos_VLK_8.d",
     "npcs": [
-      "VLK_451_Buerger",
+      "VLK_460_Buerger",
       "VLK_455_Buerger",
       "VLK_489_Buerger",
       "VLK_481_Buerger",
-      "VLK_460_Buerger"
+      "VLK_451_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -877,11 +877,11 @@
     "text": "Niedawno do portu wpłynął statek paladynów. Jest wielki. Koniecznie musisz go zobaczyć.",
     "source_file": "B_AssignAmbientInfos_VLK_8.d",
     "npcs": [
-      "VLK_451_Buerger",
+      "VLK_460_Buerger",
       "VLK_455_Buerger",
       "VLK_489_Buerger",
       "VLK_481_Buerger",
-      "VLK_460_Buerger"
+      "VLK_451_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -896,11 +896,11 @@
     "text": "Wątpię jednak, by chcieli cię wpuścić na pokład. Paladyni bronią wstępu na statek jak klejnotów koronnych.",
     "source_file": "B_AssignAmbientInfos_VLK_8.d",
     "npcs": [
-      "VLK_451_Buerger",
+      "VLK_460_Buerger",
       "VLK_455_Buerger",
       "VLK_489_Buerger",
       "VLK_481_Buerger",
-      "VLK_460_Buerger"
+      "VLK_451_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -915,11 +915,11 @@
     "text": "Nic dziwnego. To jedyna pływająca jednostka zakotwiczona w okolicy.",
     "source_file": "B_AssignAmbientInfos_VLK_8.d",
     "npcs": [
-      "VLK_451_Buerger",
+      "VLK_460_Buerger",
       "VLK_455_Buerger",
       "VLK_489_Buerger",
       "VLK_481_Buerger",
-      "VLK_460_Buerger"
+      "VLK_451_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -949,11 +949,11 @@
     "text": "Ostatnimi czasy wszyscy są bardzo nerwowi.",
     "source_file": "B_AssignAmbientInfos_VLK_8.d",
     "npcs": [
-      "VLK_451_Buerger",
+      "VLK_460_Buerger",
       "VLK_455_Buerger",
       "VLK_489_Buerger",
       "VLK_481_Buerger",
-      "VLK_460_Buerger"
+      "VLK_451_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -968,11 +968,11 @@
     "text": "Jakby mało było tego, że przybyli tu paladyni - teraz jeszcze znikają ludzie!",
     "source_file": "B_AssignAmbientInfos_VLK_8.d",
     "npcs": [
-      "VLK_451_Buerger",
+      "VLK_460_Buerger",
       "VLK_455_Buerger",
       "VLK_489_Buerger",
       "VLK_481_Buerger",
-      "VLK_460_Buerger"
+      "VLK_451_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -987,11 +987,11 @@
     "text": "Najwyższa pora, żeby straż coś z tym zrobiła.",
     "source_file": "B_AssignAmbientInfos_VLK_8.d",
     "npcs": [
-      "VLK_451_Buerger",
+      "VLK_460_Buerger",
       "VLK_455_Buerger",
       "VLK_489_Buerger",
       "VLK_481_Buerger",
-      "VLK_460_Buerger"
+      "VLK_451_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -1006,11 +1006,11 @@
     "text": "Wszyscy czekają na ogłoszenie powodu wizyty paladynów. Domyślam się, że są tu z powodu orków. Bestie pewnie wkrótce zaatakują!",
     "source_file": "B_AssignAmbientInfos_VLK_8.d",
     "npcs": [
-      "VLK_451_Buerger",
+      "VLK_460_Buerger",
       "VLK_455_Buerger",
       "VLK_489_Buerger",
       "VLK_481_Buerger",
-      "VLK_460_Buerger"
+      "VLK_451_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -1025,11 +1025,11 @@
     "text": "Może i paladynów prowadzi łaska Innosa, lecz kiedy zjawią się orkowe hordy, wszyscy będziemy straceni.",
     "source_file": "B_AssignAmbientInfos_VLK_8.d",
     "npcs": [
-      "VLK_451_Buerger",
+      "VLK_460_Buerger",
       "VLK_455_Buerger",
       "VLK_489_Buerger",
       "VLK_481_Buerger",
-      "VLK_460_Buerger"
+      "VLK_451_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -1044,11 +1044,11 @@
     "text": "Ludzie powiadają, że jedynym powodem wizyty paladynów jest chęć zabrania rudy... na potrzeby wojny na kontynencie.",
     "source_file": "B_AssignAmbientInfos_VLK_8.d",
     "npcs": [
-      "VLK_451_Buerger",
+      "VLK_460_Buerger",
       "VLK_455_Buerger",
       "VLK_489_Buerger",
       "VLK_481_Buerger",
-      "VLK_460_Buerger"
+      "VLK_451_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -1063,11 +1063,11 @@
     "text": "Czy wiesz, co to oznacza? Król ma w głębokim poważaniu to, że orkowie wszystkich nas pozabijają.",
     "source_file": "B_AssignAmbientInfos_VLK_8.d",
     "npcs": [
-      "VLK_451_Buerger",
+      "VLK_460_Buerger",
       "VLK_455_Buerger",
       "VLK_489_Buerger",
       "VLK_481_Buerger",
-      "VLK_460_Buerger"
+      "VLK_451_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -1082,11 +1082,11 @@
     "text": "Zrobię wszystko, by być na tym statku, kiedy paladyni zaczną podnosić kotwicę.",
     "source_file": "B_AssignAmbientInfos_VLK_8.d",
     "npcs": [
-      "VLK_451_Buerger",
+      "VLK_460_Buerger",
       "VLK_455_Buerger",
       "VLK_489_Buerger",
       "VLK_481_Buerger",
-      "VLK_460_Buerger"
+      "VLK_451_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -1101,11 +1101,11 @@
     "text": "Ponoć orkowie lecą tutaj na grzbietach smoków, wielkich jak połowa miasta. Nie mamy żadnych szans na obronę!",
     "source_file": "B_AssignAmbientInfos_VLK_8.d",
     "npcs": [
-      "VLK_451_Buerger",
+      "VLK_460_Buerger",
       "VLK_455_Buerger",
       "VLK_489_Buerger",
       "VLK_481_Buerger",
-      "VLK_460_Buerger"
+      "VLK_451_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -1120,11 +1120,11 @@
     "text": "Ludzie mówią, że smoki zostały pokonane. Czy to prawda?",
     "source_file": "B_AssignAmbientInfos_VLK_8.d",
     "npcs": [
-      "VLK_451_Buerger",
+      "VLK_460_Buerger",
       "VLK_455_Buerger",
       "VLK_489_Buerger",
       "VLK_481_Buerger",
-      "VLK_460_Buerger"
+      "VLK_451_Buerger"
     ],
     "G": "1",
     "source": "self",
@@ -1154,17 +1154,17 @@
     "text": "Czy pomożesz nam w obronie miasta przed atakami orków?",
     "source_file": "B_AssignAmbientInfos_VLK_16.d",
     "npcs": [
-      "VLK_427_Buergerin",
       "VLK_429_Buergerin",
-      "VLK_482_Buergerin",
-      "VLK_4001_Buergerin",
-      "VLK_497_Buergerin",
-      "VLK_428_Buergerin",
+      "VLK_427_Buergerin",
+      "VLK_485_Buergerin",
       "VLK_472_Buergerin",
-      "VLK_483_Buergerin",
       "VLK_488_Buergerin",
-      "VLK_495_Buergerin",
-      "VLK_485_Buergerin"
+      "VLK_497_Buergerin",
+      "VLK_483_Buergerin",
+      "VLK_4001_Buergerin",
+      "VLK_428_Buergerin",
+      "VLK_482_Buergerin",
+      "VLK_495_Buergerin"
     ],
     "G": "1",
     "source": "self",
@@ -1179,17 +1179,17 @@
     "text": "Jeśli jesteś obywatelem Khorinis, możesz przyłączyć się do oddziałów straży - w tej sprawie porozmawiaj z którymś ze strażników.",
     "source_file": "B_AssignAmbientInfos_VLK_16.d",
     "npcs": [
-      "VLK_427_Buergerin",
       "VLK_429_Buergerin",
-      "VLK_482_Buergerin",
-      "VLK_4001_Buergerin",
-      "VLK_497_Buergerin",
-      "VLK_428_Buergerin",
+      "VLK_427_Buergerin",
+      "VLK_485_Buergerin",
       "VLK_472_Buergerin",
-      "VLK_483_Buergerin",
       "VLK_488_Buergerin",
-      "VLK_495_Buergerin",
-      "VLK_485_Buergerin"
+      "VLK_497_Buergerin",
+      "VLK_483_Buergerin",
+      "VLK_4001_Buergerin",
+      "VLK_428_Buergerin",
+      "VLK_482_Buergerin",
+      "VLK_495_Buergerin"
     ],
     "G": "1",
     "source": "self",
@@ -1219,17 +1219,17 @@
     "text": "Paladyni, ich siedziba znajduje się w górnym mieście.",
     "source_file": "B_AssignAmbientInfos_VLK_16.d",
     "npcs": [
-      "VLK_427_Buergerin",
       "VLK_429_Buergerin",
-      "VLK_482_Buergerin",
-      "VLK_4001_Buergerin",
-      "VLK_497_Buergerin",
-      "VLK_428_Buergerin",
+      "VLK_427_Buergerin",
+      "VLK_485_Buergerin",
       "VLK_472_Buergerin",
-      "VLK_483_Buergerin",
       "VLK_488_Buergerin",
-      "VLK_495_Buergerin",
-      "VLK_485_Buergerin"
+      "VLK_497_Buergerin",
+      "VLK_483_Buergerin",
+      "VLK_4001_Buergerin",
+      "VLK_428_Buergerin",
+      "VLK_482_Buergerin",
+      "VLK_495_Buergerin"
     ],
     "G": "1",
     "source": "self",
@@ -1259,17 +1259,17 @@
     "text": "Na targowisku odnajdziesz wszelkie możliwe towary.",
     "source_file": "B_AssignAmbientInfos_VLK_16.d",
     "npcs": [
-      "VLK_427_Buergerin",
       "VLK_429_Buergerin",
-      "VLK_482_Buergerin",
-      "VLK_4001_Buergerin",
-      "VLK_497_Buergerin",
-      "VLK_428_Buergerin",
+      "VLK_427_Buergerin",
+      "VLK_485_Buergerin",
       "VLK_472_Buergerin",
-      "VLK_483_Buergerin",
       "VLK_488_Buergerin",
-      "VLK_495_Buergerin",
-      "VLK_485_Buergerin"
+      "VLK_497_Buergerin",
+      "VLK_483_Buergerin",
+      "VLK_4001_Buergerin",
+      "VLK_428_Buergerin",
+      "VLK_482_Buergerin",
+      "VLK_495_Buergerin"
     ],
     "G": "1",
     "source": "self",
@@ -1299,17 +1299,17 @@
     "text": "Mam nadzieję, że straż w końcu dowie się, dlaczego Khorinis ma coraz mniej mieszkańców.",
     "source_file": "B_AssignAmbientInfos_VLK_16.d",
     "npcs": [
-      "VLK_427_Buergerin",
       "VLK_429_Buergerin",
-      "VLK_482_Buergerin",
-      "VLK_4001_Buergerin",
-      "VLK_497_Buergerin",
-      "VLK_428_Buergerin",
+      "VLK_427_Buergerin",
+      "VLK_485_Buergerin",
       "VLK_472_Buergerin",
-      "VLK_483_Buergerin",
       "VLK_488_Buergerin",
-      "VLK_495_Buergerin",
-      "VLK_485_Buergerin"
+      "VLK_497_Buergerin",
+      "VLK_483_Buergerin",
+      "VLK_4001_Buergerin",
+      "VLK_428_Buergerin",
+      "VLK_482_Buergerin",
+      "VLK_495_Buergerin"
     ],
     "G": "1",
     "source": "self",
@@ -1324,17 +1324,17 @@
     "text": "Wiedząc, ile osób już zaginęło, człowiek zaczyna się bać o swoje życie.",
     "source_file": "B_AssignAmbientInfos_VLK_16.d",
     "npcs": [
-      "VLK_427_Buergerin",
       "VLK_429_Buergerin",
-      "VLK_482_Buergerin",
-      "VLK_4001_Buergerin",
-      "VLK_497_Buergerin",
-      "VLK_428_Buergerin",
+      "VLK_427_Buergerin",
+      "VLK_485_Buergerin",
       "VLK_472_Buergerin",
-      "VLK_483_Buergerin",
       "VLK_488_Buergerin",
-      "VLK_495_Buergerin",
-      "VLK_485_Buergerin"
+      "VLK_497_Buergerin",
+      "VLK_483_Buergerin",
+      "VLK_4001_Buergerin",
+      "VLK_428_Buergerin",
+      "VLK_482_Buergerin",
+      "VLK_495_Buergerin"
     ],
     "G": "1",
     "source": "self",
@@ -1349,17 +1349,17 @@
     "text": "Nie słyszałeś, że ponoć na obrzeżach miasta dostrzeżono orków? Miejmy nadzieję, że paladyni sobie z nimi poradzą.",
     "source_file": "B_AssignAmbientInfos_VLK_16.d",
     "npcs": [
-      "VLK_427_Buergerin",
       "VLK_429_Buergerin",
-      "VLK_482_Buergerin",
-      "VLK_4001_Buergerin",
-      "VLK_497_Buergerin",
-      "VLK_428_Buergerin",
+      "VLK_427_Buergerin",
+      "VLK_485_Buergerin",
       "VLK_472_Buergerin",
-      "VLK_483_Buergerin",
       "VLK_488_Buergerin",
-      "VLK_495_Buergerin",
-      "VLK_485_Buergerin"
+      "VLK_497_Buergerin",
+      "VLK_483_Buergerin",
+      "VLK_4001_Buergerin",
+      "VLK_428_Buergerin",
+      "VLK_482_Buergerin",
+      "VLK_495_Buergerin"
     ],
     "G": "1",
     "source": "self",
@@ -1374,17 +1374,17 @@
     "text": "Zastanawiam się, czy właśnie to jest powodem, dla którego farmerzy nie zjawiają się na targu.",
     "source_file": "B_AssignAmbientInfos_VLK_16.d",
     "npcs": [
-      "VLK_427_Buergerin",
       "VLK_429_Buergerin",
-      "VLK_482_Buergerin",
-      "VLK_4001_Buergerin",
-      "VLK_497_Buergerin",
-      "VLK_428_Buergerin",
+      "VLK_427_Buergerin",
+      "VLK_485_Buergerin",
       "VLK_472_Buergerin",
-      "VLK_483_Buergerin",
       "VLK_488_Buergerin",
-      "VLK_495_Buergerin",
-      "VLK_485_Buergerin"
+      "VLK_497_Buergerin",
+      "VLK_483_Buergerin",
+      "VLK_4001_Buergerin",
+      "VLK_428_Buergerin",
+      "VLK_482_Buergerin",
+      "VLK_495_Buergerin"
     ],
     "G": "1",
     "source": "self",
@@ -1399,17 +1399,17 @@
     "text": "Najemnik, którego oskarżono o zabójstwo Lothara, jest niewinny. Znaleziono dowód na to, że biedaka wrobiono! Słyszałam o tym na targowisku...",
     "source_file": "B_AssignAmbientInfos_VLK_16.d",
     "npcs": [
-      "VLK_427_Buergerin",
       "VLK_429_Buergerin",
-      "VLK_482_Buergerin",
-      "VLK_4001_Buergerin",
-      "VLK_497_Buergerin",
-      "VLK_428_Buergerin",
+      "VLK_427_Buergerin",
+      "VLK_485_Buergerin",
       "VLK_472_Buergerin",
-      "VLK_483_Buergerin",
       "VLK_488_Buergerin",
-      "VLK_495_Buergerin",
-      "VLK_485_Buergerin"
+      "VLK_497_Buergerin",
+      "VLK_483_Buergerin",
+      "VLK_4001_Buergerin",
+      "VLK_428_Buergerin",
+      "VLK_482_Buergerin",
+      "VLK_495_Buergerin"
     ],
     "G": "1",
     "source": "self",
@@ -1424,17 +1424,17 @@
     "text": "To oburzające. Najemnicy zarządcy bez żadnych skrupułów zamordowali czcigodnego paladyna Lothara!",
     "source_file": "B_AssignAmbientInfos_VLK_16.d",
     "npcs": [
-      "VLK_427_Buergerin",
       "VLK_429_Buergerin",
-      "VLK_482_Buergerin",
-      "VLK_4001_Buergerin",
-      "VLK_497_Buergerin",
-      "VLK_428_Buergerin",
+      "VLK_427_Buergerin",
+      "VLK_485_Buergerin",
       "VLK_472_Buergerin",
-      "VLK_483_Buergerin",
       "VLK_488_Buergerin",
-      "VLK_495_Buergerin",
-      "VLK_485_Buergerin"
+      "VLK_497_Buergerin",
+      "VLK_483_Buergerin",
+      "VLK_4001_Buergerin",
+      "VLK_428_Buergerin",
+      "VLK_482_Buergerin",
+      "VLK_495_Buergerin"
     ],
     "G": "1",
     "source": "self",
@@ -1449,17 +1449,17 @@
     "text": "Jednak sprawiedliwa ręka Innosa dosięgnie tych grzeszników. Nikt nie ma prawa podnosić miecza na wojowników naszego Pana.",
     "source_file": "B_AssignAmbientInfos_VLK_16.d",
     "npcs": [
-      "VLK_427_Buergerin",
       "VLK_429_Buergerin",
-      "VLK_482_Buergerin",
-      "VLK_4001_Buergerin",
-      "VLK_497_Buergerin",
-      "VLK_428_Buergerin",
+      "VLK_427_Buergerin",
+      "VLK_485_Buergerin",
       "VLK_472_Buergerin",
-      "VLK_483_Buergerin",
       "VLK_488_Buergerin",
-      "VLK_495_Buergerin",
-      "VLK_485_Buergerin"
+      "VLK_497_Buergerin",
+      "VLK_483_Buergerin",
+      "VLK_4001_Buergerin",
+      "VLK_428_Buergerin",
+      "VLK_482_Buergerin",
+      "VLK_495_Buergerin"
     ],
     "G": "1",
     "source": "self",
@@ -1474,17 +1474,17 @@
     "text": "Ponoć przestępcy opuszczają farmę Onara. Mówią, że boją się ludzi Lorda Hagena, i dlatego wracają do Górniczej Doliny.",
     "source_file": "B_AssignAmbientInfos_VLK_16.d",
     "npcs": [
-      "VLK_427_Buergerin",
       "VLK_429_Buergerin",
-      "VLK_482_Buergerin",
-      "VLK_4001_Buergerin",
-      "VLK_497_Buergerin",
-      "VLK_428_Buergerin",
+      "VLK_427_Buergerin",
+      "VLK_485_Buergerin",
       "VLK_472_Buergerin",
-      "VLK_483_Buergerin",
       "VLK_488_Buergerin",
-      "VLK_495_Buergerin",
-      "VLK_485_Buergerin"
+      "VLK_497_Buergerin",
+      "VLK_483_Buergerin",
+      "VLK_4001_Buergerin",
+      "VLK_428_Buergerin",
+      "VLK_482_Buergerin",
+      "VLK_495_Buergerin"
     ],
     "G": "1",
     "source": "self",
@@ -1499,17 +1499,17 @@
     "text": "Doszły mnie słuchy, że straszliwe smoki w Górniczej Dolinie zostały pokonane przez oddziały paladynów.",
     "source_file": "B_AssignAmbientInfos_VLK_16.d",
     "npcs": [
-      "VLK_427_Buergerin",
       "VLK_429_Buergerin",
-      "VLK_482_Buergerin",
-      "VLK_4001_Buergerin",
-      "VLK_497_Buergerin",
-      "VLK_428_Buergerin",
+      "VLK_427_Buergerin",
+      "VLK_485_Buergerin",
       "VLK_472_Buergerin",
-      "VLK_483_Buergerin",
       "VLK_488_Buergerin",
-      "VLK_495_Buergerin",
-      "VLK_485_Buergerin"
+      "VLK_497_Buergerin",
+      "VLK_483_Buergerin",
+      "VLK_4001_Buergerin",
+      "VLK_428_Buergerin",
+      "VLK_482_Buergerin",
+      "VLK_495_Buergerin"
     ],
     "G": "1",
     "source": "self",
@@ -1539,17 +1539,17 @@
     "text": "Mistrzowie rzemiosła z dolnej części miasta posiadają bardzo duże wpływy. Powinieneś porozmawiać z którymś z nich.",
     "source_file": "B_AssignAmbientInfos_VLK_17.d",
     "npcs": [
-      "VLK_4002_Buergerin",
       "VLK_478_Buergerin",
-      "VLK_426_Buergerin",
-      "VLK_473_Buergerin",
-      "VLK_4200_Buergerin",
-      "VLK_477_Buergerin",
-      "VLK_4003_Buergerin",
-      "VLK_486_Buergerin",
-      "VLK_479_Lucy",
       "VLK_487_Buergerin",
+      "VLK_486_Buergerin",
       "VLK_430_Buergerin",
+      "VLK_473_Buergerin",
+      "VLK_426_Buergerin",
+      "VLK_4003_Buergerin",
+      "VLK_477_Buergerin",
+      "VLK_479_Lucy",
+      "VLK_4002_Buergerin",
+      "VLK_4200_Buergerin",
       "VLK_496_Buergerin",
       "VLK_490_Buergerin"
     ],
@@ -1581,17 +1581,17 @@
     "text": "Od swojego przybycia paladyni kontrolują właściwie całe Khorinis.",
     "source_file": "B_AssignAmbientInfos_VLK_17.d",
     "npcs": [
-      "VLK_4002_Buergerin",
       "VLK_478_Buergerin",
-      "VLK_426_Buergerin",
-      "VLK_473_Buergerin",
-      "VLK_4200_Buergerin",
-      "VLK_477_Buergerin",
-      "VLK_4003_Buergerin",
-      "VLK_486_Buergerin",
-      "VLK_479_Lucy",
       "VLK_487_Buergerin",
+      "VLK_486_Buergerin",
       "VLK_430_Buergerin",
+      "VLK_473_Buergerin",
+      "VLK_426_Buergerin",
+      "VLK_4003_Buergerin",
+      "VLK_477_Buergerin",
+      "VLK_479_Lucy",
+      "VLK_4002_Buergerin",
+      "VLK_4200_Buergerin",
       "VLK_496_Buergerin",
       "VLK_490_Buergerin"
     ],
@@ -1608,17 +1608,17 @@
     "text": "Przedstawicielem prawa w mieście jest Lord Andre, znajdziesz go w koszarach.",
     "source_file": "B_AssignAmbientInfos_VLK_17.d",
     "npcs": [
-      "VLK_4002_Buergerin",
       "VLK_478_Buergerin",
-      "VLK_426_Buergerin",
-      "VLK_473_Buergerin",
-      "VLK_4200_Buergerin",
-      "VLK_477_Buergerin",
-      "VLK_4003_Buergerin",
-      "VLK_486_Buergerin",
-      "VLK_479_Lucy",
       "VLK_487_Buergerin",
+      "VLK_486_Buergerin",
       "VLK_430_Buergerin",
+      "VLK_473_Buergerin",
+      "VLK_426_Buergerin",
+      "VLK_4003_Buergerin",
+      "VLK_477_Buergerin",
+      "VLK_479_Lucy",
+      "VLK_4002_Buergerin",
+      "VLK_4200_Buergerin",
       "VLK_496_Buergerin",
       "VLK_490_Buergerin"
     ],
@@ -1635,17 +1635,17 @@
     "text": "Są tylko dwa sposoby na spotkanie się z nim - można złamać prawo albo przyłączyć się do straży miejskiej.",
     "source_file": "B_AssignAmbientInfos_VLK_17.d",
     "npcs": [
-      "VLK_4002_Buergerin",
       "VLK_478_Buergerin",
-      "VLK_426_Buergerin",
-      "VLK_473_Buergerin",
-      "VLK_4200_Buergerin",
-      "VLK_477_Buergerin",
-      "VLK_4003_Buergerin",
-      "VLK_486_Buergerin",
-      "VLK_479_Lucy",
       "VLK_487_Buergerin",
+      "VLK_486_Buergerin",
       "VLK_430_Buergerin",
+      "VLK_473_Buergerin",
+      "VLK_426_Buergerin",
+      "VLK_4003_Buergerin",
+      "VLK_477_Buergerin",
+      "VLK_479_Lucy",
+      "VLK_4002_Buergerin",
+      "VLK_4200_Buergerin",
       "VLK_496_Buergerin",
       "VLK_490_Buergerin"
     ],
@@ -1677,17 +1677,17 @@
     "text": "Może powinieneś zapytać o to jakiegoś mężczyznę. Jeśli szukasz rozrywki, udaj się do dzielnicy portowej.",
     "source_file": "B_AssignAmbientInfos_VLK_17.d",
     "npcs": [
-      "VLK_4002_Buergerin",
       "VLK_478_Buergerin",
-      "VLK_426_Buergerin",
-      "VLK_473_Buergerin",
-      "VLK_4200_Buergerin",
-      "VLK_477_Buergerin",
-      "VLK_4003_Buergerin",
-      "VLK_486_Buergerin",
-      "VLK_479_Lucy",
       "VLK_487_Buergerin",
+      "VLK_486_Buergerin",
       "VLK_430_Buergerin",
+      "VLK_473_Buergerin",
+      "VLK_426_Buergerin",
+      "VLK_4003_Buergerin",
+      "VLK_477_Buergerin",
+      "VLK_479_Lucy",
+      "VLK_4002_Buergerin",
+      "VLK_4200_Buergerin",
       "VLK_496_Buergerin",
       "VLK_490_Buergerin"
     ],
@@ -1704,17 +1704,17 @@
     "text": "Jeśli jednak chcesz coś kupić, udaj się na targowisko niedaleko wschodniej bramy, lub do dolnej części miasta.",
     "source_file": "B_AssignAmbientInfos_VLK_17.d",
     "npcs": [
-      "VLK_4002_Buergerin",
       "VLK_478_Buergerin",
-      "VLK_426_Buergerin",
-      "VLK_473_Buergerin",
-      "VLK_4200_Buergerin",
-      "VLK_477_Buergerin",
-      "VLK_4003_Buergerin",
-      "VLK_486_Buergerin",
-      "VLK_479_Lucy",
       "VLK_487_Buergerin",
+      "VLK_486_Buergerin",
       "VLK_430_Buergerin",
+      "VLK_473_Buergerin",
+      "VLK_426_Buergerin",
+      "VLK_4003_Buergerin",
+      "VLK_477_Buergerin",
+      "VLK_479_Lucy",
+      "VLK_4002_Buergerin",
+      "VLK_4200_Buergerin",
       "VLK_496_Buergerin",
       "VLK_490_Buergerin"
     ],
@@ -1746,17 +1746,17 @@
     "text": "Zastanawiam się, po co paladyni pojawili się w mieście. Niby przejęli kontrolę nad ratuszem, koszarami i portem, ale, jak dotąd, nic nie robią.",
     "source_file": "B_AssignAmbientInfos_VLK_17.d",
     "npcs": [
-      "VLK_4002_Buergerin",
       "VLK_478_Buergerin",
-      "VLK_426_Buergerin",
-      "VLK_473_Buergerin",
-      "VLK_4200_Buergerin",
-      "VLK_477_Buergerin",
-      "VLK_4003_Buergerin",
-      "VLK_486_Buergerin",
-      "VLK_479_Lucy",
       "VLK_487_Buergerin",
+      "VLK_486_Buergerin",
       "VLK_430_Buergerin",
+      "VLK_473_Buergerin",
+      "VLK_426_Buergerin",
+      "VLK_4003_Buergerin",
+      "VLK_477_Buergerin",
+      "VLK_479_Lucy",
+      "VLK_4002_Buergerin",
+      "VLK_4200_Buergerin",
       "VLK_496_Buergerin",
       "VLK_490_Buergerin"
     ],
@@ -1773,17 +1773,17 @@
     "text": "Gdyby przyjechali tu zająć się orkami lub bandytami, już dawno powinni coś z tym zrobić. Musi być inny powód...",
     "source_file": "B_AssignAmbientInfos_VLK_17.d",
     "npcs": [
-      "VLK_4002_Buergerin",
       "VLK_478_Buergerin",
-      "VLK_426_Buergerin",
-      "VLK_473_Buergerin",
-      "VLK_4200_Buergerin",
-      "VLK_477_Buergerin",
-      "VLK_4003_Buergerin",
-      "VLK_486_Buergerin",
-      "VLK_479_Lucy",
       "VLK_487_Buergerin",
+      "VLK_486_Buergerin",
       "VLK_430_Buergerin",
+      "VLK_473_Buergerin",
+      "VLK_426_Buergerin",
+      "VLK_4003_Buergerin",
+      "VLK_477_Buergerin",
+      "VLK_479_Lucy",
+      "VLK_4002_Buergerin",
+      "VLK_4200_Buergerin",
       "VLK_496_Buergerin",
       "VLK_490_Buergerin"
     ],
@@ -1800,17 +1800,17 @@
     "text": "Chyba już wiem, co sprowadziło tu paladynów. Chodzi o rudę. Zajęliby się lepiej ochroną miasta.",
     "source_file": "B_AssignAmbientInfos_VLK_17.d",
     "npcs": [
-      "VLK_4002_Buergerin",
       "VLK_478_Buergerin",
-      "VLK_426_Buergerin",
-      "VLK_473_Buergerin",
-      "VLK_4200_Buergerin",
-      "VLK_477_Buergerin",
-      "VLK_4003_Buergerin",
-      "VLK_486_Buergerin",
-      "VLK_479_Lucy",
       "VLK_487_Buergerin",
+      "VLK_486_Buergerin",
       "VLK_430_Buergerin",
+      "VLK_473_Buergerin",
+      "VLK_426_Buergerin",
+      "VLK_4003_Buergerin",
+      "VLK_477_Buergerin",
+      "VLK_479_Lucy",
+      "VLK_4002_Buergerin",
+      "VLK_4200_Buergerin",
       "VLK_496_Buergerin",
       "VLK_490_Buergerin"
     ],
@@ -1827,17 +1827,17 @@
     "text": "Mam nadzieję, że w opowieściach o smokach jest trochę prawdy. Lord Hagen będzie musiał coś zrobić, nie narazi nas przecież na atak bestii.",
     "source_file": "B_AssignAmbientInfos_VLK_17.d",
     "npcs": [
-      "VLK_4002_Buergerin",
       "VLK_478_Buergerin",
-      "VLK_426_Buergerin",
-      "VLK_473_Buergerin",
-      "VLK_4200_Buergerin",
-      "VLK_477_Buergerin",
-      "VLK_4003_Buergerin",
-      "VLK_486_Buergerin",
-      "VLK_479_Lucy",
       "VLK_487_Buergerin",
+      "VLK_486_Buergerin",
       "VLK_430_Buergerin",
+      "VLK_473_Buergerin",
+      "VLK_426_Buergerin",
+      "VLK_4003_Buergerin",
+      "VLK_477_Buergerin",
+      "VLK_479_Lucy",
+      "VLK_4002_Buergerin",
+      "VLK_4200_Buergerin",
       "VLK_496_Buergerin",
       "VLK_490_Buergerin"
     ],
@@ -1854,17 +1854,17 @@
     "text": "Teraz, kiedy smoki zostały pokonane, paladyni nie powinni mieć problemu ze stłumieniem pozostałych niepokojów.",
     "source_file": "B_AssignAmbientInfos_VLK_17.d",
     "npcs": [
-      "VLK_4002_Buergerin",
       "VLK_478_Buergerin",
-      "VLK_426_Buergerin",
-      "VLK_473_Buergerin",
-      "VLK_4200_Buergerin",
-      "VLK_477_Buergerin",
-      "VLK_4003_Buergerin",
-      "VLK_486_Buergerin",
-      "VLK_479_Lucy",
       "VLK_487_Buergerin",
+      "VLK_486_Buergerin",
       "VLK_430_Buergerin",
+      "VLK_473_Buergerin",
+      "VLK_426_Buergerin",
+      "VLK_4003_Buergerin",
+      "VLK_477_Buergerin",
+      "VLK_479_Lucy",
+      "VLK_4002_Buergerin",
+      "VLK_4200_Buergerin",
       "VLK_496_Buergerin",
       "VLK_490_Buergerin"
     ],
@@ -1896,14 +1896,14 @@
     "text": "Porozmawiaj z Lordem Andre. Od kiedy paladyni przybyli do miasta, to właśnie on nadzoruje działania straży.",
     "source_file": "B_AssignAmbientInfos_MIL_6.d",
     "npcs": [
-      "Mil_331_Miliz",
+      "Mil_326_Miliz",
       "Mil_307_Tuerwache",
       "Mil_327_Miliz",
-      "Mil_318_Miliz",
+      "Mil_322_Miliz",
       "Mil_320_Miliz",
-      "Mil_326_Miliz",
-      "Mil_329_Miliz",
-      "Mil_322_Miliz"
+      "Mil_318_Miliz",
+      "Mil_331_Miliz",
+      "Mil_329_Miliz"
     ],
     "G": "1",
     "source": "self",
@@ -1918,14 +1918,14 @@
     "text": "Znajdziesz go w koszarach. Praktycznie z nich nie wychodzi.",
     "source_file": "B_AssignAmbientInfos_MIL_6.d",
     "npcs": [
-      "Mil_331_Miliz",
+      "Mil_326_Miliz",
       "Mil_307_Tuerwache",
       "Mil_327_Miliz",
-      "Mil_318_Miliz",
+      "Mil_322_Miliz",
       "Mil_320_Miliz",
-      "Mil_326_Miliz",
-      "Mil_329_Miliz",
-      "Mil_322_Miliz"
+      "Mil_318_Miliz",
+      "Mil_331_Miliz",
+      "Mil_329_Miliz"
     ],
     "G": "1",
     "source": "self",
@@ -1955,14 +1955,14 @@
     "text": "Rzeczywiście - ostatnio często mamy doniesienia o zaginięciach.",
     "source_file": "B_AssignAmbientInfos_MIL_6.d",
     "npcs": [
-      "Mil_331_Miliz",
+      "Mil_326_Miliz",
       "Mil_307_Tuerwache",
       "Mil_327_Miliz",
-      "Mil_318_Miliz",
+      "Mil_322_Miliz",
       "Mil_320_Miliz",
-      "Mil_326_Miliz",
-      "Mil_329_Miliz",
-      "Mil_322_Miliz"
+      "Mil_318_Miliz",
+      "Mil_331_Miliz",
+      "Mil_329_Miliz"
     ],
     "G": "1",
     "source": "self",
@@ -1977,14 +1977,14 @@
     "text": "Nie potrafię tego wyjaśnić, choć bym chciał.",
     "source_file": "B_AssignAmbientInfos_MIL_6.d",
     "npcs": [
-      "Mil_331_Miliz",
+      "Mil_326_Miliz",
       "Mil_307_Tuerwache",
       "Mil_327_Miliz",
-      "Mil_318_Miliz",
+      "Mil_322_Miliz",
       "Mil_320_Miliz",
-      "Mil_326_Miliz",
-      "Mil_329_Miliz",
-      "Mil_322_Miliz"
+      "Mil_318_Miliz",
+      "Mil_331_Miliz",
+      "Mil_329_Miliz"
     ],
     "G": "1",
     "source": "self",
@@ -1999,14 +1999,14 @@
     "text": "Możemy tylko mieć oczy i uszy szeroko otwarte.",
     "source_file": "B_AssignAmbientInfos_MIL_6.d",
     "npcs": [
-      "Mil_331_Miliz",
+      "Mil_326_Miliz",
       "Mil_307_Tuerwache",
       "Mil_327_Miliz",
-      "Mil_318_Miliz",
+      "Mil_322_Miliz",
       "Mil_320_Miliz",
-      "Mil_326_Miliz",
-      "Mil_329_Miliz",
-      "Mil_322_Miliz"
+      "Mil_318_Miliz",
+      "Mil_331_Miliz",
+      "Mil_329_Miliz"
     ],
     "G": "1",
     "source": "self",
@@ -2036,14 +2036,14 @@
     "text": "Zaraz po przybyciu do Khorinis udali się do górnego miasta.",
     "source_file": "B_AssignAmbientInfos_MIL_6.d",
     "npcs": [
-      "Mil_331_Miliz",
+      "Mil_326_Miliz",
       "Mil_307_Tuerwache",
       "Mil_327_Miliz",
-      "Mil_318_Miliz",
+      "Mil_322_Miliz",
       "Mil_320_Miliz",
-      "Mil_326_Miliz",
-      "Mil_329_Miliz",
-      "Mil_322_Miliz"
+      "Mil_318_Miliz",
+      "Mil_331_Miliz",
+      "Mil_329_Miliz"
     ],
     "G": "1",
     "source": "self",
@@ -2058,14 +2058,14 @@
     "text": "Od tego czasu nikt poza obywatelami miasta, i oczywiście strażą, nie ma tam wstępu.",
     "source_file": "B_AssignAmbientInfos_MIL_6.d",
     "npcs": [
-      "Mil_331_Miliz",
+      "Mil_326_Miliz",
       "Mil_307_Tuerwache",
       "Mil_327_Miliz",
-      "Mil_318_Miliz",
+      "Mil_322_Miliz",
       "Mil_320_Miliz",
-      "Mil_326_Miliz",
-      "Mil_329_Miliz",
-      "Mil_322_Miliz"
+      "Mil_318_Miliz",
+      "Mil_331_Miliz",
+      "Mil_329_Miliz"
     ],
     "G": "1",
     "source": "self",
@@ -2080,14 +2080,14 @@
     "text": "Kilku paladynów stacjonuje przy statku, w porcie. Ale nie należą do specjalnie rozmownych.",
     "source_file": "B_AssignAmbientInfos_MIL_6.d",
     "npcs": [
-      "Mil_331_Miliz",
+      "Mil_326_Miliz",
       "Mil_307_Tuerwache",
       "Mil_327_Miliz",
-      "Mil_318_Miliz",
+      "Mil_322_Miliz",
       "Mil_320_Miliz",
-      "Mil_326_Miliz",
-      "Mil_329_Miliz",
-      "Mil_322_Miliz"
+      "Mil_318_Miliz",
+      "Mil_331_Miliz",
+      "Mil_329_Miliz"
     ],
     "G": "1",
     "source": "self",
@@ -2117,14 +2117,14 @@
     "text": "Kontrolę nad miastem przejęli paladyni. Straż bezpośrednio im podlega.",
     "source_file": "B_AssignAmbientInfos_MIL_6.d",
     "npcs": [
-      "Mil_331_Miliz",
+      "Mil_326_Miliz",
       "Mil_307_Tuerwache",
       "Mil_327_Miliz",
-      "Mil_318_Miliz",
+      "Mil_322_Miliz",
       "Mil_320_Miliz",
-      "Mil_326_Miliz",
-      "Mil_329_Miliz",
-      "Mil_322_Miliz"
+      "Mil_318_Miliz",
+      "Mil_331_Miliz",
+      "Mil_329_Miliz"
     ],
     "G": "1",
     "source": "self",
@@ -2139,14 +2139,14 @@
     "text": "Lord Andre, dowódca straży, pełni także funkcję sędziego.",
     "source_file": "B_AssignAmbientInfos_MIL_6.d",
     "npcs": [
-      "Mil_331_Miliz",
+      "Mil_326_Miliz",
       "Mil_307_Tuerwache",
       "Mil_327_Miliz",
-      "Mil_318_Miliz",
+      "Mil_322_Miliz",
       "Mil_320_Miliz",
-      "Mil_326_Miliz",
-      "Mil_329_Miliz",
-      "Mil_322_Miliz"
+      "Mil_318_Miliz",
+      "Mil_331_Miliz",
+      "Mil_329_Miliz"
     ],
     "G": "1",
     "source": "self",
@@ -2161,14 +2161,14 @@
     "text": "Jeśli zdarzy ci się złamać prawo, będziesz się musiał przed nim wytłumaczyć.",
     "source_file": "B_AssignAmbientInfos_MIL_6.d",
     "npcs": [
-      "Mil_331_Miliz",
+      "Mil_326_Miliz",
       "Mil_307_Tuerwache",
       "Mil_327_Miliz",
-      "Mil_318_Miliz",
+      "Mil_322_Miliz",
       "Mil_320_Miliz",
-      "Mil_326_Miliz",
-      "Mil_329_Miliz",
-      "Mil_322_Miliz"
+      "Mil_318_Miliz",
+      "Mil_331_Miliz",
+      "Mil_329_Miliz"
     ],
     "G": "1",
     "source": "self",
@@ -2183,14 +2183,14 @@
     "text": "Jednak nie martw się, jest człowiekiem ugodowym. Przeważnie nakłada jedynie grzywnę.",
     "source_file": "B_AssignAmbientInfos_MIL_6.d",
     "npcs": [
-      "Mil_331_Miliz",
+      "Mil_326_Miliz",
       "Mil_307_Tuerwache",
       "Mil_327_Miliz",
-      "Mil_318_Miliz",
+      "Mil_322_Miliz",
       "Mil_320_Miliz",
-      "Mil_326_Miliz",
-      "Mil_329_Miliz",
-      "Mil_322_Miliz"
+      "Mil_318_Miliz",
+      "Mil_331_Miliz",
+      "Mil_329_Miliz"
     ],
     "G": "1",
     "source": "self",
@@ -2220,14 +2220,14 @@
     "text": "W mieście coraz więcej szumowin.",
     "source_file": "B_AssignAmbientInfos_MIL_6.d",
     "npcs": [
-      "Mil_331_Miliz",
+      "Mil_326_Miliz",
       "Mil_307_Tuerwache",
       "Mil_327_Miliz",
-      "Mil_318_Miliz",
+      "Mil_322_Miliz",
       "Mil_320_Miliz",
-      "Mil_326_Miliz",
-      "Mil_329_Miliz",
-      "Mil_322_Miliz"
+      "Mil_318_Miliz",
+      "Mil_331_Miliz",
+      "Mil_329_Miliz"
     ],
     "G": "1",
     "source": "self",
@@ -2242,14 +2242,14 @@
     "text": "Wszędzie coraz więcej złodziei. Lord Andre podejrzewa nawet, że całe to zamieszanie jest sprawką gangu.",
     "source_file": "B_AssignAmbientInfos_MIL_6.d",
     "npcs": [
-      "Mil_331_Miliz",
+      "Mil_326_Miliz",
       "Mil_307_Tuerwache",
       "Mil_327_Miliz",
-      "Mil_318_Miliz",
+      "Mil_322_Miliz",
       "Mil_320_Miliz",
-      "Mil_326_Miliz",
-      "Mil_329_Miliz",
-      "Mil_322_Miliz"
+      "Mil_318_Miliz",
+      "Mil_331_Miliz",
+      "Mil_329_Miliz"
     ],
     "G": "1",
     "source": "self",
@@ -2264,14 +2264,14 @@
     "text": "Niedawno przetrząsnęliśmy dokładnie całą dzielnicę portową, ale niczego nie znaleźliśmy.",
     "source_file": "B_AssignAmbientInfos_MIL_6.d",
     "npcs": [
-      "Mil_331_Miliz",
+      "Mil_326_Miliz",
       "Mil_307_Tuerwache",
       "Mil_327_Miliz",
-      "Mil_318_Miliz",
+      "Mil_322_Miliz",
       "Mil_320_Miliz",
-      "Mil_326_Miliz",
-      "Mil_329_Miliz",
-      "Mil_322_Miliz"
+      "Mil_318_Miliz",
+      "Mil_331_Miliz",
+      "Mil_329_Miliz"
     ],
     "G": "1",
     "source": "self",
@@ -2286,14 +2286,14 @@
     "text": "Wygląda na to, że problem bandytów mamy już z głowy. Ataki stały się ostatnimi czasy rzadkością.",
     "source_file": "B_AssignAmbientInfos_MIL_6.d",
     "npcs": [
-      "Mil_331_Miliz",
+      "Mil_326_Miliz",
       "Mil_307_Tuerwache",
       "Mil_327_Miliz",
-      "Mil_318_Miliz",
+      "Mil_322_Miliz",
       "Mil_320_Miliz",
-      "Mil_326_Miliz",
-      "Mil_329_Miliz",
-      "Mil_322_Miliz"
+      "Mil_318_Miliz",
+      "Mil_331_Miliz",
+      "Mil_329_Miliz"
     ],
     "G": "1",
     "source": "self",
@@ -2308,14 +2308,14 @@
     "text": "Z dnia na dzień jest coraz gorzej, wszystko przez te szumowiny wręcz zalewające miasto. Ostatniej nocy śledziłem pewnego typka w czarnych szatach, zdążającego ku górnemu miastu.",
     "source_file": "B_AssignAmbientInfos_MIL_6.d",
     "npcs": [
-      "Mil_331_Miliz",
+      "Mil_326_Miliz",
       "Mil_307_Tuerwache",
       "Mil_327_Miliz",
-      "Mil_318_Miliz",
+      "Mil_322_Miliz",
       "Mil_320_Miliz",
-      "Mil_326_Miliz",
-      "Mil_329_Miliz",
-      "Mil_322_Miliz"
+      "Mil_318_Miliz",
+      "Mil_331_Miliz",
+      "Mil_329_Miliz"
     ],
     "G": "1",
     "source": "self",
@@ -2330,14 +2330,14 @@
     "text": "Od początku wydał mi się podejrzany. Śledziłem go aż pod dom gubernatora. Tam zniknął. Mówię ci, dziwna to była postać.",
     "source_file": "B_AssignAmbientInfos_MIL_6.d",
     "npcs": [
-      "Mil_331_Miliz",
+      "Mil_326_Miliz",
       "Mil_307_Tuerwache",
       "Mil_327_Miliz",
-      "Mil_318_Miliz",
+      "Mil_322_Miliz",
       "Mil_320_Miliz",
-      "Mil_326_Miliz",
-      "Mil_329_Miliz",
-      "Mil_322_Miliz"
+      "Mil_318_Miliz",
+      "Mil_331_Miliz",
+      "Mil_329_Miliz"
     ],
     "G": "1",
     "source": "self",
@@ -2352,14 +2352,14 @@
     "text": "Słyszałem, że Lord Hagen zatrudnił najemników, by zajęli się smokami. Mnie to odpowiada, nie chciałbym sam zmierzyć się z tymi bestiami.",
     "source_file": "B_AssignAmbientInfos_MIL_6.d",
     "npcs": [
-      "Mil_331_Miliz",
+      "Mil_326_Miliz",
       "Mil_307_Tuerwache",
       "Mil_327_Miliz",
-      "Mil_318_Miliz",
+      "Mil_322_Miliz",
       "Mil_320_Miliz",
-      "Mil_326_Miliz",
-      "Mil_329_Miliz",
-      "Mil_322_Miliz"
+      "Mil_318_Miliz",
+      "Mil_331_Miliz",
+      "Mil_329_Miliz"
     ],
     "G": "1",
     "source": "self",
@@ -2374,14 +2374,14 @@
     "text": "Mówi się, że smoki zostały pokonane. Ponoć Lord Hagen zbiera siły, by ostatecznie wygnać je także z Górniczej Doliny.",
     "source_file": "B_AssignAmbientInfos_MIL_6.d",
     "npcs": [
-      "Mil_331_Miliz",
+      "Mil_326_Miliz",
       "Mil_307_Tuerwache",
       "Mil_327_Miliz",
-      "Mil_318_Miliz",
+      "Mil_322_Miliz",
       "Mil_320_Miliz",
-      "Mil_326_Miliz",
-      "Mil_329_Miliz",
-      "Mil_322_Miliz"
+      "Mil_318_Miliz",
+      "Mil_331_Miliz",
+      "Mil_329_Miliz"
     ],
     "G": "1",
     "source": "self",
@@ -2411,10 +2411,10 @@
     "text": "Nie jesteś nawet obywatelem Khorinis! Dlaczego myślisz, że Lord Andre zechce cię przyjąć?",
     "source_file": "B_AssignAmbientInfos_MIL_7.d",
     "npcs": [
-      "Mil_330_Miliz",
       "Mil_315_Kasernenwache",
-      "Mil_323_Miliz",
-      "Mil_306_Tuerwache"
+      "Mil_330_Miliz",
+      "Mil_306_Tuerwache",
+      "Mil_323_Miliz"
     ],
     "G": "1",
     "source": "self",
@@ -2429,10 +2429,10 @@
     "text": "Gdyby tak było, każdy mógłby sobie przyjść, wziąć przydziałową broń i zbroję, a później zniknąć na dobre!",
     "source_file": "B_AssignAmbientInfos_MIL_7.d",
     "npcs": [
-      "Mil_330_Miliz",
       "Mil_315_Kasernenwache",
-      "Mil_323_Miliz",
-      "Mil_306_Tuerwache"
+      "Mil_330_Miliz",
+      "Mil_306_Tuerwache",
+      "Mil_323_Miliz"
     ],
     "G": "1",
     "source": "self",
@@ -2462,10 +2462,10 @@
     "text": "Nie wyjaśniaj tego mnie, tylko Lordowi Andre. Znajdziesz go w koszarach.",
     "source_file": "B_AssignAmbientInfos_MIL_7.d",
     "npcs": [
-      "Mil_330_Miliz",
       "Mil_315_Kasernenwache",
-      "Mil_323_Miliz",
-      "Mil_306_Tuerwache"
+      "Mil_330_Miliz",
+      "Mil_306_Tuerwache",
+      "Mil_323_Miliz"
     ],
     "G": "1",
     "source": "self",
@@ -2495,10 +2495,10 @@
     "text": "Niewiele. Nikt właściwie nie wie, dlaczego tu przybyli. Nawet ci z nas, którzy służą w straży.",
     "source_file": "B_AssignAmbientInfos_MIL_7.d",
     "npcs": [
-      "Mil_330_Miliz",
       "Mil_315_Kasernenwache",
-      "Mil_323_Miliz",
-      "Mil_306_Tuerwache"
+      "Mil_330_Miliz",
+      "Mil_306_Tuerwache",
+      "Mil_323_Miliz"
     ],
     "G": "1",
     "source": "self",
@@ -2513,10 +2513,10 @@
     "text": "Przejęli kontrolę nad miastem, przegonili gubernatora z jego komnat, zwolnili też sędziego z urzędu.",
     "source_file": "B_AssignAmbientInfos_MIL_7.d",
     "npcs": [
-      "Mil_330_Miliz",
       "Mil_315_Kasernenwache",
-      "Mil_323_Miliz",
-      "Mil_306_Tuerwache"
+      "Mil_330_Miliz",
+      "Mil_306_Tuerwache",
+      "Mil_323_Miliz"
     ],
     "G": "1",
     "source": "self",
@@ -2531,10 +2531,10 @@
     "text": "Jeśli chcesz znać moje zdanie, to dobrze się stało. Tym nadętym osłom przyda się lekcja pokory.",
     "source_file": "B_AssignAmbientInfos_MIL_7.d",
     "npcs": [
-      "Mil_330_Miliz",
       "Mil_315_Kasernenwache",
-      "Mil_323_Miliz",
-      "Mil_306_Tuerwache"
+      "Mil_330_Miliz",
+      "Mil_306_Tuerwache",
+      "Mil_323_Miliz"
     ],
     "G": "1",
     "source": "self",
@@ -2564,10 +2564,10 @@
     "text": "Jeśli nie chcesz skończyć w rynsztoku dzielnicy portowej, znajdź sobie jakąś stałą pracę. Popytaj w dolnej części miasta, może tam uda ci się coś znaleźć.",
     "source_file": "B_AssignAmbientInfos_MIL_7.d",
     "npcs": [
-      "Mil_330_Miliz",
       "Mil_315_Kasernenwache",
-      "Mil_323_Miliz",
-      "Mil_306_Tuerwache"
+      "Mil_330_Miliz",
+      "Mil_306_Tuerwache",
+      "Mil_323_Miliz"
     ],
     "G": "1",
     "source": "self",
@@ -2582,10 +2582,10 @@
     "text": "Jeśli chcesz dłużej pozostać w mieście, powinieneś przyłączyć się do straży lub chociaż podszkolić się w walce.",
     "source_file": "B_AssignAmbientInfos_MIL_7.d",
     "npcs": [
-      "Mil_330_Miliz",
       "Mil_315_Kasernenwache",
-      "Mil_323_Miliz",
-      "Mil_306_Tuerwache"
+      "Mil_330_Miliz",
+      "Mil_306_Tuerwache",
+      "Mil_323_Miliz"
     ],
     "G": "1",
     "source": "self",
@@ -2600,10 +2600,10 @@
     "text": "Instruktorzy w koszarach szkolą także cywili.",
     "source_file": "B_AssignAmbientInfos_MIL_7.d",
     "npcs": [
-      "Mil_330_Miliz",
       "Mil_315_Kasernenwache",
-      "Mil_323_Miliz",
-      "Mil_306_Tuerwache"
+      "Mil_330_Miliz",
+      "Mil_306_Tuerwache",
+      "Mil_323_Miliz"
     ],
     "G": "1",
     "source": "self",
@@ -2618,10 +2618,10 @@
     "text": "Wkrótce pojawią się tu orkowie, a wtedy docenisz wojskowy trening i godziny na nim spędzone.",
     "source_file": "B_AssignAmbientInfos_MIL_7.d",
     "npcs": [
-      "Mil_330_Miliz",
       "Mil_315_Kasernenwache",
-      "Mil_323_Miliz",
-      "Mil_306_Tuerwache"
+      "Mil_330_Miliz",
+      "Mil_306_Tuerwache",
+      "Mil_323_Miliz"
     ],
     "G": "1",
     "source": "self",
@@ -2651,10 +2651,10 @@
     "text": "Ludzie znikają jeden po drugim. Nie udało nam się jeszcze dowiedzieć, co się z nimi dzieje.",
     "source_file": "B_AssignAmbientInfos_MIL_7.d",
     "npcs": [
-      "Mil_330_Miliz",
       "Mil_315_Kasernenwache",
-      "Mil_323_Miliz",
-      "Mil_306_Tuerwache"
+      "Mil_330_Miliz",
+      "Mil_306_Tuerwache",
+      "Mil_323_Miliz"
     ],
     "G": "1",
     "source": "self",
@@ -2669,10 +2669,10 @@
     "text": "Ponoć chłopi się buntują. Nie dość, że jesteśmy w środku wojny z orkami, to jeszcze musimy się użerać z tymi prostakami.",
     "source_file": "B_AssignAmbientInfos_MIL_7.d",
     "npcs": [
-      "Mil_330_Miliz",
       "Mil_315_Kasernenwache",
-      "Mil_323_Miliz",
-      "Mil_306_Tuerwache"
+      "Mil_330_Miliz",
+      "Mil_306_Tuerwache",
+      "Mil_323_Miliz"
     ],
     "G": "1",
     "source": "self",
@@ -2687,10 +2687,10 @@
     "text": "Czas już, by paladyni zajęli się rebelią chłopów. Kto łamie prawo, powinien ponieść tego surowe konsekwencje. Szczególnie teraz, kiedy toczy się wojna.",
     "source_file": "B_AssignAmbientInfos_MIL_7.d",
     "npcs": [
-      "Mil_330_Miliz",
       "Mil_315_Kasernenwache",
-      "Mil_323_Miliz",
-      "Mil_306_Tuerwache"
+      "Mil_330_Miliz",
+      "Mil_306_Tuerwache",
+      "Mil_323_Miliz"
     ],
     "G": "1",
     "source": "self",
@@ -2705,10 +2705,10 @@
     "text": "Najemnik, którego oskarżono o zabójstwo Lothara, jest prawdopodobnie niewinny. Ponoć ktoś znalazł dowód na to, że go wrobiono.",
     "source_file": "B_AssignAmbientInfos_MIL_7.d",
     "npcs": [
-      "Mil_330_Miliz",
       "Mil_315_Kasernenwache",
-      "Mil_323_Miliz",
-      "Mil_306_Tuerwache"
+      "Mil_330_Miliz",
+      "Mil_306_Tuerwache",
+      "Mil_323_Miliz"
     ],
     "G": "1",
     "source": "self",
@@ -2723,10 +2723,10 @@
     "text": "Jeden z najemników Onara zamordował Lothara, czcigodnego paladyna. Na szczęście drań został złapany i wtrącony do więzienia.",
     "source_file": "B_AssignAmbientInfos_MIL_7.d",
     "npcs": [
-      "Mil_330_Miliz",
       "Mil_315_Kasernenwache",
-      "Mil_323_Miliz",
-      "Mil_306_Tuerwache"
+      "Mil_330_Miliz",
+      "Mil_306_Tuerwache",
+      "Mil_323_Miliz"
     ],
     "G": "1",
     "source": "self",
@@ -2741,10 +2741,10 @@
     "text": "Niektórzy z najemników opuścili farmę Onara. Jak widać, problem rozwiązuje się sam.",
     "source_file": "B_AssignAmbientInfos_MIL_7.d",
     "npcs": [
-      "Mil_330_Miliz",
       "Mil_315_Kasernenwache",
-      "Mil_323_Miliz",
-      "Mil_306_Tuerwache"
+      "Mil_330_Miliz",
+      "Mil_306_Tuerwache",
+      "Mil_323_Miliz"
     ],
     "G": "1",
     "source": "self",
@@ -2759,10 +2759,10 @@
     "text": "Pozbyliśmy się smoków, ale to nie koniec. Następni w kolejce są orkowie. Niedługo wszystkim się zajmiemy!",
     "source_file": "B_AssignAmbientInfos_MIL_7.d",
     "npcs": [
-      "Mil_330_Miliz",
       "Mil_315_Kasernenwache",
-      "Mil_323_Miliz",
-      "Mil_306_Tuerwache"
+      "Mil_330_Miliz",
+      "Mil_306_Tuerwache",
+      "Mil_323_Miliz"
     ],
     "G": "1",
     "source": "self",
@@ -2792,16 +2792,16 @@
     "text": "Jeśli w istocie tego pragniesz, to powinieneś dołączyć do paladynów.",
     "source_file": "B_AssignAmbientInfos_PAL_4.d",
     "npcs": [
+      "Pal_236_Ritter",
+      "Pal_238_Ritter",
       "Pal_210_Torwache",
-      "Pal_285_Ritter",
+      "Pal_291_Ritter",
       "Pal_232_Ritter",
+      "Pal_285_Ritter",
+      "Pal_208_Paladin",
       "Pal_288_Ritter",
       "Pal_230_Ritter",
-      "Pal_238_Ritter",
-      "Pal_291_Ritter",
-      "Pal_208_Paladin",
-      "Pal_209_Paladin",
-      "Pal_236_Ritter"
+      "Pal_209_Paladin"
     ],
     "G": "1",
     "source": "self",
@@ -2816,16 +2816,16 @@
     "text": "Udaj się do koszar i porozmawiaj z Lordem Andre. Dołącz do oddziałów straży.",
     "source_file": "B_AssignAmbientInfos_PAL_4.d",
     "npcs": [
+      "Pal_236_Ritter",
+      "Pal_238_Ritter",
       "Pal_210_Torwache",
-      "Pal_285_Ritter",
+      "Pal_291_Ritter",
       "Pal_232_Ritter",
+      "Pal_285_Ritter",
+      "Pal_208_Paladin",
       "Pal_288_Ritter",
       "Pal_230_Ritter",
-      "Pal_238_Ritter",
-      "Pal_291_Ritter",
-      "Pal_208_Paladin",
-      "Pal_209_Paladin",
-      "Pal_236_Ritter"
+      "Pal_209_Paladin"
     ],
     "G": "1",
     "source": "self",
@@ -2840,16 +2840,16 @@
     "text": "Być może w ten sposób dowiedziesz swej wartości.",
     "source_file": "B_AssignAmbientInfos_PAL_4.d",
     "npcs": [
+      "Pal_236_Ritter",
+      "Pal_238_Ritter",
       "Pal_210_Torwache",
-      "Pal_285_Ritter",
+      "Pal_291_Ritter",
       "Pal_232_Ritter",
+      "Pal_285_Ritter",
+      "Pal_208_Paladin",
       "Pal_288_Ritter",
       "Pal_230_Ritter",
-      "Pal_238_Ritter",
-      "Pal_291_Ritter",
-      "Pal_208_Paladin",
-      "Pal_209_Paladin",
-      "Pal_236_Ritter"
+      "Pal_209_Paladin"
     ],
     "G": "1",
     "source": "self",
@@ -2879,16 +2879,16 @@
     "text": "Lord Hagen jest dowódcą wszystkich oddziałów na wyspie. Póki tu jesteśmy, sprawuje także urząd gubernatora.",
     "source_file": "B_AssignAmbientInfos_PAL_4.d",
     "npcs": [
+      "Pal_236_Ritter",
+      "Pal_238_Ritter",
       "Pal_210_Torwache",
-      "Pal_285_Ritter",
+      "Pal_291_Ritter",
       "Pal_232_Ritter",
+      "Pal_285_Ritter",
+      "Pal_208_Paladin",
       "Pal_288_Ritter",
       "Pal_230_Ritter",
-      "Pal_238_Ritter",
-      "Pal_291_Ritter",
-      "Pal_208_Paladin",
-      "Pal_209_Paladin",
-      "Pal_236_Ritter"
+      "Pal_209_Paladin"
     ],
     "G": "1",
     "source": "self",
@@ -2903,16 +2903,16 @@
     "text": "Jest jednak bardzo zajęty. Jeśli masz jakiś problem, udaj się do koszar i porozmawiaj z Lordem Andre.",
     "source_file": "B_AssignAmbientInfos_PAL_4.d",
     "npcs": [
+      "Pal_236_Ritter",
+      "Pal_238_Ritter",
       "Pal_210_Torwache",
-      "Pal_285_Ritter",
+      "Pal_291_Ritter",
       "Pal_232_Ritter",
+      "Pal_285_Ritter",
+      "Pal_208_Paladin",
       "Pal_288_Ritter",
       "Pal_230_Ritter",
-      "Pal_238_Ritter",
-      "Pal_291_Ritter",
-      "Pal_208_Paladin",
-      "Pal_209_Paladin",
-      "Pal_236_Ritter"
+      "Pal_209_Paladin"
     ],
     "G": "1",
     "source": "self",
@@ -2942,16 +2942,16 @@
     "text": "Nie wolno mi na ten temat rozmawiać.",
     "source_file": "B_AssignAmbientInfos_PAL_4.d",
     "npcs": [
+      "Pal_236_Ritter",
+      "Pal_238_Ritter",
       "Pal_210_Torwache",
-      "Pal_285_Ritter",
+      "Pal_291_Ritter",
       "Pal_232_Ritter",
+      "Pal_285_Ritter",
+      "Pal_208_Paladin",
       "Pal_288_Ritter",
       "Pal_230_Ritter",
-      "Pal_238_Ritter",
-      "Pal_291_Ritter",
-      "Pal_208_Paladin",
-      "Pal_209_Paladin",
-      "Pal_236_Ritter"
+      "Pal_209_Paladin"
     ],
     "G": "1",
     "source": "self",
@@ -2981,16 +2981,16 @@
     "text": "Wciąż walczymy ze smokami, jestem pewien, że nasz kapitan podejmie wkrótce jakieś zdecydowane kroki.",
     "source_file": "B_AssignAmbientInfos_PAL_4.d",
     "npcs": [
+      "Pal_236_Ritter",
+      "Pal_238_Ritter",
       "Pal_210_Torwache",
-      "Pal_285_Ritter",
+      "Pal_291_Ritter",
       "Pal_232_Ritter",
+      "Pal_285_Ritter",
+      "Pal_208_Paladin",
       "Pal_288_Ritter",
       "Pal_230_Ritter",
-      "Pal_238_Ritter",
-      "Pal_291_Ritter",
-      "Pal_208_Paladin",
-      "Pal_209_Paladin",
-      "Pal_236_Ritter"
+      "Pal_209_Paladin"
     ],
     "G": "1",
     "source": "self",
@@ -3005,16 +3005,16 @@
     "text": "Ciągle nie mamy żadnych wieści z obozowiska w Górniczej Dolinie. To bardzo niepokojące.",
     "source_file": "B_AssignAmbientInfos_PAL_4.d",
     "npcs": [
+      "Pal_236_Ritter",
+      "Pal_238_Ritter",
       "Pal_210_Torwache",
-      "Pal_285_Ritter",
+      "Pal_291_Ritter",
       "Pal_232_Ritter",
+      "Pal_285_Ritter",
+      "Pal_208_Paladin",
       "Pal_288_Ritter",
       "Pal_230_Ritter",
-      "Pal_238_Ritter",
-      "Pal_291_Ritter",
-      "Pal_208_Paladin",
-      "Pal_209_Paladin",
-      "Pal_236_Ritter"
+      "Pal_209_Paladin"
     ],
     "G": "1",
     "source": "self",
@@ -3029,16 +3029,16 @@
     "text": "Błogosławiony niech będzie Innos! Niebezpieczeństwo ataku smoków zostało zażegnane. Żeby dotrzeć do rudy, musimy się już tylko zająć orkami.",
     "source_file": "B_AssignAmbientInfos_PAL_4.d",
     "npcs": [
+      "Pal_236_Ritter",
+      "Pal_238_Ritter",
       "Pal_210_Torwache",
-      "Pal_285_Ritter",
+      "Pal_291_Ritter",
       "Pal_232_Ritter",
+      "Pal_285_Ritter",
+      "Pal_208_Paladin",
       "Pal_288_Ritter",
       "Pal_230_Ritter",
-      "Pal_238_Ritter",
-      "Pal_291_Ritter",
-      "Pal_208_Paladin",
-      "Pal_209_Paladin",
-      "Pal_236_Ritter"
+      "Pal_209_Paladin"
     ],
     "G": "1",
     "source": "self",
@@ -3053,16 +3053,16 @@
     "text": "Nie mam czasu na rozpowiadanie plotek zasłyszanych gdzieś na mieście.",
     "source_file": "B_AssignAmbientInfos_PAL_4.d",
     "npcs": [
+      "Pal_236_Ritter",
+      "Pal_238_Ritter",
       "Pal_210_Torwache",
-      "Pal_285_Ritter",
+      "Pal_291_Ritter",
       "Pal_232_Ritter",
+      "Pal_285_Ritter",
+      "Pal_208_Paladin",
       "Pal_288_Ritter",
       "Pal_230_Ritter",
-      "Pal_238_Ritter",
-      "Pal_291_Ritter",
-      "Pal_208_Paladin",
-      "Pal_209_Paladin",
-      "Pal_236_Ritter"
+      "Pal_209_Paladin"
     ],
     "G": "1",
     "source": "self",
@@ -3094,11 +3094,11 @@
     "npcs": [
       "Pal_235_Ritter",
       "Pal_286_RITTER",
-      "Pal_240_Ritter",
-      "Pal_292_Ritter",
       "Pal_289_Ritter",
-      "Pal_204_Torwache",
-      "Pal_234_Ritter"
+      "Pal_240_Ritter",
+      "Pal_234_Ritter",
+      "Pal_292_Ritter",
+      "Pal_204_Torwache"
     ],
     "G": "1",
     "source": "self",
@@ -3115,11 +3115,11 @@
     "npcs": [
       "Pal_235_Ritter",
       "Pal_286_RITTER",
-      "Pal_240_Ritter",
-      "Pal_292_Ritter",
       "Pal_289_Ritter",
-      "Pal_204_Torwache",
-      "Pal_234_Ritter"
+      "Pal_240_Ritter",
+      "Pal_234_Ritter",
+      "Pal_292_Ritter",
+      "Pal_204_Torwache"
     ],
     "G": "1",
     "source": "self",
@@ -3151,11 +3151,11 @@
     "npcs": [
       "Pal_235_Ritter",
       "Pal_286_RITTER",
-      "Pal_240_Ritter",
-      "Pal_292_Ritter",
       "Pal_289_Ritter",
-      "Pal_204_Torwache",
-      "Pal_234_Ritter"
+      "Pal_240_Ritter",
+      "Pal_234_Ritter",
+      "Pal_292_Ritter",
+      "Pal_204_Torwache"
     ],
     "G": "1",
     "source": "self",
@@ -3187,11 +3187,11 @@
     "npcs": [
       "Pal_235_Ritter",
       "Pal_286_RITTER",
-      "Pal_240_Ritter",
-      "Pal_292_Ritter",
       "Pal_289_Ritter",
-      "Pal_204_Torwache",
-      "Pal_234_Ritter"
+      "Pal_240_Ritter",
+      "Pal_234_Ritter",
+      "Pal_292_Ritter",
+      "Pal_204_Torwache"
     ],
     "G": "1",
     "source": "self",
@@ -3223,11 +3223,11 @@
     "npcs": [
       "Pal_235_Ritter",
       "Pal_286_RITTER",
-      "Pal_240_Ritter",
-      "Pal_292_Ritter",
       "Pal_289_Ritter",
-      "Pal_204_Torwache",
-      "Pal_234_Ritter"
+      "Pal_240_Ritter",
+      "Pal_234_Ritter",
+      "Pal_292_Ritter",
+      "Pal_204_Torwache"
     ],
     "G": "1",
     "source": "self",
@@ -3259,11 +3259,11 @@
     "npcs": [
       "Pal_235_Ritter",
       "Pal_286_RITTER",
-      "Pal_240_Ritter",
-      "Pal_292_Ritter",
       "Pal_289_Ritter",
-      "Pal_204_Torwache",
-      "Pal_234_Ritter"
+      "Pal_240_Ritter",
+      "Pal_234_Ritter",
+      "Pal_292_Ritter",
+      "Pal_204_Torwache"
     ],
     "G": "1",
     "source": "self",
@@ -3280,11 +3280,11 @@
     "npcs": [
       "Pal_235_Ritter",
       "Pal_286_RITTER",
-      "Pal_240_Ritter",
-      "Pal_292_Ritter",
       "Pal_289_Ritter",
-      "Pal_204_Torwache",
-      "Pal_234_Ritter"
+      "Pal_240_Ritter",
+      "Pal_234_Ritter",
+      "Pal_292_Ritter",
+      "Pal_204_Torwache"
     ],
     "G": "1",
     "source": "self",
@@ -3301,11 +3301,11 @@
     "npcs": [
       "Pal_235_Ritter",
       "Pal_286_RITTER",
-      "Pal_240_Ritter",
-      "Pal_292_Ritter",
       "Pal_289_Ritter",
-      "Pal_204_Torwache",
-      "Pal_234_Ritter"
+      "Pal_240_Ritter",
+      "Pal_234_Ritter",
+      "Pal_292_Ritter",
+      "Pal_204_Torwache"
     ],
     "G": "1",
     "source": "self",
@@ -3322,11 +3322,11 @@
     "npcs": [
       "Pal_235_Ritter",
       "Pal_286_RITTER",
-      "Pal_240_Ritter",
-      "Pal_292_Ritter",
       "Pal_289_Ritter",
-      "Pal_204_Torwache",
-      "Pal_234_Ritter"
+      "Pal_240_Ritter",
+      "Pal_234_Ritter",
+      "Pal_292_Ritter",
+      "Pal_204_Torwache"
     ],
     "G": "1",
     "source": "self",
@@ -3356,17 +3356,17 @@
     "text": "Ty? Nie rozśmieszaj mnie! Nie należysz nawet do straży miejskiej.",
     "source_file": "B_AssignAmbientInfos_PAL_12.d",
     "npcs": [
-      "Pal_231_Ritter",
-      "Pal_290_Ritter",
+      "Pal_211_Torwache",
+      "Pal_239_Ritter",
+      "Pal_237_Ritter",
+      "Pal_233_Ritter",
+      "Pal_215_Ritter",
+      "Pal_206_Ritter",
       "Pal_293_Ritter",
       "Pal_214_Ritter",
-      "Pal_215_Ritter",
-      "Pal_239_Ritter",
-      "Pal_211_Torwache",
-      "Pal_233_Ritter",
-      "Pal_237_Ritter",
-      "Pal_241_Ritter",
-      "Pal_206_Ritter"
+      "Pal_290_Ritter",
+      "Pal_231_Ritter",
+      "Pal_241_Ritter"
     ],
     "G": "1",
     "source": "self",
@@ -3381,17 +3381,17 @@
     "text": "Gdybym nie widział, jaki z ciebie prostak, pewnie pomyślałbym, że chcesz mnie obrazić.",
     "source_file": "B_AssignAmbientInfos_PAL_12.d",
     "npcs": [
-      "Pal_231_Ritter",
-      "Pal_290_Ritter",
+      "Pal_211_Torwache",
+      "Pal_239_Ritter",
+      "Pal_237_Ritter",
+      "Pal_233_Ritter",
+      "Pal_215_Ritter",
+      "Pal_206_Ritter",
       "Pal_293_Ritter",
       "Pal_214_Ritter",
-      "Pal_215_Ritter",
-      "Pal_239_Ritter",
-      "Pal_211_Torwache",
-      "Pal_233_Ritter",
-      "Pal_237_Ritter",
-      "Pal_241_Ritter",
-      "Pal_206_Ritter"
+      "Pal_290_Ritter",
+      "Pal_231_Ritter",
+      "Pal_241_Ritter"
     ],
     "G": "1",
     "source": "self",
@@ -3406,17 +3406,17 @@
     "text": "Tylko najlepsi z najlepszych poddanych Króla i sług Innosa mogą zostać paladynami.",
     "source_file": "B_AssignAmbientInfos_PAL_12.d",
     "npcs": [
-      "Pal_231_Ritter",
-      "Pal_290_Ritter",
+      "Pal_211_Torwache",
+      "Pal_239_Ritter",
+      "Pal_237_Ritter",
+      "Pal_233_Ritter",
+      "Pal_215_Ritter",
+      "Pal_206_Ritter",
       "Pal_293_Ritter",
       "Pal_214_Ritter",
-      "Pal_215_Ritter",
-      "Pal_239_Ritter",
-      "Pal_211_Torwache",
-      "Pal_233_Ritter",
-      "Pal_237_Ritter",
-      "Pal_241_Ritter",
-      "Pal_206_Ritter"
+      "Pal_290_Ritter",
+      "Pal_231_Ritter",
+      "Pal_241_Ritter"
     ],
     "G": "1",
     "source": "self",
@@ -3446,17 +3446,17 @@
     "text": "Wielmożny Lord Hagen. Jednak sprawami plebsu zajmuje się Lord Andre.",
     "source_file": "B_AssignAmbientInfos_PAL_12.d",
     "npcs": [
-      "Pal_231_Ritter",
-      "Pal_290_Ritter",
+      "Pal_211_Torwache",
+      "Pal_239_Ritter",
+      "Pal_237_Ritter",
+      "Pal_233_Ritter",
+      "Pal_215_Ritter",
+      "Pal_206_Ritter",
       "Pal_293_Ritter",
       "Pal_214_Ritter",
-      "Pal_215_Ritter",
-      "Pal_239_Ritter",
-      "Pal_211_Torwache",
-      "Pal_233_Ritter",
-      "Pal_237_Ritter",
-      "Pal_241_Ritter",
-      "Pal_206_Ritter"
+      "Pal_290_Ritter",
+      "Pal_231_Ritter",
+      "Pal_241_Ritter"
     ],
     "G": "1",
     "source": "self",
@@ -3471,17 +3471,17 @@
     "text": "Znajdziesz go w koszarach. Może będziesz miał szczęście i Lord Andre poświęci ci kilka minut swego cennego czasu.",
     "source_file": "B_AssignAmbientInfos_PAL_12.d",
     "npcs": [
-      "Pal_231_Ritter",
-      "Pal_290_Ritter",
+      "Pal_211_Torwache",
+      "Pal_239_Ritter",
+      "Pal_237_Ritter",
+      "Pal_233_Ritter",
+      "Pal_215_Ritter",
+      "Pal_206_Ritter",
       "Pal_293_Ritter",
       "Pal_214_Ritter",
-      "Pal_215_Ritter",
-      "Pal_239_Ritter",
-      "Pal_211_Torwache",
-      "Pal_233_Ritter",
-      "Pal_237_Ritter",
-      "Pal_241_Ritter",
-      "Pal_206_Ritter"
+      "Pal_290_Ritter",
+      "Pal_231_Ritter",
+      "Pal_241_Ritter"
     ],
     "G": "1",
     "source": "self",
@@ -3511,17 +3511,17 @@
     "text": "Ludzie zadający takie pytania trafiają na szubienicę szybciej, niż to zauważą.",
     "source_file": "B_AssignAmbientInfos_PAL_12.d",
     "npcs": [
-      "Pal_231_Ritter",
-      "Pal_290_Ritter",
+      "Pal_211_Torwache",
+      "Pal_239_Ritter",
+      "Pal_237_Ritter",
+      "Pal_233_Ritter",
+      "Pal_215_Ritter",
+      "Pal_206_Ritter",
       "Pal_293_Ritter",
       "Pal_214_Ritter",
-      "Pal_215_Ritter",
-      "Pal_239_Ritter",
-      "Pal_211_Torwache",
-      "Pal_233_Ritter",
-      "Pal_237_Ritter",
-      "Pal_241_Ritter",
-      "Pal_206_Ritter"
+      "Pal_290_Ritter",
+      "Pal_231_Ritter",
+      "Pal_241_Ritter"
     ],
     "G": "1",
     "source": "self",
@@ -3536,17 +3536,17 @@
     "text": "Jeśli jest coś, na co Lord Andre nie może sobie pozwolić, to przejęcie planów naszej misji przez szpiegów.",
     "source_file": "B_AssignAmbientInfos_PAL_12.d",
     "npcs": [
-      "Pal_231_Ritter",
-      "Pal_290_Ritter",
+      "Pal_211_Torwache",
+      "Pal_239_Ritter",
+      "Pal_237_Ritter",
+      "Pal_233_Ritter",
+      "Pal_215_Ritter",
+      "Pal_206_Ritter",
       "Pal_293_Ritter",
       "Pal_214_Ritter",
-      "Pal_215_Ritter",
-      "Pal_239_Ritter",
-      "Pal_211_Torwache",
-      "Pal_233_Ritter",
-      "Pal_237_Ritter",
-      "Pal_241_Ritter",
-      "Pal_206_Ritter"
+      "Pal_290_Ritter",
+      "Pal_231_Ritter",
+      "Pal_241_Ritter"
     ],
     "G": "1",
     "source": "self",
@@ -3561,17 +3561,17 @@
     "text": "Uważaj więc lepiej na to, o co pytasz.",
     "source_file": "B_AssignAmbientInfos_PAL_12.d",
     "npcs": [
-      "Pal_231_Ritter",
-      "Pal_290_Ritter",
+      "Pal_211_Torwache",
+      "Pal_239_Ritter",
+      "Pal_237_Ritter",
+      "Pal_233_Ritter",
+      "Pal_215_Ritter",
+      "Pal_206_Ritter",
       "Pal_293_Ritter",
       "Pal_214_Ritter",
-      "Pal_215_Ritter",
-      "Pal_239_Ritter",
-      "Pal_211_Torwache",
-      "Pal_233_Ritter",
-      "Pal_237_Ritter",
-      "Pal_241_Ritter",
-      "Pal_206_Ritter"
+      "Pal_290_Ritter",
+      "Pal_231_Ritter",
+      "Pal_241_Ritter"
     ],
     "G": "1",
     "source": "self",
@@ -3601,17 +3601,17 @@
     "text": "Teraz, kiedy wiemy, że musimy zmierzyć się ze smokami, jestem pewien, że nasz dowódca wkrótce podejmie słuszną decyzję.",
     "source_file": "B_AssignAmbientInfos_PAL_12.d",
     "npcs": [
-      "Pal_231_Ritter",
-      "Pal_290_Ritter",
+      "Pal_211_Torwache",
+      "Pal_239_Ritter",
+      "Pal_237_Ritter",
+      "Pal_233_Ritter",
+      "Pal_215_Ritter",
+      "Pal_206_Ritter",
       "Pal_293_Ritter",
       "Pal_214_Ritter",
-      "Pal_215_Ritter",
-      "Pal_239_Ritter",
-      "Pal_211_Torwache",
-      "Pal_233_Ritter",
-      "Pal_237_Ritter",
-      "Pal_241_Ritter",
-      "Pal_206_Ritter"
+      "Pal_290_Ritter",
+      "Pal_231_Ritter",
+      "Pal_241_Ritter"
     ],
     "G": "1",
     "source": "self",
@@ -3626,17 +3626,17 @@
     "text": "Wciąż nie mamy żadnych informacji od oddziałów stacjonujących w Górniczej Dolinie. To bardzo niepokojące.",
     "source_file": "B_AssignAmbientInfos_PAL_12.d",
     "npcs": [
-      "Pal_231_Ritter",
-      "Pal_290_Ritter",
+      "Pal_211_Torwache",
+      "Pal_239_Ritter",
+      "Pal_237_Ritter",
+      "Pal_233_Ritter",
+      "Pal_215_Ritter",
+      "Pal_206_Ritter",
       "Pal_293_Ritter",
       "Pal_214_Ritter",
-      "Pal_215_Ritter",
-      "Pal_239_Ritter",
-      "Pal_211_Torwache",
-      "Pal_233_Ritter",
-      "Pal_237_Ritter",
-      "Pal_241_Ritter",
-      "Pal_206_Ritter"
+      "Pal_290_Ritter",
+      "Pal_231_Ritter",
+      "Pal_241_Ritter"
     ],
     "G": "1",
     "source": "self",
@@ -3651,17 +3651,17 @@
     "text": "Innosowi niech będą dzięki! Zagrożenie ze strony smoków zostało zażegnane. Teraz od rudy dzielą nas już tylko orkowie.",
     "source_file": "B_AssignAmbientInfos_PAL_12.d",
     "npcs": [
-      "Pal_231_Ritter",
-      "Pal_290_Ritter",
+      "Pal_211_Torwache",
+      "Pal_239_Ritter",
+      "Pal_237_Ritter",
+      "Pal_233_Ritter",
+      "Pal_215_Ritter",
+      "Pal_206_Ritter",
       "Pal_293_Ritter",
       "Pal_214_Ritter",
-      "Pal_215_Ritter",
-      "Pal_239_Ritter",
-      "Pal_211_Torwache",
-      "Pal_233_Ritter",
-      "Pal_237_Ritter",
-      "Pal_241_Ritter",
-      "Pal_206_Ritter"
+      "Pal_290_Ritter",
+      "Pal_231_Ritter",
+      "Pal_241_Ritter"
     ],
     "G": "1",
     "source": "self",
@@ -3676,17 +3676,17 @@
     "text": "Chyba nie myślisz, że odpowiem na to pytanie!",
     "source_file": "B_AssignAmbientInfos_PAL_12.d",
     "npcs": [
-      "Pal_231_Ritter",
-      "Pal_290_Ritter",
+      "Pal_211_Torwache",
+      "Pal_239_Ritter",
+      "Pal_237_Ritter",
+      "Pal_233_Ritter",
+      "Pal_215_Ritter",
+      "Pal_206_Ritter",
       "Pal_293_Ritter",
       "Pal_214_Ritter",
-      "Pal_215_Ritter",
-      "Pal_239_Ritter",
-      "Pal_211_Torwache",
-      "Pal_233_Ritter",
-      "Pal_237_Ritter",
-      "Pal_241_Ritter",
-      "Pal_206_Ritter"
+      "Pal_290_Ritter",
+      "Pal_231_Ritter",
+      "Pal_241_Ritter"
     ],
     "G": "1",
     "source": "self",
@@ -3716,9 +3716,9 @@
     "text": "Najlepiej, żebyś ich omijał szerokim łukiem. To moja jedyna rada.",
     "source_file": "B_AssignAmbientInfos_BAU_1.d",
     "npcs": [
-      "BAU_909_Bauer",
       "BAU_904_Bauer",
       "BAU_919_Bauer",
+      "BAU_909_Bauer",
       "BAU_916_Bauer"
     ],
     "G": "1",
@@ -3734,9 +3734,9 @@
     "text": "Wystarczy, że któremuś nie spodoba się twoja gęba i dostaniesz w nos bez ostrzeżenia.",
     "source_file": "B_AssignAmbientInfos_BAU_1.d",
     "npcs": [
-      "BAU_909_Bauer",
       "BAU_904_Bauer",
       "BAU_919_Bauer",
+      "BAU_909_Bauer",
       "BAU_916_Bauer"
     ],
     "G": "1",
@@ -3752,9 +3752,9 @@
     "text": "Jasne, zawsze możesz o tym donieść Lee, ale nos i tak nie będzie już taki jak kiedyś.",
     "source_file": "B_AssignAmbientInfos_BAU_1.d",
     "npcs": [
-      "BAU_909_Bauer",
       "BAU_904_Bauer",
       "BAU_919_Bauer",
+      "BAU_909_Bauer",
       "BAU_916_Bauer"
     ],
     "G": "1",
@@ -3785,9 +3785,9 @@
     "text": "To farma Onara i on podejmuje tu wszystkie ważne decyzje.",
     "source_file": "B_AssignAmbientInfos_BAU_1.d",
     "npcs": [
-      "BAU_909_Bauer",
       "BAU_904_Bauer",
       "BAU_919_Bauer",
+      "BAU_909_Bauer",
       "BAU_916_Bauer"
     ],
     "G": "1",
@@ -3803,9 +3803,9 @@
     "text": "Pozwól, że dam ci pewną radę: nie wdawaj się w bójki z jego najemnikami. Ci chłopcy nie lubią, kiedy wchodzi im się w drogę.",
     "source_file": "B_AssignAmbientInfos_BAU_1.d",
     "npcs": [
-      "BAU_909_Bauer",
       "BAU_904_Bauer",
       "BAU_919_Bauer",
+      "BAU_909_Bauer",
       "BAU_916_Bauer"
     ],
     "G": "1",
@@ -3821,9 +3821,9 @@
     "text": "Szczególnie ten Sylvio to strasznie wredny łotr. Jednak ich przywódca, Lee, jest jak najbardziej w porządku.",
     "source_file": "B_AssignAmbientInfos_BAU_1.d",
     "npcs": [
-      "BAU_909_Bauer",
       "BAU_904_Bauer",
       "BAU_919_Bauer",
+      "BAU_909_Bauer",
       "BAU_916_Bauer"
     ],
     "G": "1",
@@ -3854,9 +3854,9 @@
     "text": "Na około tylko pola i farmy. I najemnicy, co to włóczą się zwłaszcza na wschód od farmy Onara.",
     "source_file": "B_AssignAmbientInfos_BAU_1.d",
     "npcs": [
-      "BAU_909_Bauer",
       "BAU_904_Bauer",
       "BAU_919_Bauer",
+      "BAU_909_Bauer",
       "BAU_916_Bauer"
     ],
     "G": "1",
@@ -3872,9 +3872,9 @@
     "text": "Na północ stąd leży farma Sekoba, ale najemnicy pojawiają się tam tylko po to, by zebrać czynsz.",
     "source_file": "B_AssignAmbientInfos_BAU_1.d",
     "npcs": [
-      "BAU_909_Bauer",
       "BAU_904_Bauer",
       "BAU_919_Bauer",
+      "BAU_909_Bauer",
       "BAU_916_Bauer"
     ],
     "G": "1",
@@ -3890,9 +3890,9 @@
     "text": "Na południowym zachodzie leży farma Bengara.",
     "source_file": "B_AssignAmbientInfos_BAU_1.d",
     "npcs": [
-      "BAU_909_Bauer",
       "BAU_904_Bauer",
       "BAU_919_Bauer",
+      "BAU_909_Bauer",
       "BAU_916_Bauer"
     ],
     "G": "1",
@@ -3923,9 +3923,9 @@
     "text": "Onar wynajął najemników, którzy mają odstraszać strażników miejskich. Inaczej rozkradliby nasz dobytek do ostatniej owcy!",
     "source_file": "B_AssignAmbientInfos_BAU_1.d",
     "npcs": [
-      "BAU_909_Bauer",
       "BAU_904_Bauer",
       "BAU_919_Bauer",
+      "BAU_909_Bauer",
       "BAU_916_Bauer"
     ],
     "G": "1",
@@ -3941,9 +3941,9 @@
     "text": "Niewiele się dzieje. Wciąż te same problemy. Straż, orkowie, polne bestie.",
     "source_file": "B_AssignAmbientInfos_BAU_1.d",
     "npcs": [
-      "BAU_909_Bauer",
       "BAU_904_Bauer",
       "BAU_919_Bauer",
+      "BAU_909_Bauer",
       "BAU_916_Bauer"
     ],
     "G": "1",
@@ -3959,9 +3959,9 @@
     "text": "Ostatnio dzieją się tu dziwne rzeczy. Kilka nocy temu widziałem czarną postać. To nie był człowiek.",
     "source_file": "B_AssignAmbientInfos_BAU_1.d",
     "npcs": [
-      "BAU_909_Bauer",
       "BAU_904_Bauer",
       "BAU_919_Bauer",
+      "BAU_909_Bauer",
       "BAU_916_Bauer"
     ],
     "G": "1",
@@ -3977,9 +3977,9 @@
     "text": "Pojawia się coraz więcej orków. Czasem tak sobie myślę, że miejsce każdego zabitego zajmują dwaj nowi.",
     "source_file": "B_AssignAmbientInfos_BAU_1.d",
     "npcs": [
-      "BAU_909_Bauer",
       "BAU_904_Bauer",
       "BAU_919_Bauer",
+      "BAU_909_Bauer",
       "BAU_916_Bauer"
     ],
     "G": "1",
@@ -3995,9 +3995,9 @@
     "text": "Paladyni wyruszają do Górniczej Doliny. O co w tym wszystkim chodzi? Jak tak dalej pójdzie, nie będzie nikogo, by powstrzymać straż miejską.",
     "source_file": "B_AssignAmbientInfos_BAU_1.d",
     "npcs": [
-      "BAU_909_Bauer",
       "BAU_904_Bauer",
       "BAU_919_Bauer",
+      "BAU_909_Bauer",
       "BAU_916_Bauer"
     ],
     "G": "1",
@@ -4028,10 +4028,10 @@
     "text": "Onar wynajął ich, by bronili jego farmy.",
     "source_file": "B_AssignAmbientInfos_BAU_7.d",
     "npcs": [
-      "BAU_906_Bauer",
+      "BAU_918_Bauer",
       "BAU_905_Bauer",
       "BAU_920_Bauer",
-      "BAU_918_Bauer"
+      "BAU_906_Bauer"
     ],
     "G": "1",
     "source": "self",
@@ -4046,10 +4046,10 @@
     "text": "Większość z nich zachowuje się tak, jakby farma była ich własnością. Ale to prawda, że nas ochraniają.",
     "source_file": "B_AssignAmbientInfos_BAU_7.d",
     "npcs": [
-      "BAU_906_Bauer",
+      "BAU_918_Bauer",
       "BAU_905_Bauer",
       "BAU_920_Bauer",
-      "BAU_918_Bauer"
+      "BAU_906_Bauer"
     ],
     "G": "1",
     "source": "self",
@@ -4079,10 +4079,10 @@
     "text": "Duża farma należy do Onara. Mniejsze także, ale te wynajmuje okolicznym mieszkańcom.",
     "source_file": "B_AssignAmbientInfos_BAU_7.d",
     "npcs": [
-      "BAU_906_Bauer",
+      "BAU_918_Bauer",
       "BAU_905_Bauer",
       "BAU_920_Bauer",
-      "BAU_918_Bauer"
+      "BAU_906_Bauer"
     ],
     "G": "1",
     "source": "self",
@@ -4112,10 +4112,10 @@
     "text": "Duża farma po wschodniej stronie doliny należy do Onara. Na północ stąd leży farma Sekoba.",
     "source_file": "B_AssignAmbientInfos_BAU_7.d",
     "npcs": [
-      "BAU_906_Bauer",
+      "BAU_918_Bauer",
       "BAU_905_Bauer",
       "BAU_920_Bauer",
-      "BAU_918_Bauer"
+      "BAU_906_Bauer"
     ],
     "G": "1",
     "source": "self",
@@ -4130,10 +4130,10 @@
     "text": "Jest jeszcze farma Bengara, która leży na wzniesieniu, na południowy zachód stąd. Możesz się tam przedostać z doliny - musisz jedynie wejść po kamiennych schodach.",
     "source_file": "B_AssignAmbientInfos_BAU_7.d",
     "npcs": [
-      "BAU_906_Bauer",
+      "BAU_918_Bauer",
       "BAU_905_Bauer",
       "BAU_920_Bauer",
-      "BAU_918_Bauer"
+      "BAU_906_Bauer"
     ],
     "G": "1",
     "source": "self",
@@ -4163,10 +4163,10 @@
     "text": "Ogłosiliśmy niepodległość - nie płacimy już podatków na rzecz miasta. Król nic nigdy dla nas nie zrobił - mieliśmy tego dość!",
     "source_file": "B_AssignAmbientInfos_BAU_7.d",
     "npcs": [
-      "BAU_906_Bauer",
+      "BAU_918_Bauer",
       "BAU_905_Bauer",
       "BAU_920_Bauer",
-      "BAU_918_Bauer"
+      "BAU_906_Bauer"
     ],
     "G": "1",
     "source": "self",
@@ -4181,10 +4181,10 @@
     "text": "W tej chwili niewiele się tu dzieje.",
     "source_file": "B_AssignAmbientInfos_BAU_7.d",
     "npcs": [
-      "BAU_906_Bauer",
+      "BAU_918_Bauer",
       "BAU_905_Bauer",
       "BAU_920_Bauer",
-      "BAU_918_Bauer"
+      "BAU_906_Bauer"
     ],
     "G": "1",
     "source": "self",
@@ -4199,10 +4199,10 @@
     "text": "Ostatnio ludzie zaczęli opowiadać coś o smokach. A król robi wszystko, żeby tylko wycisnąć z poddanych jak najwięcej pieniędzy.",
     "source_file": "B_AssignAmbientInfos_BAU_7.d",
     "npcs": [
-      "BAU_906_Bauer",
+      "BAU_918_Bauer",
       "BAU_905_Bauer",
       "BAU_920_Bauer",
-      "BAU_918_Bauer"
+      "BAU_906_Bauer"
     ],
     "G": "1",
     "source": "self",
@@ -4217,10 +4217,10 @@
     "text": "Uważaj na siebie, wzdłuż przełęczy pałęta się wiele podejrzanych typków i dzikich bestii.",
     "source_file": "B_AssignAmbientInfos_BAU_7.d",
     "npcs": [
-      "BAU_906_Bauer",
+      "BAU_918_Bauer",
       "BAU_905_Bauer",
       "BAU_920_Bauer",
-      "BAU_918_Bauer"
+      "BAU_906_Bauer"
     ],
     "G": "1",
     "source": "self",
@@ -4235,10 +4235,10 @@
     "text": "Teraz, po śmierci smoków, paladyni zechcieli łaskawie opuścić mury miasta. Czas najwyższy, by na ulicach znów zapanował porządek.",
     "source_file": "B_AssignAmbientInfos_BAU_7.d",
     "npcs": [
-      "BAU_906_Bauer",
+      "BAU_918_Bauer",
       "BAU_905_Bauer",
       "BAU_920_Bauer",
-      "BAU_918_Bauer"
+      "BAU_906_Bauer"
     ],
     "G": "1",
     "source": "self",
@@ -4269,8 +4269,8 @@
     "source_file": "B_AssignAmbientInfos_BAU_13.d",
     "npcs": [
       "BAU_901_Bauer",
-      "BAU_917_Bauer",
-      "BAU_921_Bauer"
+      "BAU_921_Bauer",
+      "BAU_917_Bauer"
     ],
     "G": "1",
     "source": "self",
@@ -4286,8 +4286,8 @@
     "source_file": "B_AssignAmbientInfos_BAU_13.d",
     "npcs": [
       "BAU_901_Bauer",
-      "BAU_917_Bauer",
-      "BAU_921_Bauer"
+      "BAU_921_Bauer",
+      "BAU_917_Bauer"
     ],
     "G": "1",
     "source": "self",
@@ -4318,8 +4318,8 @@
     "source_file": "B_AssignAmbientInfos_BAU_13.d",
     "npcs": [
       "BAU_901_Bauer",
-      "BAU_917_Bauer",
-      "BAU_921_Bauer"
+      "BAU_921_Bauer",
+      "BAU_917_Bauer"
     ],
     "G": "1",
     "source": "self",
@@ -4335,8 +4335,8 @@
     "source_file": "B_AssignAmbientInfos_BAU_13.d",
     "npcs": [
       "BAU_901_Bauer",
-      "BAU_917_Bauer",
-      "BAU_921_Bauer"
+      "BAU_921_Bauer",
+      "BAU_917_Bauer"
     ],
     "G": "1",
     "source": "self",
@@ -4367,8 +4367,8 @@
     "source_file": "B_AssignAmbientInfos_BAU_13.d",
     "npcs": [
       "BAU_901_Bauer",
-      "BAU_917_Bauer",
-      "BAU_921_Bauer"
+      "BAU_921_Bauer",
+      "BAU_917_Bauer"
     ],
     "G": "1",
     "source": "self",
@@ -4384,8 +4384,8 @@
     "source_file": "B_AssignAmbientInfos_BAU_13.d",
     "npcs": [
       "BAU_901_Bauer",
-      "BAU_917_Bauer",
-      "BAU_921_Bauer"
+      "BAU_921_Bauer",
+      "BAU_917_Bauer"
     ],
     "G": "1",
     "source": "self",
@@ -4416,8 +4416,8 @@
     "source_file": "B_AssignAmbientInfos_BAU_13.d",
     "npcs": [
       "BAU_901_Bauer",
-      "BAU_917_Bauer",
-      "BAU_921_Bauer"
+      "BAU_921_Bauer",
+      "BAU_917_Bauer"
     ],
     "G": "1",
     "source": "self",
@@ -4433,8 +4433,8 @@
     "source_file": "B_AssignAmbientInfos_BAU_13.d",
     "npcs": [
       "BAU_901_Bauer",
-      "BAU_917_Bauer",
-      "BAU_921_Bauer"
+      "BAU_921_Bauer",
+      "BAU_917_Bauer"
     ],
     "G": "1",
     "source": "self",
@@ -4450,8 +4450,8 @@
     "source_file": "B_AssignAmbientInfos_BAU_13.d",
     "npcs": [
       "BAU_901_Bauer",
-      "BAU_917_Bauer",
-      "BAU_921_Bauer"
+      "BAU_921_Bauer",
+      "BAU_917_Bauer"
     ],
     "G": "1",
     "source": "self",
@@ -4467,8 +4467,8 @@
     "source_file": "B_AssignAmbientInfos_BAU_13.d",
     "npcs": [
       "BAU_901_Bauer",
-      "BAU_917_Bauer",
-      "BAU_921_Bauer"
+      "BAU_921_Bauer",
+      "BAU_917_Bauer"
     ],
     "G": "1",
     "source": "self",
@@ -4484,8 +4484,8 @@
     "source_file": "B_AssignAmbientInfos_BAU_13.d",
     "npcs": [
       "BAU_901_Bauer",
-      "BAU_917_Bauer",
-      "BAU_921_Bauer"
+      "BAU_921_Bauer",
+      "BAU_917_Bauer"
     ],
     "G": "1",
     "source": "self",
@@ -4735,11 +4735,11 @@
     "text": "Słyszałem o sprawie ze strażą. Torlof powiada, że zdałeś test. Możesz liczyć na mój głos.",
     "source_file": "B_AssignAmbientInfos_SLD_6.d",
     "npcs": [
-      "SLD_817_Soeldner",
-      "SLD_826_Soeldner",
-      "SLD_815_Soeldner",
       "SLD_824_Soeldner",
-      "SLD_821_Soeldner"
+      "SLD_817_Soeldner",
+      "SLD_821_Soeldner",
+      "SLD_815_Soeldner",
+      "SLD_826_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -4754,11 +4754,11 @@
     "text": "Ograbianie chłopów to jedno, ale potyczki z regularnymi oddziałami straży to zupełnie inna sprawa. Cóż, jeśli Onar uważa, że się nadajesz, to ja nie będę się sprzeciwiał.",
     "source_file": "B_AssignAmbientInfos_SLD_6.d",
     "npcs": [
-      "SLD_817_Soeldner",
-      "SLD_826_Soeldner",
-      "SLD_815_Soeldner",
       "SLD_824_Soeldner",
-      "SLD_821_Soeldner"
+      "SLD_817_Soeldner",
+      "SLD_821_Soeldner",
+      "SLD_815_Soeldner",
+      "SLD_826_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -4773,11 +4773,11 @@
     "text": "Pogadaj z Torlofem. On ci dopiero pokaże...",
     "source_file": "B_AssignAmbientInfos_SLD_6.d",
     "npcs": [
-      "SLD_817_Soeldner",
-      "SLD_826_Soeldner",
-      "SLD_815_Soeldner",
       "SLD_824_Soeldner",
-      "SLD_821_Soeldner"
+      "SLD_817_Soeldner",
+      "SLD_821_Soeldner",
+      "SLD_815_Soeldner",
+      "SLD_826_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -4807,11 +4807,11 @@
     "text": "Farma należy do Onara, jeśli o to ci chodzi. Jednak naszym przywódcą jest Lee.",
     "source_file": "B_AssignAmbientInfos_SLD_6.d",
     "npcs": [
-      "SLD_817_Soeldner",
-      "SLD_826_Soeldner",
-      "SLD_815_Soeldner",
       "SLD_824_Soeldner",
-      "SLD_821_Soeldner"
+      "SLD_817_Soeldner",
+      "SLD_821_Soeldner",
+      "SLD_815_Soeldner",
+      "SLD_826_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -4826,11 +4826,11 @@
     "text": "Swego czasu był generałem armii królewskiej. Jednak chyba nie lubią się już z królem.",
     "source_file": "B_AssignAmbientInfos_SLD_6.d",
     "npcs": [
-      "SLD_817_Soeldner",
-      "SLD_826_Soeldner",
-      "SLD_815_Soeldner",
       "SLD_824_Soeldner",
-      "SLD_821_Soeldner"
+      "SLD_817_Soeldner",
+      "SLD_821_Soeldner",
+      "SLD_815_Soeldner",
+      "SLD_826_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -4845,11 +4845,11 @@
     "text": "Zapamiętaj jego imię. Jeśli wpadniesz w jakieś tarapaty, tylko on będzie mógł uratować twój tyłek. Każdy inny po prostu poderżnie ci gardło.",
     "source_file": "B_AssignAmbientInfos_SLD_6.d",
     "npcs": [
-      "SLD_817_Soeldner",
-      "SLD_826_Soeldner",
-      "SLD_815_Soeldner",
       "SLD_824_Soeldner",
-      "SLD_821_Soeldner"
+      "SLD_817_Soeldner",
+      "SLD_821_Soeldner",
+      "SLD_815_Soeldner",
+      "SLD_826_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -4879,11 +4879,11 @@
     "text": "Chronimy nie tylko farmę Onara, ale i całą dolinę.",
     "source_file": "B_AssignAmbientInfos_SLD_6.d",
     "npcs": [
-      "SLD_817_Soeldner",
-      "SLD_826_Soeldner",
-      "SLD_815_Soeldner",
       "SLD_824_Soeldner",
-      "SLD_821_Soeldner"
+      "SLD_817_Soeldner",
+      "SLD_821_Soeldner",
+      "SLD_815_Soeldner",
+      "SLD_826_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -4898,11 +4898,11 @@
     "text": "Onar chce, byśmy zajęli się każdym, kto sprawia kłopoty. Uważaj więc na siebie.",
     "source_file": "B_AssignAmbientInfos_SLD_6.d",
     "npcs": [
-      "SLD_817_Soeldner",
-      "SLD_826_Soeldner",
-      "SLD_815_Soeldner",
       "SLD_824_Soeldner",
-      "SLD_821_Soeldner"
+      "SLD_817_Soeldner",
+      "SLD_821_Soeldner",
+      "SLD_815_Soeldner",
+      "SLD_826_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -4932,11 +4932,11 @@
     "text": "Teraz, dzieciaku, jesteś jednym z nas.",
     "source_file": "B_AssignAmbientInfos_SLD_6.d",
     "npcs": [
-      "SLD_817_Soeldner",
-      "SLD_826_Soeldner",
-      "SLD_815_Soeldner",
       "SLD_824_Soeldner",
-      "SLD_821_Soeldner"
+      "SLD_817_Soeldner",
+      "SLD_821_Soeldner",
+      "SLD_815_Soeldner",
+      "SLD_826_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -4951,11 +4951,11 @@
     "text": "Czego chcesz?",
     "source_file": "B_AssignAmbientInfos_SLD_6.d",
     "npcs": [
-      "SLD_817_Soeldner",
-      "SLD_826_Soeldner",
-      "SLD_815_Soeldner",
       "SLD_824_Soeldner",
-      "SLD_821_Soeldner"
+      "SLD_817_Soeldner",
+      "SLD_821_Soeldner",
+      "SLD_815_Soeldner",
+      "SLD_826_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -4970,11 +4970,11 @@
     "text": "Kiedy pierwszy raz usłyszałem o smokach, nie mogłem w to uwierzyć.",
     "source_file": "B_AssignAmbientInfos_SLD_6.d",
     "npcs": [
-      "SLD_817_Soeldner",
-      "SLD_826_Soeldner",
-      "SLD_815_Soeldner",
       "SLD_824_Soeldner",
-      "SLD_821_Soeldner"
+      "SLD_817_Soeldner",
+      "SLD_821_Soeldner",
+      "SLD_815_Soeldner",
+      "SLD_826_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -4989,11 +4989,11 @@
     "text": "Smok - to dopiero przeciwnik, nie jakieś owce czy głupkowaci strażnicy. To prawdziwe wyzwanie.",
     "source_file": "B_AssignAmbientInfos_SLD_6.d",
     "npcs": [
-      "SLD_817_Soeldner",
-      "SLD_826_Soeldner",
-      "SLD_815_Soeldner",
       "SLD_824_Soeldner",
-      "SLD_821_Soeldner"
+      "SLD_817_Soeldner",
+      "SLD_821_Soeldner",
+      "SLD_815_Soeldner",
+      "SLD_826_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -5008,11 +5008,11 @@
     "text": "I co, jak tam ten twój Lord Hagen? Posrał się już w gacie ze strachu przed smokami?",
     "source_file": "B_AssignAmbientInfos_SLD_6.d",
     "npcs": [
-      "SLD_817_Soeldner",
-      "SLD_826_Soeldner",
-      "SLD_815_Soeldner",
       "SLD_824_Soeldner",
-      "SLD_821_Soeldner"
+      "SLD_817_Soeldner",
+      "SLD_821_Soeldner",
+      "SLD_815_Soeldner",
+      "SLD_826_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -5027,11 +5027,11 @@
     "text": "Wygląda na to, że w końcu będzie musiał ruszyć swoje szanowne dupsko z miasta.",
     "source_file": "B_AssignAmbientInfos_SLD_6.d",
     "npcs": [
-      "SLD_817_Soeldner",
-      "SLD_826_Soeldner",
-      "SLD_815_Soeldner",
       "SLD_824_Soeldner",
-      "SLD_821_Soeldner"
+      "SLD_817_Soeldner",
+      "SLD_821_Soeldner",
+      "SLD_815_Soeldner",
+      "SLD_826_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -5046,11 +5046,11 @@
     "text": "Lord Hagen ma szczęście. Jeszcze kilka dni, a sami odbilibyśmy Benneta.",
     "source_file": "B_AssignAmbientInfos_SLD_6.d",
     "npcs": [
-      "SLD_817_Soeldner",
-      "SLD_826_Soeldner",
-      "SLD_815_Soeldner",
       "SLD_824_Soeldner",
-      "SLD_821_Soeldner"
+      "SLD_817_Soeldner",
+      "SLD_821_Soeldner",
+      "SLD_815_Soeldner",
+      "SLD_826_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -5065,11 +5065,11 @@
     "text": "Jeśli w ciągu kilku dni nie wypuszczą Benneta z więzienia, sami po niego pójdziemy.",
     "source_file": "B_AssignAmbientInfos_SLD_6.d",
     "npcs": [
-      "SLD_817_Soeldner",
-      "SLD_826_Soeldner",
-      "SLD_815_Soeldner",
       "SLD_824_Soeldner",
-      "SLD_821_Soeldner"
+      "SLD_817_Soeldner",
+      "SLD_821_Soeldner",
+      "SLD_815_Soeldner",
+      "SLD_826_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -5084,11 +5084,11 @@
     "text": "Co tu jeszcze robisz? Nie wybierałeś się przypadkiem z innymi do Doliny?",
     "source_file": "B_AssignAmbientInfos_SLD_6.d",
     "npcs": [
-      "SLD_817_Soeldner",
-      "SLD_826_Soeldner",
-      "SLD_815_Soeldner",
       "SLD_824_Soeldner",
-      "SLD_821_Soeldner"
+      "SLD_817_Soeldner",
+      "SLD_821_Soeldner",
+      "SLD_815_Soeldner",
+      "SLD_826_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -5103,11 +5103,11 @@
     "text": "Jeśli o mnie chodzi, to nie musicie wracać.",
     "source_file": "B_AssignAmbientInfos_SLD_6.d",
     "npcs": [
-      "SLD_817_Soeldner",
-      "SLD_826_Soeldner",
-      "SLD_815_Soeldner",
       "SLD_824_Soeldner",
-      "SLD_821_Soeldner"
+      "SLD_817_Soeldner",
+      "SLD_821_Soeldner",
+      "SLD_815_Soeldner",
+      "SLD_826_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -5122,11 +5122,11 @@
     "text": "Powinieneś iść do Górniczej Doliny. Słyszałem, że te biedne psubraty same sobie nie poradzą.",
     "source_file": "B_AssignAmbientInfos_SLD_6.d",
     "npcs": [
-      "SLD_817_Soeldner",
-      "SLD_826_Soeldner",
-      "SLD_815_Soeldner",
       "SLD_824_Soeldner",
-      "SLD_821_Soeldner"
+      "SLD_817_Soeldner",
+      "SLD_821_Soeldner",
+      "SLD_815_Soeldner",
+      "SLD_826_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -5141,11 +5141,11 @@
     "text": "Kiedy tylko się pojawiłeś - wiedziałem, że wywrócisz to miejsce do góry nogami.",
     "source_file": "B_AssignAmbientInfos_SLD_6.d",
     "npcs": [
-      "SLD_817_Soeldner",
-      "SLD_826_Soeldner",
-      "SLD_815_Soeldner",
       "SLD_824_Soeldner",
-      "SLD_821_Soeldner"
+      "SLD_817_Soeldner",
+      "SLD_821_Soeldner",
+      "SLD_815_Soeldner",
+      "SLD_826_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -5160,11 +5160,11 @@
     "text": "Ale smoki? No, to już coś. W najbliższym czasie nikt nie odważy się skrzyżować z tobą miecza.",
     "source_file": "B_AssignAmbientInfos_SLD_6.d",
     "npcs": [
-      "SLD_817_Soeldner",
-      "SLD_826_Soeldner",
-      "SLD_815_Soeldner",
       "SLD_824_Soeldner",
-      "SLD_821_Soeldner"
+      "SLD_817_Soeldner",
+      "SLD_821_Soeldner",
+      "SLD_815_Soeldner",
+      "SLD_826_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -5179,11 +5179,11 @@
     "text": "Jestem pod wrażeniem. Nie walczymy po tej samej stronie, ale zabicie smoków to nie lada wyczyn.",
     "source_file": "B_AssignAmbientInfos_SLD_6.d",
     "npcs": [
-      "SLD_817_Soeldner",
-      "SLD_826_Soeldner",
-      "SLD_815_Soeldner",
       "SLD_824_Soeldner",
-      "SLD_821_Soeldner"
+      "SLD_817_Soeldner",
+      "SLD_821_Soeldner",
+      "SLD_815_Soeldner",
+      "SLD_826_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -5214,9 +5214,9 @@
     "source_file": "B_AssignAmbientInfos_SLD_7.d",
     "npcs": [
       "SLD_825_Soeldner",
+      "SLD_818_Soeldner",
       "SLD_827_Soeldner",
-      "SLD_819_Soeldner",
-      "SLD_818_Soeldner"
+      "SLD_819_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -5232,9 +5232,9 @@
     "source_file": "B_AssignAmbientInfos_SLD_7.d",
     "npcs": [
       "SLD_825_Soeldner",
+      "SLD_818_Soeldner",
       "SLD_827_Soeldner",
-      "SLD_819_Soeldner",
-      "SLD_818_Soeldner"
+      "SLD_819_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -5250,9 +5250,9 @@
     "source_file": "B_AssignAmbientInfos_SLD_7.d",
     "npcs": [
       "SLD_825_Soeldner",
+      "SLD_818_Soeldner",
       "SLD_827_Soeldner",
-      "SLD_819_Soeldner",
-      "SLD_818_Soeldner"
+      "SLD_819_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -5283,9 +5283,9 @@
     "source_file": "B_AssignAmbientInfos_SLD_7.d",
     "npcs": [
       "SLD_825_Soeldner",
+      "SLD_818_Soeldner",
       "SLD_827_Soeldner",
-      "SLD_819_Soeldner",
-      "SLD_818_Soeldner"
+      "SLD_819_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -5301,9 +5301,9 @@
     "source_file": "B_AssignAmbientInfos_SLD_7.d",
     "npcs": [
       "SLD_825_Soeldner",
+      "SLD_818_Soeldner",
       "SLD_827_Soeldner",
-      "SLD_819_Soeldner",
-      "SLD_818_Soeldner"
+      "SLD_819_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -5319,9 +5319,9 @@
     "source_file": "B_AssignAmbientInfos_SLD_7.d",
     "npcs": [
       "SLD_825_Soeldner",
+      "SLD_818_Soeldner",
       "SLD_827_Soeldner",
-      "SLD_819_Soeldner",
-      "SLD_818_Soeldner"
+      "SLD_819_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -5337,9 +5337,9 @@
     "source_file": "B_AssignAmbientInfos_SLD_7.d",
     "npcs": [
       "SLD_825_Soeldner",
+      "SLD_818_Soeldner",
       "SLD_827_Soeldner",
-      "SLD_819_Soeldner",
-      "SLD_818_Soeldner"
+      "SLD_819_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -5370,9 +5370,9 @@
     "source_file": "B_AssignAmbientInfos_SLD_7.d",
     "npcs": [
       "SLD_825_Soeldner",
+      "SLD_818_Soeldner",
       "SLD_827_Soeldner",
-      "SLD_819_Soeldner",
-      "SLD_818_Soeldner"
+      "SLD_819_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -5388,9 +5388,9 @@
     "source_file": "B_AssignAmbientInfos_SLD_7.d",
     "npcs": [
       "SLD_825_Soeldner",
+      "SLD_818_Soeldner",
       "SLD_827_Soeldner",
-      "SLD_819_Soeldner",
-      "SLD_818_Soeldner"
+      "SLD_819_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -5421,9 +5421,9 @@
     "source_file": "B_AssignAmbientInfos_SLD_7.d",
     "npcs": [
       "SLD_825_Soeldner",
+      "SLD_818_Soeldner",
       "SLD_827_Soeldner",
-      "SLD_819_Soeldner",
-      "SLD_818_Soeldner"
+      "SLD_819_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -5439,9 +5439,9 @@
     "source_file": "B_AssignAmbientInfos_SLD_7.d",
     "npcs": [
       "SLD_825_Soeldner",
+      "SLD_818_Soeldner",
       "SLD_827_Soeldner",
-      "SLD_819_Soeldner",
-      "SLD_818_Soeldner"
+      "SLD_819_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -5457,9 +5457,9 @@
     "source_file": "B_AssignAmbientInfos_SLD_7.d",
     "npcs": [
       "SLD_825_Soeldner",
+      "SLD_818_Soeldner",
       "SLD_827_Soeldner",
-      "SLD_819_Soeldner",
-      "SLD_818_Soeldner"
+      "SLD_819_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -5475,9 +5475,9 @@
     "source_file": "B_AssignAmbientInfos_SLD_7.d",
     "npcs": [
       "SLD_825_Soeldner",
+      "SLD_818_Soeldner",
       "SLD_827_Soeldner",
-      "SLD_819_Soeldner",
-      "SLD_818_Soeldner"
+      "SLD_819_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -5493,9 +5493,9 @@
     "source_file": "B_AssignAmbientInfos_SLD_7.d",
     "npcs": [
       "SLD_825_Soeldner",
+      "SLD_818_Soeldner",
       "SLD_827_Soeldner",
-      "SLD_819_Soeldner",
-      "SLD_818_Soeldner"
+      "SLD_819_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -5511,9 +5511,9 @@
     "source_file": "B_AssignAmbientInfos_SLD_7.d",
     "npcs": [
       "SLD_825_Soeldner",
+      "SLD_818_Soeldner",
       "SLD_827_Soeldner",
-      "SLD_819_Soeldner",
-      "SLD_818_Soeldner"
+      "SLD_819_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -5529,9 +5529,9 @@
     "source_file": "B_AssignAmbientInfos_SLD_7.d",
     "npcs": [
       "SLD_825_Soeldner",
+      "SLD_818_Soeldner",
       "SLD_827_Soeldner",
-      "SLD_819_Soeldner",
-      "SLD_818_Soeldner"
+      "SLD_819_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -5547,9 +5547,9 @@
     "source_file": "B_AssignAmbientInfos_SLD_7.d",
     "npcs": [
       "SLD_825_Soeldner",
+      "SLD_818_Soeldner",
       "SLD_827_Soeldner",
-      "SLD_819_Soeldner",
-      "SLD_818_Soeldner"
+      "SLD_819_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -5565,9 +5565,9 @@
     "source_file": "B_AssignAmbientInfos_SLD_7.d",
     "npcs": [
       "SLD_825_Soeldner",
+      "SLD_818_Soeldner",
       "SLD_827_Soeldner",
-      "SLD_819_Soeldner",
-      "SLD_818_Soeldner"
+      "SLD_819_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -5583,9 +5583,9 @@
     "source_file": "B_AssignAmbientInfos_SLD_7.d",
     "npcs": [
       "SLD_825_Soeldner",
+      "SLD_818_Soeldner",
       "SLD_827_Soeldner",
-      "SLD_819_Soeldner",
-      "SLD_818_Soeldner"
+      "SLD_819_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -5601,9 +5601,9 @@
     "source_file": "B_AssignAmbientInfos_SLD_7.d",
     "npcs": [
       "SLD_825_Soeldner",
+      "SLD_818_Soeldner",
       "SLD_827_Soeldner",
-      "SLD_819_Soeldner",
-      "SLD_818_Soeldner"
+      "SLD_819_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -5619,9 +5619,9 @@
     "source_file": "B_AssignAmbientInfos_SLD_7.d",
     "npcs": [
       "SLD_825_Soeldner",
+      "SLD_818_Soeldner",
       "SLD_827_Soeldner",
-      "SLD_819_Soeldner",
-      "SLD_818_Soeldner"
+      "SLD_819_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -5637,9 +5637,9 @@
     "source_file": "B_AssignAmbientInfos_SLD_7.d",
     "npcs": [
       "SLD_825_Soeldner",
+      "SLD_818_Soeldner",
       "SLD_827_Soeldner",
-      "SLD_819_Soeldner",
-      "SLD_818_Soeldner"
+      "SLD_819_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -5655,9 +5655,9 @@
     "source_file": "B_AssignAmbientInfos_SLD_7.d",
     "npcs": [
       "SLD_825_Soeldner",
+      "SLD_818_Soeldner",
       "SLD_827_Soeldner",
-      "SLD_819_Soeldner",
-      "SLD_818_Soeldner"
+      "SLD_819_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -5673,9 +5673,9 @@
     "source_file": "B_AssignAmbientInfos_SLD_7.d",
     "npcs": [
       "SLD_825_Soeldner",
+      "SLD_818_Soeldner",
       "SLD_827_Soeldner",
-      "SLD_819_Soeldner",
-      "SLD_818_Soeldner"
+      "SLD_819_Soeldner"
     ],
     "G": "1",
     "source": "self",
@@ -5705,11 +5705,11 @@
     "text": "Czyżby nikt nie zgodził ci się pomóc? Dobrze... Będę ci towarzyszył przy tym zajęciu, jeśli znajdziesz jeszcze przynajmniej jedną osobę, która zgodzi się na to samo.",
     "source_file": "B_AssignAmbientInfos_NOV_3.d",
     "npcs": [
-      "NOV_653_ToterNovize",
-      "NOV_611_Novize",
-      "NOV_615_Novize",
       "NOV_606_Novize",
-      "NOV_651_ToterNovize"
+      "NOV_611_Novize",
+      "NOV_651_ToterNovize",
+      "NOV_653_ToterNovize",
+      "NOV_615_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -5724,11 +5724,11 @@
     "text": "Czy będę jedyną osobą pomagającą ci w pracy?",
     "source_file": "B_AssignAmbientInfos_NOV_3.d",
     "npcs": [
-      "NOV_653_ToterNovize",
-      "NOV_611_Novize",
-      "NOV_615_Novize",
       "NOV_606_Novize",
-      "NOV_651_ToterNovize"
+      "NOV_611_Novize",
+      "NOV_651_ToterNovize",
+      "NOV_653_ToterNovize",
+      "NOV_615_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -5758,11 +5758,11 @@
     "text": "A więc i ja do was dołączę.",
     "source_file": "B_AssignAmbientInfos_NOV_3.d",
     "npcs": [
-      "NOV_653_ToterNovize",
-      "NOV_611_Novize",
-      "NOV_615_Novize",
       "NOV_606_Novize",
-      "NOV_651_ToterNovize"
+      "NOV_611_Novize",
+      "NOV_651_ToterNovize",
+      "NOV_653_ToterNovize",
+      "NOV_615_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -5777,11 +5777,11 @@
     "text": "Bracie! Już przecież ci pomagam, nie musisz mnie dalej nakłaniać.",
     "source_file": "B_AssignAmbientInfos_NOV_3.d",
     "npcs": [
-      "NOV_653_ToterNovize",
-      "NOV_611_Novize",
-      "NOV_615_Novize",
       "NOV_606_Novize",
-      "NOV_651_ToterNovize"
+      "NOV_611_Novize",
+      "NOV_651_ToterNovize",
+      "NOV_653_ToterNovize",
+      "NOV_615_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -5796,11 +5796,11 @@
     "text": "Oczywiście, że ci pomogę. My nowicjusze powinniśmy trzymać się razem. Ręka rękę myje, jeśli wiesz co mam na myśli.",
     "source_file": "B_AssignAmbientInfos_NOV_3.d",
     "npcs": [
-      "NOV_653_ToterNovize",
-      "NOV_611_Novize",
-      "NOV_615_Novize",
       "NOV_606_Novize",
-      "NOV_651_ToterNovize"
+      "NOV_611_Novize",
+      "NOV_651_ToterNovize",
+      "NOV_653_ToterNovize",
+      "NOV_615_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -5815,11 +5815,11 @@
     "text": "Potrzebuję jednak 50 sztuk złota, w końcu muszę spłacić Parlana.",
     "source_file": "B_AssignAmbientInfos_NOV_3.d",
     "npcs": [
-      "NOV_653_ToterNovize",
-      "NOV_611_Novize",
-      "NOV_615_Novize",
       "NOV_606_Novize",
-      "NOV_651_ToterNovize"
+      "NOV_611_Novize",
+      "NOV_651_ToterNovize",
+      "NOV_653_ToterNovize",
+      "NOV_615_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -5834,11 +5834,11 @@
     "text": "Przecież obiecałem. Ty pomogłeś mnie, ja pomogę tobie.",
     "source_file": "B_AssignAmbientInfos_NOV_3.d",
     "npcs": [
-      "NOV_653_ToterNovize",
-      "NOV_611_Novize",
-      "NOV_615_Novize",
       "NOV_606_Novize",
-      "NOV_651_ToterNovize"
+      "NOV_611_Novize",
+      "NOV_651_ToterNovize",
+      "NOV_653_ToterNovize",
+      "NOV_615_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -5853,11 +5853,11 @@
     "text": "Wykluczone - nie mam na to czasu. Poszukaj sobie kogoś innego do pomocy.",
     "source_file": "B_AssignAmbientInfos_NOV_3.d",
     "npcs": [
-      "NOV_653_ToterNovize",
-      "NOV_611_Novize",
-      "NOV_615_Novize",
       "NOV_606_Novize",
-      "NOV_651_ToterNovize"
+      "NOV_611_Novize",
+      "NOV_651_ToterNovize",
+      "NOV_653_ToterNovize",
+      "NOV_615_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -5902,11 +5902,11 @@
     "text": "Biorę się więc do pracy.",
     "source_file": "B_AssignAmbientInfos_NOV_3.d",
     "npcs": [
-      "NOV_653_ToterNovize",
-      "NOV_611_Novize",
-      "NOV_615_Novize",
       "NOV_606_Novize",
-      "NOV_651_ToterNovize"
+      "NOV_611_Novize",
+      "NOV_651_ToterNovize",
+      "NOV_653_ToterNovize",
+      "NOV_615_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -5936,11 +5936,11 @@
     "text": "Jasne, czemu nie. Wygląda smakowicie.",
     "source_file": "B_AssignAmbientInfos_NOV_3.d",
     "npcs": [
-      "NOV_653_ToterNovize",
-      "NOV_611_Novize",
-      "NOV_615_Novize",
       "NOV_606_Novize",
-      "NOV_651_ToterNovize"
+      "NOV_611_Novize",
+      "NOV_651_ToterNovize",
+      "NOV_653_ToterNovize",
+      "NOV_615_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -5970,11 +5970,11 @@
     "text": "Większość nowicjuszy tego pragnie, jednak niewielu z nich udaje się zyskać tytuł Wybrańca, i szansę przyjęcia do Kręgu Ognia.",
     "source_file": "B_AssignAmbientInfos_NOV_3.d",
     "npcs": [
-      "NOV_653_ToterNovize",
-      "NOV_611_Novize",
-      "NOV_615_Novize",
       "NOV_606_Novize",
-      "NOV_651_ToterNovize"
+      "NOV_611_Novize",
+      "NOV_651_ToterNovize",
+      "NOV_653_ToterNovize",
+      "NOV_615_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -5989,11 +5989,11 @@
     "text": "Najwyższym zaszczytem, jakiego możesz dostąpić w naszym zakonie, jest tytuł maga Kręgu Ognia.",
     "source_file": "B_AssignAmbientInfos_NOV_3.d",
     "npcs": [
-      "NOV_653_ToterNovize",
-      "NOV_611_Novize",
-      "NOV_615_Novize",
       "NOV_606_Novize",
-      "NOV_651_ToterNovize"
+      "NOV_611_Novize",
+      "NOV_651_ToterNovize",
+      "NOV_653_ToterNovize",
+      "NOV_615_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6008,11 +6008,11 @@
     "text": "Będziesz musiał ciężko pracować, by zasłużyć na swoją szansę.",
     "source_file": "B_AssignAmbientInfos_NOV_3.d",
     "npcs": [
-      "NOV_653_ToterNovize",
-      "NOV_611_Novize",
-      "NOV_615_Novize",
       "NOV_606_Novize",
-      "NOV_651_ToterNovize"
+      "NOV_611_Novize",
+      "NOV_651_ToterNovize",
+      "NOV_653_ToterNovize",
+      "NOV_615_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6042,11 +6042,11 @@
     "text": "My, nowicjusze, służymy magom Kręgu Ognia. Oni zaś podlegają decyzjom Najwyższej Rady, w skład której wchodzą trzej najpotężniejsi magowie.",
     "source_file": "B_AssignAmbientInfos_NOV_3.d",
     "npcs": [
-      "NOV_653_ToterNovize",
-      "NOV_611_Novize",
-      "NOV_615_Novize",
       "NOV_606_Novize",
-      "NOV_651_ToterNovize"
+      "NOV_611_Novize",
+      "NOV_651_ToterNovize",
+      "NOV_653_ToterNovize",
+      "NOV_615_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6061,11 +6061,11 @@
     "text": "Sprawami nowicjuszy zajmuje się jednak Parlan. Prawie zawsze przesiaduje na dziedzińcu, nadzorując ich pracę.",
     "source_file": "B_AssignAmbientInfos_NOV_3.d",
     "npcs": [
-      "NOV_653_ToterNovize",
-      "NOV_611_Novize",
-      "NOV_615_Novize",
       "NOV_606_Novize",
-      "NOV_651_ToterNovize"
+      "NOV_611_Novize",
+      "NOV_651_ToterNovize",
+      "NOV_653_ToterNovize",
+      "NOV_615_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6095,11 +6095,11 @@
     "text": "Żyjemy tu bardzo skromnie. Hodujemy owce i wytwarzamy wino.",
     "source_file": "B_AssignAmbientInfos_NOV_3.d",
     "npcs": [
-      "NOV_653_ToterNovize",
-      "NOV_611_Novize",
-      "NOV_615_Novize",
       "NOV_606_Novize",
-      "NOV_651_ToterNovize"
+      "NOV_611_Novize",
+      "NOV_651_ToterNovize",
+      "NOV_653_ToterNovize",
+      "NOV_615_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6114,11 +6114,11 @@
     "text": "Mamy też bibliotekę, ale dostęp do niej posiadają jedynie magowie i wybrani nowicjusze.",
     "source_file": "B_AssignAmbientInfos_NOV_3.d",
     "npcs": [
-      "NOV_653_ToterNovize",
-      "NOV_611_Novize",
-      "NOV_615_Novize",
       "NOV_606_Novize",
-      "NOV_651_ToterNovize"
+      "NOV_611_Novize",
+      "NOV_651_ToterNovize",
+      "NOV_653_ToterNovize",
+      "NOV_615_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6133,11 +6133,11 @@
     "text": "My, nowicjusze, dbamy o to, by niczego nie zabrakło magom Kręgu Ognia.",
     "source_file": "B_AssignAmbientInfos_NOV_3.d",
     "npcs": [
-      "NOV_653_ToterNovize",
-      "NOV_611_Novize",
-      "NOV_615_Novize",
       "NOV_606_Novize",
-      "NOV_651_ToterNovize"
+      "NOV_611_Novize",
+      "NOV_651_ToterNovize",
+      "NOV_653_ToterNovize",
+      "NOV_615_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6167,11 +6167,11 @@
     "text": "Dobre pytanie! Nowicjusze rozmawiają tylko o tobie.",
     "source_file": "B_AssignAmbientInfos_NOV_3.d",
     "npcs": [
-      "NOV_653_ToterNovize",
-      "NOV_611_Novize",
-      "NOV_615_Novize",
       "NOV_606_Novize",
-      "NOV_651_ToterNovize"
+      "NOV_611_Novize",
+      "NOV_651_ToterNovize",
+      "NOV_653_ToterNovize",
+      "NOV_615_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6186,11 +6186,11 @@
     "text": "Naprawdę rzadko się zdarza, aby ktoś obcy został tak szybko przyjęty do Kręgu Ognia.",
     "source_file": "B_AssignAmbientInfos_NOV_3.d",
     "npcs": [
-      "NOV_653_ToterNovize",
-      "NOV_611_Novize",
-      "NOV_615_Novize",
       "NOV_606_Novize",
-      "NOV_651_ToterNovize"
+      "NOV_611_Novize",
+      "NOV_651_ToterNovize",
+      "NOV_653_ToterNovize",
+      "NOV_615_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6205,11 +6205,11 @@
     "text": "Nadszedł czas. Wkrótce któryś z nowicjuszy zostanie przyjęty do Kręgu Ognia.",
     "source_file": "B_AssignAmbientInfos_NOV_3.d",
     "npcs": [
-      "NOV_653_ToterNovize",
-      "NOV_611_Novize",
-      "NOV_615_Novize",
       "NOV_606_Novize",
-      "NOV_651_ToterNovize"
+      "NOV_611_Novize",
+      "NOV_651_ToterNovize",
+      "NOV_653_ToterNovize",
+      "NOV_615_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6224,11 +6224,11 @@
     "text": "Wkrótce rozpoczną się próby.",
     "source_file": "B_AssignAmbientInfos_NOV_3.d",
     "npcs": [
-      "NOV_653_ToterNovize",
-      "NOV_611_Novize",
-      "NOV_615_Novize",
       "NOV_606_Novize",
-      "NOV_651_ToterNovize"
+      "NOV_611_Novize",
+      "NOV_651_ToterNovize",
+      "NOV_653_ToterNovize",
+      "NOV_615_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6243,11 +6243,11 @@
     "text": "Beliar zdołał przeniknąć do naszego klasztoru! Jego potęga rośnie, skoro nawet tutaj ma już swoich sojuszników...",
     "source_file": "B_AssignAmbientInfos_NOV_3.d",
     "npcs": [
-      "NOV_653_ToterNovize",
-      "NOV_611_Novize",
-      "NOV_615_Novize",
       "NOV_606_Novize",
-      "NOV_651_ToterNovize"
+      "NOV_611_Novize",
+      "NOV_651_ToterNovize",
+      "NOV_653_ToterNovize",
+      "NOV_615_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6262,11 +6262,11 @@
     "text": "Pedro służył w zakonie przez lata. Obawiam się jednak, że spędził poza tymi murami zbyt wiele czasu, to zaś osłabiło jego wiarę i uczyniło podatnym na wpływy Beliara.",
     "source_file": "B_AssignAmbientInfos_NOV_3.d",
     "npcs": [
-      "NOV_653_ToterNovize",
-      "NOV_611_Novize",
-      "NOV_615_Novize",
       "NOV_606_Novize",
-      "NOV_651_ToterNovize"
+      "NOV_611_Novize",
+      "NOV_651_ToterNovize",
+      "NOV_653_ToterNovize",
+      "NOV_615_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6281,11 +6281,11 @@
     "text": "Przybywasz we właściwym czasie. Chyba sam Innos cię tu przysłał.",
     "source_file": "B_AssignAmbientInfos_NOV_3.d",
     "npcs": [
-      "NOV_653_ToterNovize",
-      "NOV_611_Novize",
-      "NOV_615_Novize",
       "NOV_606_Novize",
-      "NOV_651_ToterNovize"
+      "NOV_611_Novize",
+      "NOV_651_ToterNovize",
+      "NOV_653_ToterNovize",
+      "NOV_615_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6300,11 +6300,11 @@
     "text": "Tajemnice zakonu poznasz już jako obrońca Oka.",
     "source_file": "B_AssignAmbientInfos_NOV_3.d",
     "npcs": [
-      "NOV_653_ToterNovize",
-      "NOV_611_Novize",
-      "NOV_615_Novize",
       "NOV_606_Novize",
-      "NOV_651_ToterNovize"
+      "NOV_611_Novize",
+      "NOV_651_ToterNovize",
+      "NOV_653_ToterNovize",
+      "NOV_615_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6319,11 +6319,11 @@
     "text": "Z Górniczej Doliny docierają do nas niepokojące wieści. Innos wystawia nas na ciężką próbę.",
     "source_file": "B_AssignAmbientInfos_NOV_3.d",
     "npcs": [
-      "NOV_653_ToterNovize",
-      "NOV_611_Novize",
-      "NOV_615_Novize",
       "NOV_606_Novize",
-      "NOV_651_ToterNovize"
+      "NOV_611_Novize",
+      "NOV_651_ToterNovize",
+      "NOV_653_ToterNovize",
+      "NOV_615_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6338,11 +6338,11 @@
     "text": "Paladyni, którzy wyruszyli w kierunku Górniczej Doliny, nie dają znaku życia. Jedynie Najwyższa Rada wie, co należy robić.",
     "source_file": "B_AssignAmbientInfos_NOV_3.d",
     "npcs": [
-      "NOV_653_ToterNovize",
-      "NOV_611_Novize",
-      "NOV_615_Novize",
       "NOV_606_Novize",
-      "NOV_651_ToterNovize"
+      "NOV_611_Novize",
+      "NOV_651_ToterNovize",
+      "NOV_653_ToterNovize",
+      "NOV_615_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6357,11 +6357,11 @@
     "text": "Zniszczymy smoki z pomocą naszego Pana! Jedynie gniew Innosa jest w stanie przeciwstawić się bestiom Beliara.",
     "source_file": "B_AssignAmbientInfos_NOV_3.d",
     "npcs": [
-      "NOV_653_ToterNovize",
-      "NOV_611_Novize",
-      "NOV_615_Novize",
       "NOV_606_Novize",
-      "NOV_651_ToterNovize"
+      "NOV_611_Novize",
+      "NOV_651_ToterNovize",
+      "NOV_653_ToterNovize",
+      "NOV_615_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6376,11 +6376,11 @@
     "text": "Chwała Innosowi, że nie dopuścił do następnego konfliktu. Jedynie powrót na ścieżkę naszego Pana da nam siłę do przeciwstawienia się Złu.",
     "source_file": "B_AssignAmbientInfos_NOV_3.d",
     "npcs": [
-      "NOV_653_ToterNovize",
-      "NOV_611_Novize",
-      "NOV_615_Novize",
       "NOV_606_Novize",
-      "NOV_651_ToterNovize"
+      "NOV_611_Novize",
+      "NOV_651_ToterNovize",
+      "NOV_653_ToterNovize",
+      "NOV_615_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6410,9 +6410,9 @@
     "text": "Nieźle, ledwoś przyszedł, a oni już zapędzili cię do sprzątania?",
     "source_file": "B_AssignAmbientInfos_NOV_8.d",
     "npcs": [
-      "NOV_609_Novize",
       "NOV_610_Novize",
-      "NOV_607_Novize"
+      "NOV_607_Novize",
+      "NOV_609_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6427,9 +6427,9 @@
     "text": "Nie martw się, ze mną było dokładnie tak samo. Dlatego właśnie ci pomogę. Głupio by wyglądało, gdybyśmy sobie nie poradzili.",
     "source_file": "B_AssignAmbientInfos_NOV_8.d",
     "npcs": [
-      "NOV_609_Novize",
       "NOV_610_Novize",
-      "NOV_607_Novize"
+      "NOV_607_Novize",
+      "NOV_609_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6444,9 +6444,9 @@
     "text": "Bracie, wiem dokładnie, o czym mówisz. Powiedziałem ci już, że pomogę. Przecież robię to cały czas.",
     "source_file": "B_AssignAmbientInfos_NOV_8.d",
     "npcs": [
-      "NOV_609_Novize",
       "NOV_610_Novize",
-      "NOV_607_Novize"
+      "NOV_607_Novize",
+      "NOV_609_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6461,9 +6461,9 @@
     "text": "Zrozum, zrobiłbym to, ale jestem naprawdę zajęty.",
     "source_file": "B_AssignAmbientInfos_NOV_8.d",
     "npcs": [
-      "NOV_609_Novize",
       "NOV_610_Novize",
-      "NOV_607_Novize"
+      "NOV_607_Novize",
+      "NOV_609_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6493,9 +6493,9 @@
     "text": "Nie odmówię. Dzięki, tego właśnie było mi potrzeba.",
     "source_file": "B_AssignAmbientInfos_NOV_8.d",
     "npcs": [
-      "NOV_609_Novize",
       "NOV_610_Novize",
-      "NOV_607_Novize"
+      "NOV_607_Novize",
+      "NOV_609_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6525,9 +6525,9 @@
     "text": "Zostaniesz Wybrańcem Innosa jedynie wtedy, gdy taką wolę wyrażą Najwyżsi Magowie Ognia.",
     "source_file": "B_AssignAmbientInfos_NOV_8.d",
     "npcs": [
-      "NOV_609_Novize",
       "NOV_610_Novize",
-      "NOV_607_Novize"
+      "NOV_607_Novize",
+      "NOV_609_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6542,9 +6542,9 @@
     "text": "Jako nowicjuszom nie wolno nam studiować magii runicznej, zaś stare manuskrypty możemy przeglądać jedynie za zgodą magów.",
     "source_file": "B_AssignAmbientInfos_NOV_8.d",
     "npcs": [
-      "NOV_609_Novize",
       "NOV_610_Novize",
-      "NOV_607_Novize"
+      "NOV_607_Novize",
+      "NOV_609_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6574,9 +6574,9 @@
     "text": "Najwyższa Rada. W jej skład wchodzą trzej najpotężniejsi magowie naszego zgromadzenia. To oni nadzorują działania klasztoru.",
     "source_file": "B_AssignAmbientInfos_NOV_8.d",
     "npcs": [
-      "NOV_609_Novize",
       "NOV_610_Novize",
-      "NOV_607_Novize"
+      "NOV_607_Novize",
+      "NOV_609_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6591,9 +6591,9 @@
     "text": "Wszyscy Wybrańcy Innosa są magami. Innos tchnął w każdego z nich cząstkę siebie, dzięki czemu mogą stanowić jego wolę tu, w świecie śmiertelników.",
     "source_file": "B_AssignAmbientInfos_NOV_8.d",
     "npcs": [
-      "NOV_609_Novize",
       "NOV_610_Novize",
-      "NOV_607_Novize"
+      "NOV_607_Novize",
+      "NOV_609_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6623,9 +6623,9 @@
     "text": "To starożytna budowla. Pochodzi jeszcze z czasów przed Rhobarem Pierwszym.",
     "source_file": "B_AssignAmbientInfos_NOV_8.d",
     "npcs": [
-      "NOV_609_Novize",
       "NOV_610_Novize",
-      "NOV_607_Novize"
+      "NOV_607_Novize",
+      "NOV_609_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6640,9 +6640,9 @@
     "text": "Pod klasztorem znajdują się katakumby, rozciągające się do wnętrza góry.",
     "source_file": "B_AssignAmbientInfos_NOV_8.d",
     "npcs": [
-      "NOV_609_Novize",
       "NOV_610_Novize",
-      "NOV_607_Novize"
+      "NOV_607_Novize",
+      "NOV_609_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6672,9 +6672,9 @@
     "text": "Można by tak powiedzieć. Od ponad stu lat żaden nowicjusz nie został tak szybko przyjęty do Kręgu Ognia.",
     "source_file": "B_AssignAmbientInfos_NOV_8.d",
     "npcs": [
-      "NOV_609_Novize",
       "NOV_610_Novize",
-      "NOV_607_Novize"
+      "NOV_607_Novize",
+      "NOV_609_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6689,9 +6689,9 @@
     "text": "Mam nadzieję, że i mnie, pewnego dnia, spotka ten zaszczyt.",
     "source_file": "B_AssignAmbientInfos_NOV_8.d",
     "npcs": [
-      "NOV_609_Novize",
       "NOV_610_Novize",
-      "NOV_607_Novize"
+      "NOV_607_Novize",
+      "NOV_609_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6706,9 +6706,9 @@
     "text": "Do Khorinis przybyła niedawno grupa paladynów. Jeden jest tu, w klasztorze... Modli się.",
     "source_file": "B_AssignAmbientInfos_NOV_8.d",
     "npcs": [
-      "NOV_609_Novize",
       "NOV_610_Novize",
-      "NOV_607_Novize"
+      "NOV_607_Novize",
+      "NOV_609_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6723,9 +6723,9 @@
     "text": "Wciąż nie mogę uwierzyć, że jeden z nas zdradził klasztor i zabrał Oko Innosa.",
     "source_file": "B_AssignAmbientInfos_NOV_8.d",
     "npcs": [
-      "NOV_609_Novize",
       "NOV_610_Novize",
-      "NOV_607_Novize"
+      "NOV_607_Novize",
+      "NOV_609_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6740,9 +6740,9 @@
     "text": "Mieliśmy stworzyć społeczność, byliśmy jednak zbyt słabi. Dlatego właśnie Beliarowi udało się przeciągnąć jednego z nas na ścieżkę Zła.",
     "source_file": "B_AssignAmbientInfos_NOV_8.d",
     "npcs": [
-      "NOV_609_Novize",
       "NOV_610_Novize",
-      "NOV_607_Novize"
+      "NOV_607_Novize",
+      "NOV_609_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6757,9 +6757,9 @@
     "text": "Jedynie nieskalana wiara w Innosa pozwoli nam odzyskać Oko z rąk wroga.",
     "source_file": "B_AssignAmbientInfos_NOV_8.d",
     "npcs": [
-      "NOV_609_Novize",
       "NOV_610_Novize",
-      "NOV_607_Novize"
+      "NOV_607_Novize",
+      "NOV_609_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6774,9 +6774,9 @@
     "text": "Twoja odwaga jest natchnieniem dla tych, którzy zatracili się w rozpaczy, dzięki tobie może uda im się przetrwać te mroczne chwile.",
     "source_file": "B_AssignAmbientInfos_NOV_8.d",
     "npcs": [
-      "NOV_609_Novize",
       "NOV_610_Novize",
-      "NOV_607_Novize"
+      "NOV_607_Novize",
+      "NOV_609_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6791,9 +6791,9 @@
     "text": "Słyszałem coś także o smokach i armii Zła. Niech Innos ma nas w swojej opiece.",
     "source_file": "B_AssignAmbientInfos_NOV_8.d",
     "npcs": [
-      "NOV_609_Novize",
       "NOV_610_Novize",
-      "NOV_607_Novize"
+      "NOV_607_Novize",
+      "NOV_609_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6808,9 +6808,9 @@
     "text": "Sytuacja, w jakiej znaleźli się paladyni, bardzo zmartwiła Radę. Od wielu już dni nie mamy żadnych informacji z Górniczej Doliny.",
     "source_file": "B_AssignAmbientInfos_NOV_8.d",
     "npcs": [
-      "NOV_609_Novize",
       "NOV_610_Novize",
-      "NOV_607_Novize"
+      "NOV_607_Novize",
+      "NOV_609_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6825,9 +6825,9 @@
     "text": "Dziękuję za to naszemu Panu. Dzięki Oku Innosa będziemy mogli pokonać smoki!",
     "source_file": "B_AssignAmbientInfos_NOV_8.d",
     "npcs": [
-      "NOV_609_Novize",
       "NOV_610_Novize",
-      "NOV_607_Novize"
+      "NOV_607_Novize",
+      "NOV_609_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6842,9 +6842,9 @@
     "text": "Tak. Pokonaliśmy smoki. Innos po raz kolejny pokazał nam, że nie wolno tracić nadziei.",
     "source_file": "B_AssignAmbientInfos_NOV_8.d",
     "npcs": [
-      "NOV_609_Novize",
       "NOV_610_Novize",
-      "NOV_607_Novize"
+      "NOV_607_Novize",
+      "NOV_609_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6859,9 +6859,9 @@
     "text": "Wciąż jednak świat osnuwają cienie, a naszym celem jest nieść światło wszędzie tam, gdzie są potrzebujący.",
     "source_file": "B_AssignAmbientInfos_NOV_8.d",
     "npcs": [
-      "NOV_609_Novize",
       "NOV_610_Novize",
-      "NOV_607_Novize"
+      "NOV_607_Novize",
+      "NOV_609_Novize"
     ],
     "G": "1",
     "source": "self",
@@ -6876,12 +6876,12 @@
     "text": "Od kiedy padła Bariera otaczająca kolonię karną, mamy wielki problem z bandytami.",
     "source_file": "B_AssignAmbientInfos_OUT_1.d",
     "npcs": [
-      "BAU_974_Bauer",
+      "BAU_965_Bauer",
+      "BAU_955_Bauer",
       "BAU_937_Bauer",
       "BAU_967_Bauer",
-      "BAU_955_Bauer",
-      "STRF_1104_Straefling",
-      "BAU_965_Bauer"
+      "BAU_974_Bauer",
+      "STRF_1104_Straefling"
     ],
     "G": "1",
     "source": "self",
@@ -6896,12 +6896,12 @@
     "text": "Na straży nie można polegać. Sami musimy się bronić.",
     "source_file": "B_AssignAmbientInfos_OUT_1.d",
     "npcs": [
-      "BAU_974_Bauer",
+      "BAU_965_Bauer",
+      "BAU_955_Bauer",
       "BAU_937_Bauer",
       "BAU_967_Bauer",
-      "BAU_955_Bauer",
-      "STRF_1104_Straefling",
-      "BAU_965_Bauer"
+      "BAU_974_Bauer",
+      "STRF_1104_Straefling"
     ],
     "G": "1",
     "source": "self",
@@ -6916,12 +6916,12 @@
     "text": "Nie pozwolę się nikomu wykorzystywać - ani Królowi, ani temu tłustemu Onarowi. Sam potrafię o siebie zadbać.",
     "source_file": "B_AssignAmbientInfos_OUT_1.d",
     "npcs": [
-      "BAU_974_Bauer",
+      "BAU_965_Bauer",
+      "BAU_955_Bauer",
       "BAU_937_Bauer",
       "BAU_967_Bauer",
-      "BAU_955_Bauer",
-      "STRF_1104_Straefling",
-      "BAU_965_Bauer"
+      "BAU_974_Bauer",
+      "STRF_1104_Straefling"
     ],
     "G": "1",
     "source": "self",
@@ -6936,13 +6936,13 @@
     "text": "Ostatnio okolica stała się o wiele bardziej niebezpieczna. Polne bestie to prawdziwa plaga.",
     "source_file": "B_AssignAmbientInfos_OUT_7.d",
     "npcs": [
-      "BAU_938_Bauer",
-      "BAU_962_Bauer",
       "BAU_943_Bauer",
-      "BAU_969_Bauer",
       "BAU_972_Bauer",
+      "BAU_953_Bauer",
+      "BAU_969_Bauer",
       "BAU_966_Bauer",
-      "BAU_953_Bauer"
+      "BAU_938_Bauer",
+      "BAU_962_Bauer"
     ],
     "G": "1",
     "source": "self",
@@ -6957,13 +6957,13 @@
     "text": "Do tego musimy jeszcze płacić kontrybucję na rzecz miasta. Jeśli tego zaprzestaniemy, ściągniemy sobie na głowę paladynów.",
     "source_file": "B_AssignAmbientInfos_OUT_7.d",
     "npcs": [
-      "BAU_938_Bauer",
-      "BAU_962_Bauer",
       "BAU_943_Bauer",
-      "BAU_969_Bauer",
       "BAU_972_Bauer",
+      "BAU_953_Bauer",
+      "BAU_969_Bauer",
       "BAU_966_Bauer",
-      "BAU_953_Bauer"
+      "BAU_938_Bauer",
+      "BAU_962_Bauer"
     ],
     "G": "1",
     "source": "self",
@@ -6978,13 +6978,13 @@
     "text": "Bunt Onara pociągnie za sobą poważne konsekwencje. Wolę trzymać się od tego z daleka.",
     "source_file": "B_AssignAmbientInfos_OUT_7.d",
     "npcs": [
-      "BAU_938_Bauer",
-      "BAU_962_Bauer",
       "BAU_943_Bauer",
-      "BAU_969_Bauer",
       "BAU_972_Bauer",
+      "BAU_953_Bauer",
+      "BAU_969_Bauer",
       "BAU_966_Bauer",
-      "BAU_953_Bauer"
+      "BAU_938_Bauer",
+      "BAU_962_Bauer"
     ],
     "G": "1",
     "source": "self",
@@ -7065,14 +7065,14 @@
     "text": "Kapitan Garond. Odkąd jednak walki uległy zaostrzeniu, nie rusza się z sali tronowej na krok. Obawiam się, że cała sprawa źle się skończy.",
     "source_file": "B_AssignAmbientInfos_OCVLK_1.d",
     "npcs": [
-      "VLK_4142_Waffenknecht",
-      "VLK_4102_Waffenknecht",
-      "VLK_4140_Waffenknecht",
-      "VLK_4105_Waffenknecht",
-      "VLK_4150_Leiche",
-      "VLK_4145_Waffenknecht",
+      "VLK_4101_Waffenknecht",
       "VLK_4151_Leiche",
-      "VLK_4101_Waffenknecht"
+      "VLK_4140_Waffenknecht",
+      "VLK_4145_Waffenknecht",
+      "VLK_4142_Waffenknecht",
+      "VLK_4150_Leiche",
+      "VLK_4105_Waffenknecht",
+      "VLK_4102_Waffenknecht"
     ],
     "G": "1",
     "source": "self",
@@ -7102,14 +7102,14 @@
     "text": "Wydaje mi się, że kilku naszych chłopaków wciąż pracuje w kopalniach.",
     "source_file": "B_AssignAmbientInfos_OCVLK_1.d",
     "npcs": [
-      "VLK_4142_Waffenknecht",
-      "VLK_4102_Waffenknecht",
-      "VLK_4140_Waffenknecht",
-      "VLK_4105_Waffenknecht",
-      "VLK_4150_Leiche",
-      "VLK_4145_Waffenknecht",
+      "VLK_4101_Waffenknecht",
       "VLK_4151_Leiche",
-      "VLK_4101_Waffenknecht"
+      "VLK_4140_Waffenknecht",
+      "VLK_4145_Waffenknecht",
+      "VLK_4142_Waffenknecht",
+      "VLK_4150_Leiche",
+      "VLK_4105_Waffenknecht",
+      "VLK_4102_Waffenknecht"
     ],
     "G": "1",
     "source": "self",
@@ -7124,14 +7124,14 @@
     "text": "Jednak nie zdecydowałbym się na handel z nimi. Cała dolina zajęta jest przez orków. Nie wspomnę już o smokach.",
     "source_file": "B_AssignAmbientInfos_OCVLK_1.d",
     "npcs": [
-      "VLK_4142_Waffenknecht",
-      "VLK_4102_Waffenknecht",
-      "VLK_4140_Waffenknecht",
-      "VLK_4105_Waffenknecht",
-      "VLK_4150_Leiche",
-      "VLK_4145_Waffenknecht",
+      "VLK_4101_Waffenknecht",
       "VLK_4151_Leiche",
-      "VLK_4101_Waffenknecht"
+      "VLK_4140_Waffenknecht",
+      "VLK_4145_Waffenknecht",
+      "VLK_4142_Waffenknecht",
+      "VLK_4150_Leiche",
+      "VLK_4105_Waffenknecht",
+      "VLK_4102_Waffenknecht"
     ],
     "G": "1",
     "source": "self",
@@ -7161,14 +7161,14 @@
     "text": "Orkowie zapędzili nas w kozi róg! Bez posiłków długo nie wytrzymamy, wszyscy zginą! Zresztą dziwi mnie fakt, że smoki nas nie wykończyły.",
     "source_file": "B_AssignAmbientInfos_OCVLK_1.d",
     "npcs": [
-      "VLK_4142_Waffenknecht",
-      "VLK_4102_Waffenknecht",
-      "VLK_4140_Waffenknecht",
-      "VLK_4105_Waffenknecht",
-      "VLK_4150_Leiche",
-      "VLK_4145_Waffenknecht",
+      "VLK_4101_Waffenknecht",
       "VLK_4151_Leiche",
-      "VLK_4101_Waffenknecht"
+      "VLK_4140_Waffenknecht",
+      "VLK_4145_Waffenknecht",
+      "VLK_4142_Waffenknecht",
+      "VLK_4150_Leiche",
+      "VLK_4105_Waffenknecht",
+      "VLK_4102_Waffenknecht"
     ],
     "G": "1",
     "source": "self",
@@ -7183,14 +7183,14 @@
     "text": "Przynajmniej posiłki dotarły na czas.",
     "source_file": "B_AssignAmbientInfos_OCVLK_1.d",
     "npcs": [
-      "VLK_4142_Waffenknecht",
-      "VLK_4102_Waffenknecht",
-      "VLK_4140_Waffenknecht",
-      "VLK_4105_Waffenknecht",
-      "VLK_4150_Leiche",
-      "VLK_4145_Waffenknecht",
+      "VLK_4101_Waffenknecht",
       "VLK_4151_Leiche",
-      "VLK_4101_Waffenknecht"
+      "VLK_4140_Waffenknecht",
+      "VLK_4145_Waffenknecht",
+      "VLK_4142_Waffenknecht",
+      "VLK_4150_Leiche",
+      "VLK_4105_Waffenknecht",
+      "VLK_4102_Waffenknecht"
     ],
     "G": "1",
     "source": "self",
@@ -7205,14 +7205,14 @@
     "text": "Słyszałem, że smoki zostały zabite? Innosowi niech będą dzięki!",
     "source_file": "B_AssignAmbientInfos_OCVLK_1.d",
     "npcs": [
-      "VLK_4142_Waffenknecht",
-      "VLK_4102_Waffenknecht",
-      "VLK_4140_Waffenknecht",
-      "VLK_4105_Waffenknecht",
-      "VLK_4150_Leiche",
-      "VLK_4145_Waffenknecht",
+      "VLK_4101_Waffenknecht",
       "VLK_4151_Leiche",
-      "VLK_4101_Waffenknecht"
+      "VLK_4140_Waffenknecht",
+      "VLK_4145_Waffenknecht",
+      "VLK_4142_Waffenknecht",
+      "VLK_4150_Leiche",
+      "VLK_4105_Waffenknecht",
+      "VLK_4102_Waffenknecht"
     ],
     "G": "1",
     "source": "self",
@@ -7227,14 +7227,14 @@
     "text": "Przeklęta ruda. Powinniśmy zrzucić cały jej zapas z barykad. Może wtedy orkowie zostawiliby nas w spokoju.",
     "source_file": "B_AssignAmbientInfos_OCVLK_1.d",
     "npcs": [
-      "VLK_4142_Waffenknecht",
-      "VLK_4102_Waffenknecht",
-      "VLK_4140_Waffenknecht",
-      "VLK_4105_Waffenknecht",
-      "VLK_4150_Leiche",
-      "VLK_4145_Waffenknecht",
+      "VLK_4101_Waffenknecht",
       "VLK_4151_Leiche",
-      "VLK_4101_Waffenknecht"
+      "VLK_4140_Waffenknecht",
+      "VLK_4145_Waffenknecht",
+      "VLK_4142_Waffenknecht",
+      "VLK_4150_Leiche",
+      "VLK_4105_Waffenknecht",
+      "VLK_4102_Waffenknecht"
     ],
     "G": "1",
     "source": "self",
@@ -7249,14 +7249,14 @@
     "text": "Ta sterta skrzyń porozrzucana bezładnie przed bramą na pewno nie zatrzyma orków!",
     "source_file": "B_AssignAmbientInfos_OCVLK_1.d",
     "npcs": [
-      "VLK_4142_Waffenknecht",
-      "VLK_4102_Waffenknecht",
-      "VLK_4140_Waffenknecht",
-      "VLK_4105_Waffenknecht",
-      "VLK_4150_Leiche",
-      "VLK_4145_Waffenknecht",
+      "VLK_4101_Waffenknecht",
       "VLK_4151_Leiche",
-      "VLK_4101_Waffenknecht"
+      "VLK_4140_Waffenknecht",
+      "VLK_4145_Waffenknecht",
+      "VLK_4142_Waffenknecht",
+      "VLK_4150_Leiche",
+      "VLK_4105_Waffenknecht",
+      "VLK_4102_Waffenknecht"
     ],
     "G": "1",
     "source": "self",
@@ -7286,13 +7286,13 @@
     "text": "Fortem, a właściwie tym, co z niego zostało, zarządza Garond.",
     "source_file": "B_AssignAmbientInfos_OCVLK_6.d",
     "npcs": [
-      "VLK_4147_Waffenknecht",
-      "VLK_4103_Waffenknecht",
-      "VLK_4104_Waffenknecht",
       "VLK_4146_Waffenknecht",
       "VLK_4109_Waffenknecht",
+      "VLK_4104_Waffenknecht",
       "VLK_4141_Waffenknecht",
-      "VLK_4144_Waffenknecht"
+      "VLK_4144_Waffenknecht",
+      "VLK_4147_Waffenknecht",
+      "VLK_4103_Waffenknecht"
     ],
     "G": "1",
     "source": "self",
@@ -7307,13 +7307,13 @@
     "text": "Jednak niczym nie zajmuje się osobiście - chyba że któryś z jego ludzi wpadnie w jakiś tarapaty.",
     "source_file": "B_AssignAmbientInfos_OCVLK_6.d",
     "npcs": [
-      "VLK_4147_Waffenknecht",
-      "VLK_4103_Waffenknecht",
-      "VLK_4104_Waffenknecht",
       "VLK_4146_Waffenknecht",
       "VLK_4109_Waffenknecht",
+      "VLK_4104_Waffenknecht",
       "VLK_4141_Waffenknecht",
-      "VLK_4144_Waffenknecht"
+      "VLK_4144_Waffenknecht",
+      "VLK_4147_Waffenknecht",
+      "VLK_4103_Waffenknecht"
     ],
     "G": "1",
     "source": "self",
@@ -7328,13 +7328,13 @@
     "text": "Jeśli szukasz wyposażenia, porozmawiaj lepiej z Engorem. Znajdziesz go w budynku naprzeciw siedziby Garonda.",
     "source_file": "B_AssignAmbientInfos_OCVLK_6.d",
     "npcs": [
-      "VLK_4147_Waffenknecht",
-      "VLK_4103_Waffenknecht",
-      "VLK_4104_Waffenknecht",
       "VLK_4146_Waffenknecht",
       "VLK_4109_Waffenknecht",
+      "VLK_4104_Waffenknecht",
       "VLK_4141_Waffenknecht",
-      "VLK_4144_Waffenknecht"
+      "VLK_4144_Waffenknecht",
+      "VLK_4147_Waffenknecht",
+      "VLK_4103_Waffenknecht"
     ],
     "G": "1",
     "source": "self",
@@ -7364,13 +7364,13 @@
     "text": "Martwię się orkową palisadą. Nie wiem nawet, co się za nią kryje.",
     "source_file": "B_AssignAmbientInfos_OCVLK_6.d",
     "npcs": [
-      "VLK_4147_Waffenknecht",
-      "VLK_4103_Waffenknecht",
-      "VLK_4104_Waffenknecht",
       "VLK_4146_Waffenknecht",
       "VLK_4109_Waffenknecht",
+      "VLK_4104_Waffenknecht",
       "VLK_4141_Waffenknecht",
-      "VLK_4144_Waffenknecht"
+      "VLK_4144_Waffenknecht",
+      "VLK_4147_Waffenknecht",
+      "VLK_4103_Waffenknecht"
     ],
     "G": "1",
     "source": "self",
@@ -7385,13 +7385,13 @@
     "text": "Na początku kilku z nich wybudowało mur. Potem, pewnej nocy, sprowadzili machiny oblężnicze.",
     "source_file": "B_AssignAmbientInfos_OCVLK_6.d",
     "npcs": [
-      "VLK_4147_Waffenknecht",
-      "VLK_4103_Waffenknecht",
-      "VLK_4104_Waffenknecht",
       "VLK_4146_Waffenknecht",
       "VLK_4109_Waffenknecht",
+      "VLK_4104_Waffenknecht",
       "VLK_4141_Waffenknecht",
-      "VLK_4144_Waffenknecht"
+      "VLK_4144_Waffenknecht",
+      "VLK_4147_Waffenknecht",
+      "VLK_4103_Waffenknecht"
     ],
     "G": "1",
     "source": "self",
@@ -7406,13 +7406,13 @@
     "text": "Mamy szczęście, że udało się nam odeprzeć atak.",
     "source_file": "B_AssignAmbientInfos_OCVLK_6.d",
     "npcs": [
-      "VLK_4147_Waffenknecht",
-      "VLK_4103_Waffenknecht",
-      "VLK_4104_Waffenknecht",
       "VLK_4146_Waffenknecht",
       "VLK_4109_Waffenknecht",
+      "VLK_4104_Waffenknecht",
       "VLK_4141_Waffenknecht",
-      "VLK_4144_Waffenknecht"
+      "VLK_4144_Waffenknecht",
+      "VLK_4147_Waffenknecht",
+      "VLK_4103_Waffenknecht"
     ],
     "G": "1",
     "source": "self",
@@ -7427,13 +7427,13 @@
     "text": "Za palisadą znajduje się przystań. Jeśli orkowie otrzymają dostawy zapasów drogą morską, będziemy zgubieni.",
     "source_file": "B_AssignAmbientInfos_OCVLK_6.d",
     "npcs": [
-      "VLK_4147_Waffenknecht",
-      "VLK_4103_Waffenknecht",
-      "VLK_4104_Waffenknecht",
       "VLK_4146_Waffenknecht",
       "VLK_4109_Waffenknecht",
+      "VLK_4104_Waffenknecht",
       "VLK_4141_Waffenknecht",
-      "VLK_4144_Waffenknecht"
+      "VLK_4144_Waffenknecht",
+      "VLK_4147_Waffenknecht",
+      "VLK_4103_Waffenknecht"
     ],
     "G": "1",
     "source": "self",
@@ -7463,13 +7463,13 @@
     "text": "Przyłącz się do armii, mówili, zasmakuj przygody, mówili. A teraz... no, sam popatrz.",
     "source_file": "B_AssignAmbientInfos_OCVLK_6.d",
     "npcs": [
-      "VLK_4147_Waffenknecht",
-      "VLK_4103_Waffenknecht",
-      "VLK_4104_Waffenknecht",
       "VLK_4146_Waffenknecht",
       "VLK_4109_Waffenknecht",
+      "VLK_4104_Waffenknecht",
       "VLK_4141_Waffenknecht",
-      "VLK_4144_Waffenknecht"
+      "VLK_4144_Waffenknecht",
+      "VLK_4147_Waffenknecht",
+      "VLK_4103_Waffenknecht"
     ],
     "G": "1",
     "source": "self",
@@ -7484,13 +7484,13 @@
     "text": "W tej chwili nawet za zbliżenie się do zapasów jedzenia grozi kara śmierci. Garond chyba się obawia, że ukradniemy co się da i damy drapaka.",
     "source_file": "B_AssignAmbientInfos_OCVLK_6.d",
     "npcs": [
-      "VLK_4147_Waffenknecht",
-      "VLK_4103_Waffenknecht",
-      "VLK_4104_Waffenknecht",
       "VLK_4146_Waffenknecht",
       "VLK_4109_Waffenknecht",
+      "VLK_4104_Waffenknecht",
       "VLK_4141_Waffenknecht",
-      "VLK_4144_Waffenknecht"
+      "VLK_4144_Waffenknecht",
+      "VLK_4147_Waffenknecht",
+      "VLK_4103_Waffenknecht"
     ],
     "G": "1",
     "source": "self",
@@ -7505,13 +7505,13 @@
     "text": "Jeśli te przeklęte smoki nas nie pozabijają, to pewnie wszyscy zdechniemy tu z głodu.",
     "source_file": "B_AssignAmbientInfos_OCVLK_6.d",
     "npcs": [
-      "VLK_4147_Waffenknecht",
-      "VLK_4103_Waffenknecht",
-      "VLK_4104_Waffenknecht",
       "VLK_4146_Waffenknecht",
       "VLK_4109_Waffenknecht",
+      "VLK_4104_Waffenknecht",
       "VLK_4141_Waffenknecht",
-      "VLK_4144_Waffenknecht"
+      "VLK_4144_Waffenknecht",
+      "VLK_4147_Waffenknecht",
+      "VLK_4103_Waffenknecht"
     ],
     "G": "1",
     "source": "self",
@@ -7526,13 +7526,13 @@
     "text": "Łowcy smoków! Nie rozśmieszaj mnie! Ci ludzie niczego tu nie zmienią.",
     "source_file": "B_AssignAmbientInfos_OCVLK_6.d",
     "npcs": [
-      "VLK_4147_Waffenknecht",
-      "VLK_4103_Waffenknecht",
-      "VLK_4104_Waffenknecht",
       "VLK_4146_Waffenknecht",
       "VLK_4109_Waffenknecht",
+      "VLK_4104_Waffenknecht",
       "VLK_4141_Waffenknecht",
-      "VLK_4144_Waffenknecht"
+      "VLK_4144_Waffenknecht",
+      "VLK_4147_Waffenknecht",
+      "VLK_4103_Waffenknecht"
     ],
     "G": "1",
     "source": "self",
@@ -7547,13 +7547,13 @@
     "text": "Podobno smoki zostały zgładzone. Może jednak jest dla nas jakaś nadzieja!",
     "source_file": "B_AssignAmbientInfos_OCVLK_6.d",
     "npcs": [
-      "VLK_4147_Waffenknecht",
-      "VLK_4103_Waffenknecht",
-      "VLK_4104_Waffenknecht",
       "VLK_4146_Waffenknecht",
       "VLK_4109_Waffenknecht",
+      "VLK_4104_Waffenknecht",
       "VLK_4141_Waffenknecht",
-      "VLK_4144_Waffenknecht"
+      "VLK_4144_Waffenknecht",
+      "VLK_4147_Waffenknecht",
+      "VLK_4103_Waffenknecht"
     ],
     "G": "1",
     "source": "self",
@@ -7568,13 +7568,13 @@
     "text": "Przeklęta ruda. Powinniśmy zrzucić cały jej zapas z barykad. Może wtedy orkowie zostawiliby nas w spokoju.",
     "source_file": "B_AssignAmbientInfos_OCVLK_6.d",
     "npcs": [
-      "VLK_4147_Waffenknecht",
-      "VLK_4103_Waffenknecht",
-      "VLK_4104_Waffenknecht",
       "VLK_4146_Waffenknecht",
       "VLK_4109_Waffenknecht",
+      "VLK_4104_Waffenknecht",
       "VLK_4141_Waffenknecht",
-      "VLK_4144_Waffenknecht"
+      "VLK_4144_Waffenknecht",
+      "VLK_4147_Waffenknecht",
+      "VLK_4103_Waffenknecht"
     ],
     "G": "1",
     "source": "self",
@@ -7589,13 +7589,13 @@
     "text": "Te żałosne skrzynie porozrzucane bezładnie przed bramą nie zatrzymają orkowych ataków!",
     "source_file": "B_AssignAmbientInfos_OCVLK_6.d",
     "npcs": [
-      "VLK_4147_Waffenknecht",
-      "VLK_4103_Waffenknecht",
-      "VLK_4104_Waffenknecht",
       "VLK_4146_Waffenknecht",
       "VLK_4109_Waffenknecht",
+      "VLK_4104_Waffenknecht",
       "VLK_4141_Waffenknecht",
-      "VLK_4144_Waffenknecht"
+      "VLK_4144_Waffenknecht",
+      "VLK_4147_Waffenknecht",
+      "VLK_4103_Waffenknecht"
     ],
     "G": "1",
     "source": "self",
@@ -7625,12 +7625,12 @@
     "text": "Kapitan Garond. Znajdziesz go w największym budynku kompleksu zamkowego.",
     "source_file": "B_AssignAmbientInfos_OCPAL_4.d",
     "npcs": [
-      "PAL_259_Wache",
       "PAL_265_Ritter",
-      "PAL_254_Wache",
       "PAL_256_Ritter",
+      "PAL_273_Ritter",
       "PAL_271_Ritter",
-      "PAL_273_Ritter"
+      "PAL_259_Wache",
+      "PAL_254_Wache"
     ],
     "G": "1",
     "source": "self",
@@ -7660,12 +7660,12 @@
     "text": "Z tego, co mi wiadomo, znajduje się tam kilka kopalni. O ile nie zostały splądrowane przez orków.",
     "source_file": "B_AssignAmbientInfos_OCPAL_4.d",
     "npcs": [
-      "PAL_259_Wache",
       "PAL_265_Ritter",
-      "PAL_254_Wache",
       "PAL_256_Ritter",
+      "PAL_273_Ritter",
       "PAL_271_Ritter",
-      "PAL_273_Ritter"
+      "PAL_259_Wache",
+      "PAL_254_Wache"
     ],
     "G": "1",
     "source": "self",
@@ -7680,12 +7680,12 @@
     "text": "Oddziały tam przebywające składają się w głównej mierze z więźniów, jest też wśród nich kilku paladynów.",
     "source_file": "B_AssignAmbientInfos_OCPAL_4.d",
     "npcs": [
-      "PAL_259_Wache",
       "PAL_265_Ritter",
-      "PAL_254_Wache",
       "PAL_256_Ritter",
+      "PAL_273_Ritter",
       "PAL_271_Ritter",
-      "PAL_273_Ritter"
+      "PAL_259_Wache",
+      "PAL_254_Wache"
     ],
     "G": "1",
     "source": "self",
@@ -7715,12 +7715,12 @@
     "text": "Jesteśmy otoczeni przez orków! Będziemy się jednak bronić do ostatniego człowieka! Zaś Innos wspomoże nas swą potęgą w walce ze smokami!",
     "source_file": "B_AssignAmbientInfos_OCPAL_4.d",
     "npcs": [
-      "PAL_259_Wache",
       "PAL_265_Ritter",
-      "PAL_254_Wache",
       "PAL_256_Ritter",
+      "PAL_273_Ritter",
       "PAL_271_Ritter",
-      "PAL_273_Ritter"
+      "PAL_259_Wache",
+      "PAL_254_Wache"
     ],
     "G": "1",
     "source": "self",
@@ -7735,12 +7735,12 @@
     "text": "Tylko patrzeć, jak orkowie zaatakują. Gdzie są te cholerne posiłki?",
     "source_file": "B_AssignAmbientInfos_OCPAL_4.d",
     "npcs": [
-      "PAL_259_Wache",
       "PAL_265_Ritter",
-      "PAL_254_Wache",
       "PAL_256_Ritter",
+      "PAL_273_Ritter",
       "PAL_271_Ritter",
-      "PAL_273_Ritter"
+      "PAL_259_Wache",
+      "PAL_254_Wache"
     ],
     "G": "1",
     "source": "self",
@@ -7755,12 +7755,12 @@
     "text": "Nie wierzysz chyba, że łowcy smoków poradzą sobie z WSZYSTKIMI bestiami?",
     "source_file": "B_AssignAmbientInfos_OCPAL_4.d",
     "npcs": [
-      "PAL_259_Wache",
       "PAL_265_Ritter",
-      "PAL_254_Wache",
       "PAL_256_Ritter",
+      "PAL_273_Ritter",
       "PAL_271_Ritter",
-      "PAL_273_Ritter"
+      "PAL_259_Wache",
+      "PAL_254_Wache"
     ],
     "G": "1",
     "source": "self",
@@ -7775,12 +7775,12 @@
     "text": "Ci, tak zwani łowcy smoków, sami niewiele zdziałają.",
     "source_file": "B_AssignAmbientInfos_OCPAL_4.d",
     "npcs": [
-      "PAL_259_Wache",
       "PAL_265_Ritter",
-      "PAL_254_Wache",
       "PAL_256_Ritter",
+      "PAL_273_Ritter",
       "PAL_271_Ritter",
-      "PAL_273_Ritter"
+      "PAL_259_Wache",
+      "PAL_254_Wache"
     ],
     "G": "1",
     "source": "self",
@@ -7795,12 +7795,12 @@
     "text": "Innosowi niech będą dzięki! Te cholerne bestie w końcu zostały pokonane.",
     "source_file": "B_AssignAmbientInfos_OCPAL_4.d",
     "npcs": [
-      "PAL_259_Wache",
       "PAL_265_Ritter",
-      "PAL_254_Wache",
       "PAL_256_Ritter",
+      "PAL_273_Ritter",
       "PAL_271_Ritter",
-      "PAL_273_Ritter"
+      "PAL_259_Wache",
+      "PAL_254_Wache"
     ],
     "G": "1",
     "source": "self",
@@ -7815,12 +7815,12 @@
     "text": "Śmierć smoków nie zniechęciła specjalnie orków. Dlaczego, na Innosa, po prostu nie odejdą? Czuję w tym działanie złych mocy.",
     "source_file": "B_AssignAmbientInfos_OCPAL_4.d",
     "npcs": [
-      "PAL_259_Wache",
       "PAL_265_Ritter",
-      "PAL_254_Wache",
       "PAL_256_Ritter",
+      "PAL_273_Ritter",
       "PAL_271_Ritter",
-      "PAL_273_Ritter"
+      "PAL_259_Wache",
+      "PAL_254_Wache"
     ],
     "G": "1",
     "source": "self",
@@ -7835,12 +7835,12 @@
     "text": "Przeklęta brama, ktoś ją zablokował! Orkowie wlewają się do zamku, nic ich już nie powstrzyma.",
     "source_file": "B_AssignAmbientInfos_OCPAL_4.d",
     "npcs": [
-      "PAL_259_Wache",
       "PAL_265_Ritter",
-      "PAL_254_Wache",
       "PAL_256_Ritter",
+      "PAL_273_Ritter",
       "PAL_271_Ritter",
-      "PAL_273_Ritter"
+      "PAL_259_Wache",
+      "PAL_254_Wache"
     ],
     "G": "1",
     "source": "self",
@@ -7855,12 +7855,12 @@
     "text": "Ktoś musi powiadomić Lorda Hagena. Potrzebujemy go TUTAJ!",
     "source_file": "B_AssignAmbientInfos_OCPAL_4.d",
     "npcs": [
-      "PAL_259_Wache",
       "PAL_265_Ritter",
-      "PAL_254_Wache",
       "PAL_256_Ritter",
+      "PAL_273_Ritter",
       "PAL_271_Ritter",
-      "PAL_273_Ritter"
+      "PAL_259_Wache",
+      "PAL_254_Wache"
     ],
     "G": "1",
     "source": "self",
@@ -7890,13 +7890,13 @@
     "text": "Zamkiem dowodzi kapitan Garond. Choć pewnie nie można mu zazdrościć tej posady.",
     "source_file": "B_AssignAmbientInfos_OCPAL_9.d",
     "npcs": [
-      "PAL_255_Ritter",
-      "PAL_253_Wache",
-      "PAL_264_Ritter",
       "PAL_257_Ritter",
+      "PAL_272_Ritter",
+      "PAL_253_Wache",
+      "PAL_255_Ritter",
       "PAL_266_Ritter",
-      "PAL_274_Ritter",
-      "PAL_272_Ritter"
+      "PAL_264_Ritter",
+      "PAL_274_Ritter"
     ],
     "G": "1",
     "source": "self",
@@ -7926,13 +7926,13 @@
     "text": "W jej wschodniej części orkowie wybudowali potężny mur, chroniący ich zapasy. Za nim znajduje się dojście do przystani, przy której cumują swoje statki.",
     "source_file": "B_AssignAmbientInfos_OCPAL_9.d",
     "npcs": [
-      "PAL_255_Ritter",
-      "PAL_253_Wache",
-      "PAL_264_Ritter",
       "PAL_257_Ritter",
+      "PAL_272_Ritter",
+      "PAL_253_Wache",
+      "PAL_255_Ritter",
       "PAL_266_Ritter",
-      "PAL_274_Ritter",
-      "PAL_272_Ritter"
+      "PAL_264_Ritter",
+      "PAL_274_Ritter"
     ],
     "G": "1",
     "source": "self",
@@ -7947,13 +7947,13 @@
     "text": "Mam nadzieję, że zapasy nie dotrą do orków zbyt szybko. OBECNE problemy zupełnie nam wystarczają.",
     "source_file": "B_AssignAmbientInfos_OCPAL_9.d",
     "npcs": [
-      "PAL_255_Ritter",
-      "PAL_253_Wache",
-      "PAL_264_Ritter",
       "PAL_257_Ritter",
+      "PAL_272_Ritter",
+      "PAL_253_Wache",
+      "PAL_255_Ritter",
       "PAL_266_Ritter",
-      "PAL_274_Ritter",
-      "PAL_272_Ritter"
+      "PAL_264_Ritter",
+      "PAL_274_Ritter"
     ],
     "G": "1",
     "source": "self",
@@ -7983,13 +7983,13 @@
     "text": "Smoki zaatakowały ponownie! Jednak Innos ochroni nas w walce. Monstra Belaira zapłacą za to wszystko własną krwią!",
     "source_file": "B_AssignAmbientInfos_OCPAL_9.d",
     "npcs": [
-      "PAL_255_Ritter",
-      "PAL_253_Wache",
-      "PAL_264_Ritter",
       "PAL_257_Ritter",
+      "PAL_272_Ritter",
+      "PAL_253_Wache",
+      "PAL_255_Ritter",
       "PAL_266_Ritter",
-      "PAL_274_Ritter",
-      "PAL_272_Ritter"
+      "PAL_264_Ritter",
+      "PAL_274_Ritter"
     ],
     "G": "1",
     "source": "self",
@@ -8004,13 +8004,13 @@
     "text": "Łowcy smoków! Powinni byli przysłać tu paladynów!",
     "source_file": "B_AssignAmbientInfos_OCPAL_9.d",
     "npcs": [
-      "PAL_255_Ritter",
-      "PAL_253_Wache",
-      "PAL_264_Ritter",
       "PAL_257_Ritter",
+      "PAL_272_Ritter",
+      "PAL_253_Wache",
+      "PAL_255_Ritter",
       "PAL_266_Ritter",
-      "PAL_274_Ritter",
-      "PAL_272_Ritter"
+      "PAL_264_Ritter",
+      "PAL_274_Ritter"
     ],
     "G": "1",
     "source": "self",
@@ -8025,13 +8025,13 @@
     "text": "Teraz, kiedy nie ma już smoków, jedynym problemem pozostają orkowie!",
     "source_file": "B_AssignAmbientInfos_OCPAL_9.d",
     "npcs": [
-      "PAL_255_Ritter",
-      "PAL_253_Wache",
-      "PAL_264_Ritter",
       "PAL_257_Ritter",
+      "PAL_272_Ritter",
+      "PAL_253_Wache",
+      "PAL_255_Ritter",
       "PAL_266_Ritter",
-      "PAL_274_Ritter",
-      "PAL_272_Ritter"
+      "PAL_264_Ritter",
+      "PAL_274_Ritter"
     ],
     "G": "1",
     "source": "self",
@@ -8046,13 +8046,13 @@
     "text": "Musimy jak najszybciej załadować rudę na statki i uciekać z tej przeklętej krainy.",
     "source_file": "B_AssignAmbientInfos_OCPAL_9.d",
     "npcs": [
-      "PAL_255_Ritter",
-      "PAL_253_Wache",
-      "PAL_264_Ritter",
       "PAL_257_Ritter",
+      "PAL_272_Ritter",
+      "PAL_253_Wache",
+      "PAL_255_Ritter",
       "PAL_266_Ritter",
-      "PAL_274_Ritter",
-      "PAL_272_Ritter"
+      "PAL_264_Ritter",
+      "PAL_274_Ritter"
     ],
     "G": "1",
     "source": "self",
@@ -8067,13 +8067,13 @@
     "text": "Zdrada! Brama nie powinna zostać otwarta. Śmierć zdrajcom!",
     "source_file": "B_AssignAmbientInfos_OCPAL_9.d",
     "npcs": [
-      "PAL_255_Ritter",
-      "PAL_253_Wache",
-      "PAL_264_Ritter",
       "PAL_257_Ritter",
+      "PAL_272_Ritter",
+      "PAL_253_Wache",
+      "PAL_255_Ritter",
       "PAL_266_Ritter",
-      "PAL_274_Ritter",
-      "PAL_272_Ritter"
+      "PAL_264_Ritter",
+      "PAL_274_Ritter"
     ],
     "G": "1",
     "source": "self",
@@ -8088,8 +8088,8 @@
     "text": "Innos to honor, a honor jest mym życiem!",
     "source_file": "B_AssignAmbientInfos_OWPAL_4.d",
     "npcs": [
-      "Pal_219_Ritter",
-      "Pal_218_Ritter"
+      "Pal_218_Ritter",
+      "Pal_219_Ritter"
     ],
     "G": "1",
     "source": "self",
@@ -8104,8 +8104,8 @@
     "text": "Będziemy się bronić, póki chroni nas jaśniejąca łaska Innosa!",
     "source_file": "B_AssignAmbientInfos_OWPAL_4.d",
     "npcs": [
-      "Pal_219_Ritter",
-      "Pal_218_Ritter"
+      "Pal_218_Ritter",
+      "Pal_219_Ritter"
     ],
     "G": "1",
     "source": "self",
@@ -8120,8 +8120,8 @@
     "text": "Z pomocą Innosa uda się nam odpędzić pomiot zła!",
     "source_file": "B_AssignAmbientInfos_OWPAL_4.d",
     "npcs": [
-      "Pal_219_Ritter",
-      "Pal_218_Ritter"
+      "Pal_218_Ritter",
+      "Pal_219_Ritter"
     ],
     "G": "1",
     "source": "self",
@@ -8137,8 +8137,8 @@
     "source_file": "B_AssignAmbientInfos_STRF_1.d",
     "npcs": [
       "STRF_1100_Straefling",
-      "STRF_1102_Straefling",
-      "STRF_1108_Straefling"
+      "STRF_1108_Straefling",
+      "STRF_1102_Straefling"
     ],
     "G": "1",
     "source": "self",
@@ -8157,8 +8157,8 @@
     "source_file": "B_AssignAmbientInfos_STRF_1.d",
     "npcs": [
       "STRF_1100_Straefling",
-      "STRF_1102_Straefling",
-      "STRF_1108_Straefling"
+      "STRF_1108_Straefling",
+      "STRF_1102_Straefling"
     ],
     "G": "1",
     "source": "self",
@@ -8177,8 +8177,8 @@
     "source_file": "B_AssignAmbientInfos_STRF_1.d",
     "npcs": [
       "STRF_1100_Straefling",
-      "STRF_1102_Straefling",
-      "STRF_1108_Straefling"
+      "STRF_1108_Straefling",
+      "STRF_1102_Straefling"
     ],
     "G": "1",
     "source": "self",
@@ -8589,18 +8589,18 @@
     "text": "Czego ode mnie chcesz? Odejdź!",
     "source_file": "B_AssignAmbientInfos_Addon_Sklaven_3.d",
     "npcs": [
-      "STRF_1130_Addon_Sklave",
-      "STRF_1139_Addon_Sklave",
-      "STRF_1129_Addon_Sklave",
-      "STRF_1143_Addon_Sklave",
-      "STRF_1136_Addon_Sklave",
       "STRF_1144_Addon_Sklave",
-      "STRF_1141_Addon_Sklave",
-      "STRF_1138_Addon_Sklave",
-      "STRF_1137_Addon_Sklave",
       "STRF_1128_Addon_Sklave",
+      "STRF_1140_Addon_Sklave",
+      "STRF_1139_Addon_Sklave",
+      "STRF_1137_Addon_Sklave",
+      "STRF_1130_Addon_Sklave",
       "STRF_1142_Addon_Sklave",
-      "STRF_1140_Addon_Sklave"
+      "STRF_1143_Addon_Sklave",
+      "STRF_1138_Addon_Sklave",
+      "STRF_1129_Addon_Sklave",
+      "STRF_1136_Addon_Sklave",
+      "STRF_1141_Addon_Sklave"
     ],
     "G": "1",
     "source": "self",
@@ -8617,18 +8617,18 @@
     "text": "Nic nie zrobiłem! Zostaw mnie w spokoju.",
     "source_file": "B_AssignAmbientInfos_Addon_Sklaven_3.d",
     "npcs": [
-      "STRF_1130_Addon_Sklave",
-      "STRF_1139_Addon_Sklave",
-      "STRF_1129_Addon_Sklave",
-      "STRF_1143_Addon_Sklave",
-      "STRF_1136_Addon_Sklave",
       "STRF_1144_Addon_Sklave",
-      "STRF_1141_Addon_Sklave",
-      "STRF_1138_Addon_Sklave",
-      "STRF_1137_Addon_Sklave",
       "STRF_1128_Addon_Sklave",
+      "STRF_1140_Addon_Sklave",
+      "STRF_1139_Addon_Sklave",
+      "STRF_1137_Addon_Sklave",
+      "STRF_1130_Addon_Sklave",
       "STRF_1142_Addon_Sklave",
-      "STRF_1140_Addon_Sklave"
+      "STRF_1143_Addon_Sklave",
+      "STRF_1138_Addon_Sklave",
+      "STRF_1129_Addon_Sklave",
+      "STRF_1136_Addon_Sklave",
+      "STRF_1141_Addon_Sklave"
     ],
     "G": "1",
     "source": "self",
@@ -8645,18 +8645,18 @@
     "text": "Proszę, nie bij mnie!",
     "source_file": "B_AssignAmbientInfos_Addon_Sklaven_3.d",
     "npcs": [
-      "STRF_1130_Addon_Sklave",
-      "STRF_1139_Addon_Sklave",
-      "STRF_1129_Addon_Sklave",
-      "STRF_1143_Addon_Sklave",
-      "STRF_1136_Addon_Sklave",
       "STRF_1144_Addon_Sklave",
-      "STRF_1141_Addon_Sklave",
-      "STRF_1138_Addon_Sklave",
-      "STRF_1137_Addon_Sklave",
       "STRF_1128_Addon_Sklave",
+      "STRF_1140_Addon_Sklave",
+      "STRF_1139_Addon_Sklave",
+      "STRF_1137_Addon_Sklave",
+      "STRF_1130_Addon_Sklave",
       "STRF_1142_Addon_Sklave",
-      "STRF_1140_Addon_Sklave"
+      "STRF_1143_Addon_Sklave",
+      "STRF_1138_Addon_Sklave",
+      "STRF_1129_Addon_Sklave",
+      "STRF_1136_Addon_Sklave",
+      "STRF_1141_Addon_Sklave"
     ],
     "G": "1",
     "source": "self",
@@ -8691,9 +8691,9 @@
     "source_file": "B_AssignAmbientInfos_Addon_BL_BDT_1.d",
     "npcs": [
       "BDT_10006_Addon_Bandit",
-      "BDT_10002_Addon_Bandit_M",
+      "BDT_10010_Addon_Bandit",
       "BDT_10001_Addon_Bandit_L",
-      "BDT_10010_Addon_Bandit"
+      "BDT_10002_Addon_Bandit_M"
     ],
     "G": "1",
     "source": "self",
@@ -8711,9 +8711,9 @@
     "source_file": "B_AssignAmbientInfos_Addon_BL_BDT_1.d",
     "npcs": [
       "BDT_10006_Addon_Bandit",
-      "BDT_10002_Addon_Bandit_M",
+      "BDT_10010_Addon_Bandit",
       "BDT_10001_Addon_Bandit_L",
-      "BDT_10010_Addon_Bandit"
+      "BDT_10002_Addon_Bandit_M"
     ],
     "G": "1",
     "source": "self",
@@ -8731,9 +8731,9 @@
     "source_file": "B_AssignAmbientInfos_Addon_BL_BDT_1.d",
     "npcs": [
       "BDT_10006_Addon_Bandit",
-      "BDT_10002_Addon_Bandit_M",
+      "BDT_10010_Addon_Bandit",
       "BDT_10001_Addon_Bandit_L",
-      "BDT_10010_Addon_Bandit"
+      "BDT_10002_Addon_Bandit_M"
     ],
     "G": "1",
     "source": "self",
@@ -8751,9 +8751,9 @@
     "source_file": "B_AssignAmbientInfos_Addon_BL_BDT_1.d",
     "npcs": [
       "BDT_10006_Addon_Bandit",
-      "BDT_10002_Addon_Bandit_M",
+      "BDT_10010_Addon_Bandit",
       "BDT_10001_Addon_Bandit_L",
-      "BDT_10010_Addon_Bandit"
+      "BDT_10002_Addon_Bandit_M"
     ],
     "G": "1",
     "source": "self",
@@ -8788,9 +8788,9 @@
     "source_file": "B_AssignAmbientInfos_Addon_BL_BDT_1.d",
     "npcs": [
       "BDT_10006_Addon_Bandit",
-      "BDT_10002_Addon_Bandit_M",
+      "BDT_10010_Addon_Bandit",
       "BDT_10001_Addon_Bandit_L",
-      "BDT_10010_Addon_Bandit"
+      "BDT_10002_Addon_Bandit_M"
     ],
     "G": "1",
     "source": "self",
@@ -8808,9 +8808,9 @@
     "source_file": "B_AssignAmbientInfos_Addon_BL_BDT_1.d",
     "npcs": [
       "BDT_10006_Addon_Bandit",
-      "BDT_10002_Addon_Bandit_M",
+      "BDT_10010_Addon_Bandit",
       "BDT_10001_Addon_Bandit_L",
-      "BDT_10010_Addon_Bandit"
+      "BDT_10002_Addon_Bandit_M"
     ],
     "G": "1",
     "source": "self",
@@ -8828,9 +8828,9 @@
     "source_file": "B_AssignAmbientInfos_Addon_BL_BDT_1.d",
     "npcs": [
       "BDT_10006_Addon_Bandit",
-      "BDT_10002_Addon_Bandit_M",
+      "BDT_10010_Addon_Bandit",
       "BDT_10001_Addon_Bandit_L",
-      "BDT_10010_Addon_Bandit"
+      "BDT_10002_Addon_Bandit_M"
     ],
     "G": "1",
     "source": "self",
@@ -8865,9 +8865,9 @@
     "source_file": "B_AssignAmbientInfos_Addon_BL_BDT_1.d",
     "npcs": [
       "BDT_10006_Addon_Bandit",
-      "BDT_10002_Addon_Bandit_M",
+      "BDT_10010_Addon_Bandit",
       "BDT_10001_Addon_Bandit_L",
-      "BDT_10010_Addon_Bandit"
+      "BDT_10002_Addon_Bandit_M"
     ],
     "G": "1",
     "source": "self",
@@ -8885,9 +8885,9 @@
     "source_file": "B_AssignAmbientInfos_Addon_BL_BDT_1.d",
     "npcs": [
       "BDT_10006_Addon_Bandit",
-      "BDT_10002_Addon_Bandit_M",
+      "BDT_10010_Addon_Bandit",
       "BDT_10001_Addon_Bandit_L",
-      "BDT_10010_Addon_Bandit"
+      "BDT_10002_Addon_Bandit_M"
     ],
     "G": "1",
     "source": "self",
@@ -8922,9 +8922,9 @@
     "source_file": "B_AssignAmbientInfos_Addon_BL_BDT_1.d",
     "npcs": [
       "BDT_10006_Addon_Bandit",
-      "BDT_10002_Addon_Bandit_M",
+      "BDT_10010_Addon_Bandit",
       "BDT_10001_Addon_Bandit_L",
-      "BDT_10010_Addon_Bandit"
+      "BDT_10002_Addon_Bandit_M"
     ],
     "G": "1",
     "source": "self",
@@ -8942,9 +8942,9 @@
     "source_file": "B_AssignAmbientInfos_Addon_BL_BDT_1.d",
     "npcs": [
       "BDT_10006_Addon_Bandit",
-      "BDT_10002_Addon_Bandit_M",
+      "BDT_10010_Addon_Bandit",
       "BDT_10001_Addon_Bandit_L",
-      "BDT_10010_Addon_Bandit"
+      "BDT_10002_Addon_Bandit_M"
     ],
     "G": "1",
     "source": "self",
@@ -8962,9 +8962,9 @@
     "source_file": "B_AssignAmbientInfos_Addon_BL_BDT_1.d",
     "npcs": [
       "BDT_10006_Addon_Bandit",
-      "BDT_10002_Addon_Bandit_M",
+      "BDT_10010_Addon_Bandit",
       "BDT_10001_Addon_Bandit_L",
-      "BDT_10010_Addon_Bandit"
+      "BDT_10002_Addon_Bandit_M"
     ],
     "G": "1",
     "source": "self",
@@ -8999,9 +8999,9 @@
     "source_file": "B_AssignAmbientInfos_Addon_BL_BDT_1.d",
     "npcs": [
       "BDT_10006_Addon_Bandit",
-      "BDT_10002_Addon_Bandit_M",
+      "BDT_10010_Addon_Bandit",
       "BDT_10001_Addon_Bandit_L",
-      "BDT_10010_Addon_Bandit"
+      "BDT_10002_Addon_Bandit_M"
     ],
     "G": "1",
     "source": "self",
@@ -9019,9 +9019,9 @@
     "source_file": "B_AssignAmbientInfos_Addon_BL_BDT_1.d",
     "npcs": [
       "BDT_10006_Addon_Bandit",
-      "BDT_10002_Addon_Bandit_M",
+      "BDT_10010_Addon_Bandit",
       "BDT_10001_Addon_Bandit_L",
-      "BDT_10010_Addon_Bandit"
+      "BDT_10002_Addon_Bandit_M"
     ],
     "G": "1",
     "source": "self",
@@ -9056,9 +9056,9 @@
     "source_file": "B_AssignAmbientInfos_Addon_BL_BDT_1.d",
     "npcs": [
       "BDT_10006_Addon_Bandit",
-      "BDT_10002_Addon_Bandit_M",
+      "BDT_10010_Addon_Bandit",
       "BDT_10001_Addon_Bandit_L",
-      "BDT_10010_Addon_Bandit"
+      "BDT_10002_Addon_Bandit_M"
     ],
     "G": "1",
     "source": "self",
@@ -9092,10 +9092,10 @@
     "text": "Nasz wspaniały przywódca Thorus. Dzięki niemu wszyscy będziemy bogaci.",
     "source_file": "B_AssignAmbientInfos_Addon_BL_BDT_13.d",
     "npcs": [
-      "BDT_10021_Addon_Wache",
+      "BDT_10009_Addon_Bandit",
       "BDT_10007_Addon_Bandit",
-      "BDT_10003_Addon_Bandit_H",
-      "BDT_10009_Addon_Bandit"
+      "BDT_10021_Addon_Wache",
+      "BDT_10003_Addon_Bandit_H"
     ],
     "G": "1",
     "source": "self",
@@ -9112,10 +9112,10 @@
     "text": "Nasz wspaniały przywódca.... Eee... Nie mam pojęcia...",
     "source_file": "B_AssignAmbientInfos_Addon_BL_BDT_13.d",
     "npcs": [
-      "BDT_10021_Addon_Wache",
+      "BDT_10009_Addon_Bandit",
       "BDT_10007_Addon_Bandit",
-      "BDT_10003_Addon_Bandit_H",
-      "BDT_10009_Addon_Bandit"
+      "BDT_10021_Addon_Wache",
+      "BDT_10003_Addon_Bandit_H"
     ],
     "G": "1",
     "source": "self",
@@ -9132,10 +9132,10 @@
     "text": "Nasz wspaniały przywódca, Kruk. Dzięki niemu wszyscy będziemy bogaci.",
     "source_file": "B_AssignAmbientInfos_Addon_BL_BDT_13.d",
     "npcs": [
-      "BDT_10021_Addon_Wache",
+      "BDT_10009_Addon_Bandit",
       "BDT_10007_Addon_Bandit",
-      "BDT_10003_Addon_Bandit_H",
-      "BDT_10009_Addon_Bandit"
+      "BDT_10021_Addon_Wache",
+      "BDT_10003_Addon_Bandit_H"
     ],
     "G": "1",
     "source": "self",
@@ -9169,10 +9169,10 @@
     "text": "Porozmawiaj ze Snafem, jeśli chcesz się czegoś dowiedzieć. Ten spasiony kucharz sporo wie.",
     "source_file": "B_AssignAmbientInfos_Addon_BL_BDT_13.d",
     "npcs": [
-      "BDT_10021_Addon_Wache",
+      "BDT_10009_Addon_Bandit",
       "BDT_10007_Addon_Bandit",
-      "BDT_10003_Addon_Bandit_H",
-      "BDT_10009_Addon_Bandit"
+      "BDT_10021_Addon_Wache",
+      "BDT_10003_Addon_Bandit_H"
     ],
     "G": "1",
     "source": "self",
@@ -9189,10 +9189,10 @@
     "text": "Jeśli chcesz coś kupić, poszukaj Fiska. On może załatwić niemal wszystko...",
     "source_file": "B_AssignAmbientInfos_Addon_BL_BDT_13.d",
     "npcs": [
-      "BDT_10021_Addon_Wache",
+      "BDT_10009_Addon_Bandit",
       "BDT_10007_Addon_Bandit",
-      "BDT_10003_Addon_Bandit_H",
-      "BDT_10009_Addon_Bandit"
+      "BDT_10021_Addon_Wache",
+      "BDT_10003_Addon_Bandit_H"
     ],
     "G": "1",
     "source": "self",
@@ -9226,10 +9226,10 @@
     "text": "Kruk nie żyje. Teraz NIGDY nie wydostaniemy się z tej wyspy.",
     "source_file": "B_AssignAmbientInfos_Addon_BL_BDT_13.d",
     "npcs": [
-      "BDT_10021_Addon_Wache",
+      "BDT_10009_Addon_Bandit",
       "BDT_10007_Addon_Bandit",
-      "BDT_10003_Addon_Bandit_H",
-      "BDT_10009_Addon_Bandit"
+      "BDT_10021_Addon_Wache",
+      "BDT_10003_Addon_Bandit_H"
     ],
     "G": "1",
     "source": "self",
@@ -9246,10 +9246,10 @@
     "text": "Piraci postawili żagle i zwiali.",
     "source_file": "B_AssignAmbientInfos_Addon_BL_BDT_13.d",
     "npcs": [
-      "BDT_10021_Addon_Wache",
+      "BDT_10009_Addon_Bandit",
       "BDT_10007_Addon_Bandit",
-      "BDT_10003_Addon_Bandit_H",
-      "BDT_10009_Addon_Bandit"
+      "BDT_10021_Addon_Wache",
+      "BDT_10003_Addon_Bandit_H"
     ],
     "G": "1",
     "source": "self",
@@ -9266,10 +9266,10 @@
     "text": "Na plaży zostało tylko paru idiotów, którzy nie mają nawet porządnego statku.",
     "source_file": "B_AssignAmbientInfos_Addon_BL_BDT_13.d",
     "npcs": [
-      "BDT_10021_Addon_Wache",
+      "BDT_10009_Addon_Bandit",
       "BDT_10007_Addon_Bandit",
-      "BDT_10003_Addon_Bandit_H",
-      "BDT_10009_Addon_Bandit"
+      "BDT_10021_Addon_Wache",
+      "BDT_10003_Addon_Bandit_H"
     ],
     "G": "1",
     "source": "self",
@@ -9286,10 +9286,10 @@
     "text": "Nawet Beliar nie wie, jak można się wydostać z tej wyspy.",
     "source_file": "B_AssignAmbientInfos_Addon_BL_BDT_13.d",
     "npcs": [
-      "BDT_10021_Addon_Wache",
+      "BDT_10009_Addon_Bandit",
       "BDT_10007_Addon_Bandit",
-      "BDT_10003_Addon_Bandit_H",
-      "BDT_10009_Addon_Bandit"
+      "BDT_10021_Addon_Wache",
+      "BDT_10003_Addon_Bandit_H"
     ],
     "G": "1",
     "source": "self",
@@ -9323,10 +9323,10 @@
     "text": "Dobre pytanie. Czyż nie po to wszyscy tu jesteśmy?",
     "source_file": "B_AssignAmbientInfos_Addon_BL_BDT_13.d",
     "npcs": [
-      "BDT_10021_Addon_Wache",
+      "BDT_10009_Addon_Bandit",
       "BDT_10007_Addon_Bandit",
-      "BDT_10003_Addon_Bandit_H",
-      "BDT_10009_Addon_Bandit"
+      "BDT_10021_Addon_Wache",
+      "BDT_10003_Addon_Bandit_H"
     ],
     "G": "1",
     "source": "self",
@@ -9343,10 +9343,10 @@
     "text": "Zdobądź czerwony kamień i daj go Thorusowi, a będziesz mógł wejść do kopalni.",
     "source_file": "B_AssignAmbientInfos_Addon_BL_BDT_13.d",
     "npcs": [
-      "BDT_10021_Addon_Wache",
+      "BDT_10009_Addon_Bandit",
       "BDT_10007_Addon_Bandit",
-      "BDT_10003_Addon_Bandit_H",
-      "BDT_10009_Addon_Bandit"
+      "BDT_10021_Addon_Wache",
+      "BDT_10003_Addon_Bandit_H"
     ],
     "G": "1",
     "source": "self",
@@ -9363,10 +9363,10 @@
     "text": "Żarty sobie stroisz? Spadaj!",
     "source_file": "B_AssignAmbientInfos_Addon_BL_BDT_13.d",
     "npcs": [
-      "BDT_10021_Addon_Wache",
+      "BDT_10009_Addon_Bandit",
       "BDT_10007_Addon_Bandit",
-      "BDT_10003_Addon_Bandit_H",
-      "BDT_10009_Addon_Bandit"
+      "BDT_10021_Addon_Wache",
+      "BDT_10003_Addon_Bandit_H"
     ],
     "G": "1",
     "source": "self",
@@ -9383,10 +9383,10 @@
     "text": "Koniec z uprzejmościami!",
     "source_file": "B_AssignAmbientInfos_Addon_BL_BDT_13.d",
     "npcs": [
-      "BDT_10021_Addon_Wache",
+      "BDT_10009_Addon_Bandit",
       "BDT_10007_Addon_Bandit",
-      "BDT_10003_Addon_Bandit_H",
-      "BDT_10009_Addon_Bandit"
+      "BDT_10021_Addon_Wache",
+      "BDT_10003_Addon_Bandit_H"
     ],
     "G": "1",
     "source": "self",
@@ -9421,9 +9421,9 @@
     "source_file": "B_AssignAmbientInfos_Addon_TAL_BDT_1.d",
     "npcs": [
       "BDT_10016_Addon_Bandit",
-      "BDT_1087_Addon_Bandit",
       "BDT_1077_Addon_Bandit",
-      "BDT_10011_Addon_Bandit"
+      "BDT_10011_Addon_Bandit",
+      "BDT_1087_Addon_Bandit"
     ],
     "G": "1",
     "source": "self",
@@ -9441,9 +9441,9 @@
     "source_file": "B_AssignAmbientInfos_Addon_TAL_BDT_1.d",
     "npcs": [
       "BDT_10016_Addon_Bandit",
-      "BDT_1087_Addon_Bandit",
       "BDT_1077_Addon_Bandit",
-      "BDT_10011_Addon_Bandit"
+      "BDT_10011_Addon_Bandit",
+      "BDT_1087_Addon_Bandit"
     ],
     "G": "1",
     "source": "self",
@@ -9461,9 +9461,9 @@
     "source_file": "B_AssignAmbientInfos_Addon_TAL_BDT_1.d",
     "npcs": [
       "BDT_10016_Addon_Bandit",
-      "BDT_1087_Addon_Bandit",
       "BDT_1077_Addon_Bandit",
-      "BDT_10011_Addon_Bandit"
+      "BDT_10011_Addon_Bandit",
+      "BDT_1087_Addon_Bandit"
     ],
     "G": "1",
     "source": "self",
@@ -9498,9 +9498,9 @@
     "source_file": "B_AssignAmbientInfos_Addon_TAL_BDT_1.d",
     "npcs": [
       "BDT_10016_Addon_Bandit",
-      "BDT_1087_Addon_Bandit",
       "BDT_1077_Addon_Bandit",
-      "BDT_10011_Addon_Bandit"
+      "BDT_10011_Addon_Bandit",
+      "BDT_1087_Addon_Bandit"
     ],
     "G": "1",
     "source": "self",
@@ -9518,9 +9518,9 @@
     "source_file": "B_AssignAmbientInfos_Addon_TAL_BDT_1.d",
     "npcs": [
       "BDT_10016_Addon_Bandit",
-      "BDT_1087_Addon_Bandit",
       "BDT_1077_Addon_Bandit",
-      "BDT_10011_Addon_Bandit"
+      "BDT_10011_Addon_Bandit",
+      "BDT_1087_Addon_Bandit"
     ],
     "G": "1",
     "source": "self",
@@ -9555,9 +9555,9 @@
     "source_file": "B_AssignAmbientInfos_Addon_TAL_BDT_1.d",
     "npcs": [
       "BDT_10016_Addon_Bandit",
-      "BDT_1087_Addon_Bandit",
       "BDT_1077_Addon_Bandit",
-      "BDT_10011_Addon_Bandit"
+      "BDT_10011_Addon_Bandit",
+      "BDT_1087_Addon_Bandit"
     ],
     "G": "1",
     "source": "self",
@@ -9575,9 +9575,9 @@
     "source_file": "B_AssignAmbientInfos_Addon_TAL_BDT_1.d",
     "npcs": [
       "BDT_10016_Addon_Bandit",
-      "BDT_1087_Addon_Bandit",
       "BDT_1077_Addon_Bandit",
-      "BDT_10011_Addon_Bandit"
+      "BDT_10011_Addon_Bandit",
+      "BDT_1087_Addon_Bandit"
     ],
     "G": "1",
     "source": "self",
@@ -9595,9 +9595,9 @@
     "source_file": "B_AssignAmbientInfos_Addon_TAL_BDT_1.d",
     "npcs": [
       "BDT_10016_Addon_Bandit",
-      "BDT_1087_Addon_Bandit",
       "BDT_1077_Addon_Bandit",
-      "BDT_10011_Addon_Bandit"
+      "BDT_10011_Addon_Bandit",
+      "BDT_1087_Addon_Bandit"
     ],
     "G": "1",
     "source": "self",
@@ -9631,10 +9631,10 @@
     "text": "Pożre cię jakaś bestia albo skończysz w brzuchu jakiegoś bydlęcia.",
     "source_file": "B_AssignAmbientInfos_Addon_TAL_BDT_13.d",
     "npcs": [
-      "BDT_1076_Addon_Bandit",
-      "BDT_1078_Addon_Bandit",
       "BDT_10013_Addon_Bandit",
-      "BDT_10012_Addon_Bandit"
+      "BDT_1078_Addon_Bandit",
+      "BDT_10012_Addon_Bandit",
+      "BDT_1076_Addon_Bandit"
     ],
     "G": "1",
     "source": "self",
@@ -9651,10 +9651,10 @@
     "text": "To bagno będzie naszym grobem...",
     "source_file": "B_AssignAmbientInfos_Addon_TAL_BDT_13.d",
     "npcs": [
-      "BDT_1076_Addon_Bandit",
-      "BDT_1078_Addon_Bandit",
       "BDT_10013_Addon_Bandit",
-      "BDT_10012_Addon_Bandit"
+      "BDT_1078_Addon_Bandit",
+      "BDT_10012_Addon_Bandit",
+      "BDT_1076_Addon_Bandit"
     ],
     "G": "1",
     "source": "self",
@@ -9688,10 +9688,10 @@
     "text": "Pełno w niej starych rzeczy. Kruk kazał nam wszystko zbierać.",
     "source_file": "B_AssignAmbientInfos_Addon_TAL_BDT_13.d",
     "npcs": [
-      "BDT_1076_Addon_Bandit",
-      "BDT_1078_Addon_Bandit",
       "BDT_10013_Addon_Bandit",
-      "BDT_10012_Addon_Bandit"
+      "BDT_1078_Addon_Bandit",
+      "BDT_10012_Addon_Bandit",
+      "BDT_1076_Addon_Bandit"
     ],
     "G": "1",
     "source": "self",
@@ -9708,10 +9708,10 @@
     "text": "Nie mam pojęcia, po co mu to, ale nikt przy zdrowych zmysłach nie będzie nadstawiał karku za parę kamyków...",
     "source_file": "B_AssignAmbientInfos_Addon_TAL_BDT_13.d",
     "npcs": [
-      "BDT_1076_Addon_Bandit",
-      "BDT_1078_Addon_Bandit",
       "BDT_10013_Addon_Bandit",
-      "BDT_10012_Addon_Bandit"
+      "BDT_1078_Addon_Bandit",
+      "BDT_10012_Addon_Bandit",
+      "BDT_1076_Addon_Bandit"
     ],
     "G": "1",
     "source": "self",
@@ -9745,10 +9745,10 @@
     "text": "Poprztykaliśmy się z piratami.",
     "source_file": "B_AssignAmbientInfos_Addon_TAL_BDT_13.d",
     "npcs": [
-      "BDT_1076_Addon_Bandit",
-      "BDT_1078_Addon_Bandit",
       "BDT_10013_Addon_Bandit",
-      "BDT_10012_Addon_Bandit"
+      "BDT_1078_Addon_Bandit",
+      "BDT_10012_Addon_Bandit",
+      "BDT_1076_Addon_Bandit"
     ],
     "G": "1",
     "source": "self",
@@ -9765,10 +9765,10 @@
     "text": "Dostarczali nam więźniów, ale nie dostali za to złamanego miedziaka. Nic dziwnego, że są wściekli.",
     "source_file": "B_AssignAmbientInfos_Addon_TAL_BDT_13.d",
     "npcs": [
-      "BDT_1076_Addon_Bandit",
-      "BDT_1078_Addon_Bandit",
       "BDT_10013_Addon_Bandit",
-      "BDT_10012_Addon_Bandit"
+      "BDT_1078_Addon_Bandit",
+      "BDT_10012_Addon_Bandit",
+      "BDT_1076_Addon_Bandit"
     ],
     "G": "1",
     "source": "self",
@@ -9785,10 +9785,10 @@
     "text": "Ale co mogą zrobić? Zaatakować obóz?",
     "source_file": "B_AssignAmbientInfos_Addon_TAL_BDT_13.d",
     "npcs": [
-      "BDT_1076_Addon_Bandit",
-      "BDT_1078_Addon_Bandit",
       "BDT_10013_Addon_Bandit",
-      "BDT_10012_Addon_Bandit"
+      "BDT_1078_Addon_Bandit",
+      "BDT_10012_Addon_Bandit",
+      "BDT_1076_Addon_Bandit"
     ],
     "G": "1",
     "source": "self",

@@ -1,10 +1,12 @@
 import os
 import re
 import json
+import pathlib
 
-svm_path = '../../PrjGothic/Story/svm.d'
-output_path = '../../results/gothic_1/svm_waves.json'
+basepath = pathlib.Path(__file__).parent.resolve() / '../..'
 
+svm_path = basepath / 'sources/gothic_1/PrjGothic/Story/svm.d'
+output_path = basepath / 'results/gothic_1/svm_waves.json'
 
 def main():
     with open(svm_path, 'r', encoding='Windows-1250') as src:

@@ -1,16 +1,20 @@
 import os
 import re
 import json
+import pathlib
 from parsers.utils import load_npcs_2, extract_sounds
 
-source_folder = './GameScripts/SolGothic2/PrjGOTHIC/Story/Dialoge'
+basepath = pathlib.Path(__file__).parent.resolve() / '../..'
+
+
+source_folder = basepath / 'sources/gothic_2/PrjGOTHIC/Story/Dialoge'
 excluded_files = [
     'DIA_extro_avi.d',
     'DIA_FH.d',
     'DIA_OrcElite_AntiPaladin1.d'
 ]
 
-output_file = './results/gothic_2/mission_waves.json'
+output_file = basepath / 'results/gothic_2/mission_waves.json'
 
 
 def get_npc_from_mission(file):
@@ -30,8 +34,8 @@ def main():
     total_waves = []
     for file in files:
         if file not in excluded_files:
-            waves = extract_sounds(source_folder + '/' + file)
-            npc = get_npc_from_mission(source_folder + '/' + file)
+            waves = extract_sounds(source_folder / file)
+            npc = get_npc_from_mission(source_folder / file)
             if npc in npcs_dict:
                 for wave in waves:
                     if wave["source"] == 'self':

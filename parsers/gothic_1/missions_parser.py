@@ -1,15 +1,18 @@
 import os
 import re
 import json
-import sys
-import utils
+import parsers.utils as utils
+import pathlib
 
-source_folder = './PrjGothic/Story/MISSIONS'
+basepath = pathlib.Path(__file__).parent.resolve() / '../..'
+
+
+source_folder = basepath / 'sources/gothic_1/PrjGothic/Story/MISSIONS'
 excluded_files = [
     'DIA_extro_avi.d'
 ]
 
-output_file = './results/gothic_1/mission_waves.json'
+output_file = basepath / 'results/gothic_1/mission_waves.json'
 
 
 def get_npc_from_mission(file):
@@ -30,8 +33,8 @@ def main():
     total_waves = []
     for file in files:
         if file not in excluded_files:
-            waves = utils.extract_sounds(source_folder + '/' + file)
-            npc = get_npc_from_mission(source_folder + '/' + file)
+            waves = utils.extract_sounds(source_folder / file)
+            npc = get_npc_from_mission(source_folder / file)
             if npc in npcs_dict:
                 for wave in waves:
                     if wave["source"] == 'self':

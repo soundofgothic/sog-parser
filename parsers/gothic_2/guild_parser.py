@@ -1,8 +1,13 @@
 import re
 import json
+import pathlib
 from parsers.utils import extract_sounds, extract_sounds_from_text
 
-base_path = '../../GameScripts/SolGothic2/PrjGOTHIC/Story/B_AssignAmbientInfos'
+basepath = pathlib.Path(__file__).parent.resolve() / '../..'
+
+base_path = basepath / 'sources/gothic_2/PrjGOTHIC/Story/B_AssignAmbientInfos'
+npc_path = basepath / 'results/gothic_2/npc.json'
+output_path = basepath / 'results/gothic_2/guild_waves.json'
 
 def parse_single_script(script):
     with open(script, 'r', encoding='Windows-1250') as src:
@@ -144,14 +149,14 @@ sources = [
 ]
 
 def main():
-    with open("../../results/gothic_2/npc.json", 'r', encoding='utf8') as src:
+    with open(npc_path, 'r', encoding='utf8') as src:
         npcs = json.load(src)
 
     texts_per_file = {}
     for source in sources:
         for guild_name, guild in source["guilds"].items():
             for file in guild:
-                texts_per_file[file] = extract_sounds(base_path + '/' + file + '.d')
+                texts_per_file[file] = extract_sounds(base_path / (file + '.d'))
                 for wave in texts_per_file[file]:
                     wave["target"] = {
                         "guild": guild_name,
@@ -174,7 +179,7 @@ def main():
             recording["npcs"] = list(recording["npcs"])
             waves.append(recording)
 
-    with open("../../results/gothic_2/guild_waves.json", 'wb') as output:
+    with open(output_path, 'wb') as output:
         output.write(json.dumps(waves, ensure_ascii=False, indent=2).encode('utf8'))
 
 

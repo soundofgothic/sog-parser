@@ -1,7 +1,8 @@
 import re
 import json
 import pathlib
-basepath = pathlib.Path(__file__).parent.resolve()
+
+basepath = pathlib.Path(__file__).parent.resolve() / ".."
 
 
 
@@ -39,7 +40,7 @@ def extract_sounds_from_text(text, file_path, gothic_version='1'):
             meta = {
                 "wave": wave,
                 "text": translation,
-                "source_file": file_path.split('/')[-1],
+                "source_file": file_path.name,
                 "npcs": set(),
                 "G": gothic_version
             }
@@ -60,16 +61,16 @@ def extract_sounds_from_text(text, file_path, gothic_version='1'):
 
 
 def load_npcs():
-    with open(basepath / "../results/gothic_1/npc.json", 'r') as src:
+    with open(basepath / "results/gothic_1/npc.json", 'r') as src:
         npcs = json.load(src)
     return npcs
 
 def load_guilds():
-    with open(basepath / "../results/gothic_1/npc.json", 'r') as src:
+    with open(basepath / "results/gothic_1/npc.json", 'r') as src:
         guilds = json.load(src)
     return guilds
 
 def load_npcs_2():
-    with open("./results/gothic_2/npc.json", 'r', encoding='utf8') as src:
+    with open(basepath / "results/gothic_2/npc.json", 'r', encoding='utf8') as src:
         npcs = json.load(src)
     return npcs

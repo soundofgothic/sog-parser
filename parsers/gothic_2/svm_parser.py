@@ -1,9 +1,12 @@
 import os
 import re
 import json
+import pathlib
 
-svm_path = '../../GameScripts/SolGothic2/PrjGOTHIC/Story/SVM.d'
-output_path = '../../results/gothic_2/svm_waves.json'
+basepath = pathlib.Path(__file__).parent.resolve() / '../..'
+
+svm_path = basepath / 'sources/gothic_2/PrjGOTHIC/Story/SVM.d'
+output_path = basepath / 'results/gothic_2/svm_waves.json'
 
 
 def main():

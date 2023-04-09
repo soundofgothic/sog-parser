@@ -1,14 +1,9 @@
 version: '3.8'
 services:
   postgres:
-    image: postgres:15
-    container_name: postgres
-    environment:
-      POSTGRES_PASSWORD: postgres
+    image: soundofgothic/db:2.0
     volumes:
       - pgdata:/var/lib/postgresql/data
-      - ./01-schema.sql:/docker-entrypoint-initdb.d/01-schema.sql
-      - ./02-data.sql:/docker-entrypoint-initdb.d/02-data.sql
     ports:
       - 5432:5432
 

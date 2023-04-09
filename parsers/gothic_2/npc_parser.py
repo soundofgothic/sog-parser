@@ -1,10 +1,14 @@
 import os
 import re
 import json
+import pathlib
 
-source_folder = '../../GameScripts/SolGothic2/PrjGOTHIC/Story/NPC'
-names_path = '../../GameScripts/SolGothic2/PrjGOTHIC/Story/Text.d'
-output_json = '../../results/gothic_2/npc.json'
+basepath = pathlib.Path(__file__).parent.resolve() / '../..'
+
+
+source_folder = basepath / 'sources/gothic_2/PrjGOTHIC/Story/NPC'
+names_path = basepath / 'sources/gothic_2/PrjGOTHIC/Story/Text.d'
+output_json = basepath / 'results/gothic_2/npc.json'
 excluded_files = []
 extra_npc = {
     "Wisp_Detector": {
@@ -162,7 +166,7 @@ def guild_constants():
 
 
 def read_names():
-    with open(names_path, 'r') as src:
+    with open(names_path, 'r', encoding='Windows-1250') as src:
         lines = src.readlines()
 
     def line(pattern):
@@ -211,7 +215,7 @@ def process_npc(lines):
 
 
 def process_npc_file(file):
-    with open(file, 'r') as src:
+    with open(file, 'r', encoding='Windows-1250') as src:
         lines = src.readlines()
 
     splits = []
