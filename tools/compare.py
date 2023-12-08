@@ -3,7 +3,6 @@ import pathlib
 
 basepath = pathlib.Path(__file__).parent.resolve()
 
-
 def old_recordings():
     with open(basepath / "../2020dump.json", 'r', encoding='utf8') as file:
         for line in file:

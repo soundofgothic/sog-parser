@@ -282,13 +282,6 @@ def main():
         output_file.writelines(voices.voice_insert_line.format("-1", "Brak"))
         output_file.writelines(process_gothic_version(gothic1, voices, guilds, source_files, npcs, recordings))
         output_file.writelines(process_gothic_version(gothic2, voices, guilds, source_files, npcs, recordings))
-    
-    
-
-    
-
-    
-
 
 if __name__ == '__main__':
     main()
