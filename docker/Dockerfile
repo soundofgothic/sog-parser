@@ -1,8 +1,7 @@
 FROM python:3.12-slim as builder
 WORKDIR /app
 COPY . .
-# RUN mkdir -p /app/results/gothic_1
-# RUN mkdir -p /app/results/gothic_2
+RUN mkdir -p /app/results/gothic_1 /app/results/gothic_2
 
 RUN PYTHONPATH=/app:$PYTHONPATH ./process_scripts.sh
 RUN PYTHONPATH=/app:$PYTHONPATH python3 ./mappers/postgres/prepare.py
