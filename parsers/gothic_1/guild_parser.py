@@ -59,7 +59,7 @@ sources = [{
             "Info_Vlk_4_EXIT.d"
         ],
         "GIL_GRD": [
-            "Info_grd_6_EXIT.d",
+            "Info_Grd_6_EXIT.d",
             "Info_grd_7_EXIT.d",
             "Info_grd_13_EXIT.d"
         ],

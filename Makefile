@@ -6,8 +6,6 @@ VERSION := $(shell git describe --tags --always --dirty)
 # Set pythonpath
 export PYTHONPATH := $(shell pwd)
 
-all: jsons sql docker
-
 jsons:
 	@echo "Generating JSON files..."
 	@bash ./process_scripts.sh
@@ -32,7 +30,7 @@ stop:
 	docker stop sog-db
 
 clean:
-	rm -rf ./sources/gothic_1
-	rm -rf ./sources/gothic_2
+	rm -f ./results/gothic_1/*
+	rm -f ./results/gothic_2/*
 	rm ./mappers/postgres/02-data.sql
 

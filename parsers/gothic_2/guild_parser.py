@@ -97,15 +97,15 @@ sources = [
         "npc_type": "NPCTYPE_OCAMBIENT",
         "guilds": {
             "GIL_MIL": [
-                "B_AssignAmbientInfos_OCVLK_1",
-                "B_AssignAmbientInfos_OCVLK_6"
+                "B_AssignAmbientInfos_OcVLK_1",
+                "B_AssignAmbientInfos_OcVLK_6"
             ],
             "GIL_PAL": [
-                "B_AssignAmbientInfos_OCPAL_4",
-                "B_AssignAmbientInfos_OCPAL_9"
+                "B_AssignAmbientInfos_OcPAL_4",
+                "B_AssignAmbientInfos_OcPAL_9"
             ],
             "GIL_OUT": [
-                "B_AssignAmbientInfos_OWPAL_4"
+                "B_AssignAmbientInfos_OwPAL_4"
             ]
         }
     },
