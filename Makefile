@@ -1,7 +1,12 @@
-.PHONY: jsons
+.PHONY: jsons sql docker run psql stop clean
 
 # Get version from git
 VERSION := $(shell git describe --tags --always --dirty)
+DOCKER_CMD := docker
+# use podman if available
+ifneq (, $(shell which podman))
+  DOCKER_CMD := podman
+endif
 
 # Set pythonpath
 export PYTHONPATH := $(shell pwd)
@@ -18,16 +23,16 @@ sql:
 
 docker:
 	cd mappers/postgres && \
-	docker build . -t soundofgothic/db:$(VERSION)
+	$(DOCKER_CMD) build --no-cache . -t soundofgothic/db:$(VERSION)
 
 run: 
-	docker run --name sog-db --rm -p 5432:5432 -d soundofgothic/db:$(VERSION)
+	$(DOCKER_CMD) run --name sog-db --rm -p 5432:5432 -d soundofgothic/db:$(VERSION)
 
 psql: 
-	docker exec -it sog-db psql -U postgres
+	$(DOCKER_CMD) exec -it sog-db psql -U postgres
 
 stop:
-	docker stop sog-db
+	$(DOCKER_CMD) stop sog-db
 
 clean:
 	rm -f ./results/gothic_1/*

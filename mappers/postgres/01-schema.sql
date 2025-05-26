@@ -1,4 +1,21 @@
 -- Postgres schema for the mappers
+CREATE TEXT SEARCH DICTIONARY pl_ispell (
+  Template = ispell,
+  DictFile = polish,
+  AffFile = polish
+--   StopWords = polish
+);
+
+CREATE TEXT SEARCH CONFIGURATION pl_ispell (parser = default);
+
+ALTER TEXT SEARCH CONFIGURATION pl_ispell ALTER MAPPING FOR asciiword, asciihword, hword_asciipart, word, hword, hword_part WITH pl_ispell;
+
+CREATE FUNCTION update_search_vector() RETURNS trigger AS $$
+BEGIN
+  NEW.search_vector := to_tsvector('pl_ispell', COALESCE(NEW.transcript, ''));
+  RETURN NEW;
+END
+$$ LANGUAGE plpgsql;
 
 CREATE TABLE games (
     id SERIAL PRIMARY KEY,
@@ -54,6 +71,7 @@ CREATE TABLE recordings (
     id SERIAL PRIMARY KEY,
     wave TEXT NOT NULL,
     transcript TEXT NOT NULL,
+    search_vector tsvector,
     game_id INTEGER NOT NULL,
     source_file_id INTEGER NOT NULL,
     voice_id INTEGER NOT NULL,
@@ -77,3 +95,10 @@ ALTER TABLE recordings ADD FOREIGN KEY (source_file_id) REFERENCES source_files(
 ALTER TABLE recordings ADD FOREIGN KEY (voice_id) REFERENCES voices(id);
 ALTER TABLE recordings ADD FOREIGN KEY (guild_id) REFERENCES guilds(id);
 ALTER TABLE recordings ADD FOREIGN KEY (npc_id) REFERENCES npcs(id);
+
+CREATE TRIGGER tsvectorupdate
+BEFORE INSERT OR UPDATE ON recordings
+FOR EACH ROW EXECUTE FUNCTION update_search_vector();
+
+CREATE INDEX recordings_search_vector_idx
+ON recordings USING GIN (search_vector);

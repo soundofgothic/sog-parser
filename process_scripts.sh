@@ -2,6 +2,9 @@
 
 set -e
 
+mkdir -p results/gothic_1
+mkdir -p results/gothic_2
+
 # This script is used to process the scripts in the sources directory and create json files storing info audio waves, npc, guilds, etc.
 SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 export PYTHONPATH=$SCRIPT_DIR:$PYTHONPATH
